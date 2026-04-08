@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "009a8bd3982a9ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f162a0cf530be676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670fa84144928ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bible-survey/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d27f907d0e54e99f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c822977b5d8c84c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d5bad37977880f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ecff5c54159e5ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d3eecc075eeefe5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d76f03ba2442104f",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b53762a6e41b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15191d9240ed9bc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bible-survey/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _index"
+            }
+          },
+          {
+            "id": "2fef85bbec51f1ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bible-survey/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _index"
+            }
+          },
+          {
+            "id": "5e84936f9772c20f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59c786b1e0c5b61a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa0af12034b0da56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bible-survey/_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "670fa84144928ead",
+  "lastOpenFiles": [
+    "bible-survey/index.md",
+    "bible-survey/New Text Document.txt",
+    "bible-survey/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
+    "home.md",
+    "bible-survey/Overview of Genesis 1 – 11 - The Foundations of Everything.md"
+  ]
+}
