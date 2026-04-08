@@ -72,17 +72,6 @@ enableEmoji = true
       type = 'fragments'
       weight = 10
 
-[languages]
-
-  [languages.en]
-    languageName = "English"
-	title = "Words of Life Library"
-    weight = 1
-
-  [languages.bn]
-    languageName = "Bangla"
-	title = "Words of Life Library"
-    weight = 2
  [params]
   #disableLandingPage = true
   disableTurbo = true
