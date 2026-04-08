@@ -7,7 +7,7 @@ publishDir = "docs"
 theme = "blowfish"
 baseURL = "https://wordsoflifelibrary.org/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 pluralizeListTitles = false # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
