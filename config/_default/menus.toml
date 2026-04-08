@@ -12,12 +12,12 @@
 
 [[main]]
   name = "Bible Survey"
-  url = "/en/bible-survey/"
+  url = "/bible-survey/"
   weight = 10
 
 [[main]]
   name = "Book-by-Book Bible Overview"
-  url = "/en/book-by-book-bible-overview/"
+  url = "/book-by-book-bible-overview/"
   weight = 20
 
 #[[main]]

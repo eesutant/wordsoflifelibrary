@@ -1,7 +1,6 @@
 ---
 title: Bible Surveys
-aliases:
-  - /en/bible-survey/
+
 _build:
   list: true
   render: true
