@@ -3,8 +3,8 @@ title: "Overview of Genesis: The Book of Beginnings"
 description: ""
 categories: blog
 tags: bible
-date: 01-01-2026
-draft: "no"
+date: 2026-01-01
+draft: false
 \---
 **Overview of Genesis: The Book of Beginnings**
 
