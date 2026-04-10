@@ -6,6 +6,9 @@ if (Test-Path "./docs") {
 # 2. Build the site into docs/
 hugo --cleanDestinationDir
 
+# 2b. Recreate the CNAME file so GitHub Pages keeps the domain
+"www.wordsoflifelibrary.org" | Out-File -Encoding ascii "./docs/CNAME"
+
 # 3. Stage all changes
 git add .
 
