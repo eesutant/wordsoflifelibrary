@@ -1,8 +1,8 @@
 \---
 title: "Overview of Genesis: The Book of Beginnings"
 description: ""
-categories: \[]
-tags: \[]
+categories: blog
+tags: bible
 date: 01-01-2026
 draft: "no"
 \---
