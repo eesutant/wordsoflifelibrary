@@ -51,7 +51,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-genesis---the-book-of-beginnings/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/templates/hugo-default/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/templates/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
