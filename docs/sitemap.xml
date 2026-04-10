@@ -15,6 +15,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-genesis---the-book-of-beginnings/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-genesis-1--11---the-foundations-of-everything/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -51,17 +63,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-genesis---the-book-of-beginnings/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://wordsoflifelibrary.org/templates/hugo-default/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

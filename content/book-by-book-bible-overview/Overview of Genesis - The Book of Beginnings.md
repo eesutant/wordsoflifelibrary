@@ -1,4 +1,4 @@
-\---
+---
 title: "Overview of Genesis: The Book of Beginnings"
 description: ""
 categories: ["bible-overview"]
@@ -8,7 +8,7 @@ draft: false
 menu:
   main:
     parent: "Book-by-Book Bible Overview"
-\---
+---
 **Overview of Genesis: The Book of Beginnings**
 
 **A Story to Begin**
