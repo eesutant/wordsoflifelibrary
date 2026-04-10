@@ -1,8 +1,8 @@
 \---
 title: "Overview of Genesis: The Book of Beginnings"
 description: ""
-categories: blog
-tags: bible
+categories: ["bible-overview"]
+tags: ["genesis", "overview"]
 date: 2026-01-01
 draft: false
 menu:
