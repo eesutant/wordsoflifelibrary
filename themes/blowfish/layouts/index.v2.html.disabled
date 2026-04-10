@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{ $layout := .Site.Params.homepage.layout | default "hero" }}
+
+  {{ if eq $layout "hero" }}
+    {{ partial "home/hero.html" . }}
+  {{ else if eq $layout "profile" }}
+    {{ partial "home/profile.html" . }}
+  {{ else if eq $layout "card" }}
+    {{ partial "home/card.html" . }}
+  {{ else if eq $layout "background" }}
+    {{ partial "home/background.html" . }}
+  {{ else if eq $layout "custom" }}
+    {{ partial "home/custom.html" . }}
+  {{ else }}
+    {{ partial "home/page.html" . }}
+  {{ end }}
+
+  {{ partial "home/sections.html" . }}
+{{ end }}

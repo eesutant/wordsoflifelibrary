@@ -1,0 +1,23 @@
+
+{{ $sections := .Site.Params.homepage.sections }}
+{{ if not $sections }}
+  {{ $sections = .Site.Sections }}
+{{ end }}
+
+<section class="home-sections">
+  {{ range $sections }}
+    {{ $section := . }}
+    {{ if not (isset $section "Title") }}
+      {{ $section = $.Site.GetPage . }}
+    {{ end }}
+
+    {{ if $section }}
+      <div class="home-section">
+        <h2><a href="{{ $section.RelPermalink }}">{{ $section.Title }}</a></h2>
+        {{ with $section.Params.description }}
+          <p>{{ . }}</p>
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+</section>

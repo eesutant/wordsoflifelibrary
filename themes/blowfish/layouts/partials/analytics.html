@@ -1,0 +1,6 @@
+{{- with site.Params.google.analytics.id }}
+{{- $script := resources.GetRemote "https://cdn.jsdelivr.net/npm/@minimal-analytics/ga4/dist/index.js" }}
+{{ $track := resources.Get "js/track.js" | resources.ExecuteAsTemplate "js/track.js" . }}
+{{- $analytics := slice $track $script | resources.Concat "js/analytics.js" | minify | fingerprint }}
+<script src="{{ $analytics.RelPermalink }}" integrity="{{ $analytics.Data.Integrity }}" async></script>
+{{- end }}

@@ -1,0 +1,8 @@
+/* Override Blowfish hero-page intro styling */
+.prose.prose-invert {
+  text-align: left !important;
+  color: var(--color-text) !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
