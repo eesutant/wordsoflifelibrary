@@ -5,6 +5,9 @@ categories: blog
 tags: bible
 date: 2026-01-01
 draft: false
+menu:
+  main:
+    parent: "Book-by-Book Bible Overview"
 \---
 **Overview of Genesis: The Book of Beginnings**
 
