@@ -1,6 +1,6 @@
 ---
 title: "Words of Life Library"
-description: "A space where the richness of God's Word is explored with depth, clarity, and faith."
+description: "A space where the richness of God’s Word is explored with depth, clarity, and faith."
 draft: false
 layout: "page"
 ---
