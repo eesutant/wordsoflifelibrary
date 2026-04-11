@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://wordsoflifelibrary.org/templates/frontmatter/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/templates/frontmatter/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Overview of Exodus: The Pattern of Redemption</title>
@@ -111,24 +121,6 @@ The Bible is not just one book—it is a divine library of sixty-six books, writ
       <guid>https://wordsoflifelibrary.org/bible-survey/the-bible-gods-revelation/</guid>
       <description>(Adapted from Ray Stedman’s sermons on raystedman.org)
 Introduction: A Story of Discovery#Imagine a young explorer, eager to uncover the secrets of an ancient civilization. He stumbles upon a dusty, old map hidden in a forgotten library. This map promises to lead him to a treasure beyond his wildest dreams. But there’s a catch – the map is complex, filled with symbols and paths that seem impossible to decipher without guidance. Realizing this, the explorer understands he needs a mentor to interpret the map and help him navigate the journey.
-</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wordsoflifelibrary.org/templates/frontmatter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/templates/frontmatter/</guid>
-      <description>-–
-title: ""
-description: ""
-categories: []
-tags: []
-date: 2026-04-11
-draft: false
--–
 </description>
       
     </item>
