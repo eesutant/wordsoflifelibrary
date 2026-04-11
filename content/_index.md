@@ -2,9 +2,12 @@
 title: "Words of Life Library"
 description: "A space where the richness of God’s Word is explored with depth, clarity, and faith."
 draft: false
+layout: "page"
 ---
 <p>Welcome to <em>Words of Life Library</em> — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.</p>
+
 <h3>Our Mission</h3>
+
 <p>Our mission is simple: to guide you into the heart of the Bible through engaging <strong>Bible Book Overviews</strong>, thoughtful <strong>Christian reflections</strong>, and insightful <strong>book reviews</strong> that encourage both understanding and transformation.</p>
 
 <h3>What You Will Find Here</h3>
