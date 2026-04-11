@@ -5,7 +5,7 @@ draft: false
 layout: "page"
 ---
 
-Welcome to \*Words of Life Library\* — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.
+Welcome to \*Words of Life Library\* — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.<br><br>
 
 **Our Mission**
 
