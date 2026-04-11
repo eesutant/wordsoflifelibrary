@@ -6,7 +6,6 @@ layout: "page"
 ---
 
 Welcome to \*Words of Life Library\* — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.
-
 **Our Mission**
 
 Our mission is simple: to guide you into the heart of the Bible through engaging \*\*Bible Book Overviews\*\*, thoughtful \*\*Christian reflections\*\*, and insightful \*\*book reviews\*\* that encourage both understanding and transformation.
