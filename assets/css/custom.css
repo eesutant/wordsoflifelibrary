@@ -9,3 +9,7 @@
   margin-bottom: 1rem;
 }
 
+.prose > * {
+  display: block;
+  margin-bottom: 1.4rem !important;
+}
