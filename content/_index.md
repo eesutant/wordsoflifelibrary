@@ -29,8 +29,8 @@ We believe Scripture is more than ancient text — it is \*\*alive, transformati
 
 **Explore the Currently Available Collections**
 
-**[Bible Survey\](/bible-survey/)**
+**[Bible Survey](/bible-survey/)**
 
-**[Book-by-Book Bible Overview\](/book-by-book-bible-overview/)**
+**[Book-by-Book Bible Overview](/book-by-book-bible-overview/)**
 
 May these resources help you grow in understanding, hope, and love as you discover the Words of Life.
