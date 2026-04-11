@@ -28,7 +28,25 @@
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-2-samuel--the-story-of-david/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-samuel---two-kings-two-ways/</loc>
+    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-the-book-of-ruth---redemption-commitment-and-the-redeemed-life/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
