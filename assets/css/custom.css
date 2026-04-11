@@ -1,14 +1,11 @@
 /* Increase spacing between paragraphs on homepage */
-.prose p {
+.main p {
   margin-bottom: 1.2rem !important;
 }
 
 /* Increase spacing before section headings */
-.prose h3 {
+.main h3 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-h1 {
-  border: 3px solid red !important;
-}
