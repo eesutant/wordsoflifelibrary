@@ -8,3 +8,7 @@
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+
+h1 {
+  border: 3px solid red !important;
+}
