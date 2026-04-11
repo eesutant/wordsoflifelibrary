@@ -1,9 +1,9 @@
 ---
-title: OVERVIEW OF DEUTERONOMY - THE LAW THAT DELIVERS
+title: Overview of Deuteronomy - The Law that Delivers
 description: ""
 categories: []
 tags: []
-date: 2026-04-11
+date: 2026-01-05
 draft: false
 ---
 **INTRODUCTION - A STORY OF STARTING OVER**
@@ -177,3 +177,11 @@ As he read Deuteronomy, he realized God wasn’t asking him to perform but to tr
 He remembered God’s faithfulness. He leaned on God’s strength. And slowly, the wilderness inside him began to shrink.
 
 He wasn’t perfect, but he was free. He had finally chosen life.
+
+**Resources**
+
+For more references, please see the following:
+
+- [Deuteronomy: The Law That Delivers](https://www.raystedman.org/bible-overview/adventuring/deuteronomy-the-law-that-delivers)
+- [Bible Project: Deuteronomy](https://bibleproject.com/guides/book-of-deuteronomy/)
+- [The Gospel Coalition - Commentary on Deuteronomy](https://www.thegospelcoalition.org/commentary/deuteronomy/)
