@@ -8,6 +8,8 @@ tags:
 date: 2026-01-09
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections.
+
 A narrative of two kings, two ways of living, and one God who weighs the heart._
 
 **Opening Story**

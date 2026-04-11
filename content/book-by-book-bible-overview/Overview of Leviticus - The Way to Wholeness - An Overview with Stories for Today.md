@@ -8,6 +8,8 @@ tags:
 date: 2026-01-03
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **Opening Story - “The Factory Floor”**
 
 When I first toured a steel factory, I went in alone. The moment I stepped inside, I was overwhelmed. Machines pounded like thunder. Sparks flew. Workers rushed in every direction. Nothing made sense. It felt chaotic, noisy, and pointless.

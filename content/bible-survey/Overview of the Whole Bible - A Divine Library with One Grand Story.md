@@ -6,6 +6,8 @@ tags: ["bible"]
 date: "2025-09-13"
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **The Bible: A Divine Library with One Grand Story**
 
 **_Adapted from Ray Stedman’s sermons on raystedman.org_**

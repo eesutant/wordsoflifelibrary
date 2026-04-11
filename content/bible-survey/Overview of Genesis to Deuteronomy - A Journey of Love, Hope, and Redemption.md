@@ -6,6 +6,8 @@ tags: ["bible"]
 date: "2025-09-18"
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption**
 
 **A Modern Story: From Chaos to Clarity**

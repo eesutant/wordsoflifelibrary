@@ -8,6 +8,8 @@ tags:
 date: 2026-01-06
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **Opening Story - “Crossing Your Jordan”**
 
 Daniel had been stuck for years. He was a sincere Christian, but his life felt like a wilderness, dry, repetitive, and spiritually flat. He knew God had more for him, but every time he tried to move forward, fear stopped him. A new ministry opportunity? Too risky. A difficult conversation he needed to have. Too overwhelming. A habit he needed to surrender. Too deeply rooted.

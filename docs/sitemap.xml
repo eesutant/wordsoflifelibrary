@@ -27,6 +27,66 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/delighting-in-gods-word/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-revelation---the-ending-that-makes-sense-of-everything/</loc>
+    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-hebrews-of-jude---faith-that-sees-the-invisible/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-ephesians-to-philemon---you-in-christ/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-romans-to-galatians---christ-in-you-the-heart-of-the-new-testament/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/the-overview-of-matthew-to-acts---the-gospels-and-acts/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-last-eight-prophets---from-jonah-to-malachi---things-surely-to-be-believed/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-first-nine-prophetic-books---isaiah-to-obadiah---promises-in-action/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-poetic-books---job-to-song-of-solomon---music-to-live-by/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-historical-books---from-joshua-to-esther/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -75,7 +135,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/leviticus---the-way-to-wholeness---an-overview-with-stories-for-today/</loc>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-leviticus---the-way-to-wholeness---an-overview-with-stories-for-today/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -119,12 +179,6 @@
   <url>
     <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-whole-bible---a-divine-library-with-one-grand-story/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/bible-survey/the-bible-gods-revelation/</loc>
-    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -8,6 +8,8 @@ tags:
 date: 2026-01-10
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **A Story to Begin**
 
 Imagine a young leader named Aaron. He never sought power, but circumstances pushed him forward. People trusted him. God seemed to be shaping him. And for a while, everything went beautifully: victories, unity, purpose.

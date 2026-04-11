@@ -9,6 +9,8 @@ menu:
   main:
     parent: "Book-by-Book Bible Overview"
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **A Story to Begin**
 
 Imagine standing beneath a sky untouched by city lights, the stars stretching endlessly above you. In that quiet moment, the biggest questions rise to the surface: _Where did everything come from? Why am I here? What is the meaning of all this?_

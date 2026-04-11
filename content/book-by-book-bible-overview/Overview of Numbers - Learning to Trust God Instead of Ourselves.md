@@ -6,6 +6,8 @@ tags: []
 date: 2026-01-04
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 Numbers sets before us one of the hardest lessons in the Christian life: **to trust God rather than our own reasoning**. This is where we struggle most. We naturally assume that what we want, how we see things, and the way we prefer to act is the right way. Israel felt the same. Again and again, they had to learn that God knows what He is talking about, that His commands are true, His ways are good, and His guidance is wiser than the voices around them.
 
 Scripture puts it bluntly:

@@ -8,6 +8,8 @@ tags:
 date: 2026-01-08
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 A narrative doorway for those who have never read Ruth, enriched with the theological depth of the Old Testament picture and the New Testament fulfillment in Christ._
 
 **A Modern Doorway into Ruth’s World**

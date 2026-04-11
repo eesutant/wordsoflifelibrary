@@ -8,6 +8,8 @@ tags:
 date: 2026-01-07
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **Introduction**
 
 The book of Judges is one of the most fascinating yet sobering accounts in Scripture. It is filled with gripping stories, Assassination of the Moabite king, Gideon’s army reduced to three hundred men, and Samson’s strength and downfall. These accounts are colourful, dramatic, and unforgettable.

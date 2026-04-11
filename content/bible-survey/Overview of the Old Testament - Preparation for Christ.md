@@ -6,6 +6,8 @@ tags: ["bible"]
 date: "2025-09-14"
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections_
+
 **The Divine Purpose of the Old Testament: Preparation for Christ**
 
 (Adapted from Ray Stedman’s sermons on raystedman.org)
