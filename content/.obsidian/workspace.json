@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-by-book-bible-overview/Overview of Numbers - Learning to Trust God Instead of Ourselves.md",
+                "file": "book-by-book-bible-overview/Overview of Judges - A Mirror for Our Lives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview of Numbers - Learning to Trust God Instead of Ourselves"
+              "title": "Overview of Judges - A Mirror for Our Lives"
             }
           }
         ],
@@ -201,9 +201,11 @@
   },
   "active": "4256c1bee97e8eae",
   "lastOpenFiles": [
-    "book-by-book-bible-overview/Overview of Exodus - The Pattern of Redemption.md",
-    "book-by-book-bible-overview/Overview of Numbers - Learning to Trust God Instead of Ourselves.md",
+    "book-by-book-bible-overview/Overview of Joshua - A Guidebook to Victory.md",
+    "book-by-book-bible-overview/Overview of Judges - A Mirror for Our Lives.md",
     "book-by-book-bible-overview/Overview of Deuteronomy - The Law that Delivers.md",
+    "book-by-book-bible-overview/Overview of Numbers - Learning to Trust God Instead of Ourselves.md",
+    "book-by-book-bible-overview/Overview of Exodus - The Pattern of Redemption.md",
     "book-by-book-bible-overview/Leviticus - The Way to Wholeness - An Overview with Stories for Today.md",
     "book-by-book-bible-overview/Overview of Genesis - The Book of Beginnings.md",
     "templates/frontmatter.md",
@@ -229,7 +231,6 @@
     "_index.md",
     "Tour",
     "blog/The-Bible-Test.md",
-    "test",
-    "blog/The New File.md"
+    "test"
   ]
 }
