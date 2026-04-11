@@ -1,15 +1,15 @@
 ---
 title: "Words of Life Library"
-description: "A space where the richness of God’s Word is explored with depth, clarity, and faith."
+description: "A space where the richness of God's Word is explored with depth, clarity, and faith."
 draft: false
 layout: "page"
 ---
 
-Welcome to \*Words of Life Library\* — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.
+Welcome to *Words of Life Library* — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.
 
 **Our Mission**
 
-Our mission is simple: to guide you into the heart of the Bible through engaging \*\*Bible Book Overviews\*\*, thoughtful \*\*Christian reflections\*\*, and insightful \*\*book reviews\*\* that encourage both understanding and transformation.
+Our mission is simple: to guide you into the heart of the Bible through engaging **Bible Book Overviews**, thoughtful **Christian reflections**, and insightful **book reviews** that encourage both understanding and transformation.
 
 **What You Will Find Here**
 
@@ -25,12 +25,12 @@ Encouragement & Spiritual Growth – Messages of hope, testimonies, and reflecti
 
 **Why This Library Exists**
 
-We believe Scripture is more than ancient text — it is \*\*alive, transformative, and deeply relevant\*\*. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for resources to deepen your walk with God, Words of Life Library invites you to \*\*journey through the sacred story\*\* with us.
+We believe Scripture is more than ancient text — it is **alive, transformative, and deeply relevant**. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for resources to deepen your walk with God, Words of Life Library invites you to **journey through the sacred story** with us.
 
 **Explore the Currently Available Collections**
 
-**\[Bible Survey\](/bible-survey/)**
+**[Bible Survey](/bible-survey/)**
 
-**\[Book-by-Book Bible Overview\](/book-by-book-bible-overview/)**
+**[Book-by-Book Bible Overview](/book-by-book-bible-overview/)**
 
 May these resources help you grow in understanding, hope, and love as you discover the Words of Life.
