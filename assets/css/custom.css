@@ -1,10 +1,10 @@
 /* Increase spacing between paragraphs on homepage */
-.homepage-content p {
-  margin-bottom: 1.2rem;
+.prose p {
+  margin-bottom: 1.2rem !important;
 }
 
 /* Increase spacing before section headings */
-.homepage-content h3 {
+.prose h3 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
