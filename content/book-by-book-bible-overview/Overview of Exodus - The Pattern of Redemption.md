@@ -13,8 +13,6 @@ date: 2026-01-02
 draft: false
 
 ---
-**Overview of Exodus: The Pattern of Redemption**
-
 **A Relevant Story to Begin**
 
 Maya had never studied the Bible. She didn’t know the names of its books, and she certainly didn’t know anything about ancient Israel. But she did know what it felt like to be stuck.
