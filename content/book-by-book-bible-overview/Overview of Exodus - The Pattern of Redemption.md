@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Overview of Exodus: The Pattern of Redemption"
 
@@ -12,7 +12,7 @@ date: 2026-01-02
 
 draft: false
 
-\---
+---
 **Overview of Exodus: The Pattern of Redemption**
 
 **A Relevant Story to Begin**
