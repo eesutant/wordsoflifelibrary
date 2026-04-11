@@ -103,18 +103,61 @@ Introduction: A Story of Discovery#Imagine a young explorer, eager to uncover 
     
     <item>
       <title></title>
+      <link>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-exodus---the-pattern-of-redemption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-exodus---the-pattern-of-redemption/</guid>
+      <description>-–
+title: “Overview of Exodus: The Pattern of Redemption”
+description: ""
+categories: [Overview of Exodus: The Pattern of Redemption]
+tags: [Bible]
+date: 2026-01-02
+draft: false
+-– Overview of Exodus: The Pattern of Redemption
+A Relevant Story to Begin
+Maya had never studied the Bible. She didn’t know the names of its books, and she certainly didn’t know anything about ancient Israel. But she did know what it felt like to be stuck.
+</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wordsoflifelibrary.org/templates/frontmatter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/templates/frontmatter/</guid>
+      <description>-–
+title: ""
+description: ""
+categories: []
+tags: []
+date: 2026-04-11
+draft: false
+-–
+</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://wordsoflifelibrary.org/templates/hugo-default/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/templates/hugo-default/</guid>
-      <description>-–
-title: “{{title}}”
+      <description><%*
+const title = tp.file.title;
+const date = tp.date.now(“YYYY-MM-DD”);
+tR = `—
+title: “${title}”
 description: ""
 categories: []
 tags: []
-date: {{date}}
-draft: “no”
--–
+date: ${date}
+draft: false
+-–`;
+tR
+%>
 </description>
       
     </item>

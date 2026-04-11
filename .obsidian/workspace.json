@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "0077f3270622760c",
+    "id": "42b8fa47a55d4399",
     "type": "split",
     "children": [
       {
-        "id": "a7e5e644450cf84d",
+        "id": "21f98ec8522ed256",
         "type": "tabs",
         "children": [
           {
-            "id": "685019600f54a3bb",
+            "id": "50e1a8d7a3e8cfc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/The-Bible-Gods-Revelation.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The-Bible-Gods-Revelation"
-            }
-          },
-          {
-            "id": "a06f1c97074ceb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Genesis 1 – 11 - The Foundations of Everything"
-            }
-          },
-          {
-            "id": "4256c1bee97e8eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book-by-book-bible-overview/Overview of Exodus - The Pattern of Redemption.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Exodus - The Pattern of Redemption"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "07c3c368c6aef073",
+    "id": "98e9d7331d2ad42d",
     "type": "split",
     "children": [
       {
-        "id": "922b26daa826c6cf",
+        "id": "c03131243838637d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a45a391671760e9",
+            "id": "ff5a1a98994a1f64",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "102a24b010da6012",
+            "id": "bb8dd3731db7a14d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "b3f02199c0d93861",
+            "id": "6b2c85630fc827b0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "dc1da1533867c0e6",
+    "id": "b7ecce09b856fc47",
     "type": "split",
     "children": [
       {
-        "id": "337f2b7b9d9f8c8f",
+        "id": "ddd3e52ec3c5bad1",
         "type": "tabs",
         "children": [
           {
-            "id": "0d94c197c6ef08c3",
+            "id": "a2c222b29f97de35",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e7c3482023e4602a",
+            "id": "218e98b02775cd38",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0c698778e9eb23ea",
+            "id": "c1715d257bf80088",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,18 +131,31 @@
             }
           },
           {
-            "id": "a694751316ce44c3",
+            "id": "e897832b2164c1f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a16a4d4e9f2da06",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline"
             }
           }
         ]
@@ -199,34 +177,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4256c1bee97e8eae",
+  "active": "50e1a8d7a3e8cfc2",
   "lastOpenFiles": [
-    "book-by-book-bible-overview/Overview of Genesis - The Book of Beginnings.md",
-    "book-by-book-bible-overview/Overview of Exodus - The Pattern of Redemption.md",
-    "book-by-book-bible-overview/Untitled 1.md",
-    "templates/frontmatter.md",
-    "templates/New Text Document.txt",
-    "templates/hugo-default.md",
+    "content/book-by-book-bible-overview/Untitled.md",
+    "content/book-by-book-bible-overview/Overview of Exodus - The Pattern of Redemption.md",
+    "content/templates/frontmatter.md",
+    "content/templates/New Text Document.txt",
+    "content/book-by-book-bible-overview/Untitled 1.md",
+    "content/templates/hugo-default.md",
     "Untitled.md",
-    "bible-survey/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
-    "bible-survey/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
-    "templates",
-    "New folder",
-    "book-by-book-bible-overview/Untitled 2.md",
-    "bible-survey/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
-    "blog/Overview of Genesis to Deuteronomy - A Journey of Love, Hope, and Redemption.md",
-    "blog/Overview of Genesis 1 – 11 - The Foundations of Everything.md",
-    "blog/Overview of New Testament - A Story of Encounter and Fulfillment.md",
-    "Tour/Untitled.md",
-    "Tour/Overview of.md",
-    "blog/Overview of the Old Testament - Preparation for Christ.md",
-    "blog/The-Bible-Gods-Revelation.md",
-    "blog/Overview of the Whole Bible - A Divine Library with One Grand Story.md",
-    "blog/The New Testament - A Story of Encounter and Fulfillment.md",
-    "_index.md",
-    "Tour",
-    "blog/The-Bible-Test.md",
-    "test",
-    "blog/The New File.md"
+    "Untitled 1.md",
+    "content/book-by-book-bible-overview/Overview of Genesis - The Book of Beginnings.md"
   ]
 }
