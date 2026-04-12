@@ -26,7 +26,7 @@ buildFuture = false
 enableEmoji = true
 #pluralizeListTitles = false
 
-googleAnalytics = ""G-DZV1LMB159""
+googleAnalytics = "G-DZV1LMB159""
 
 [pagination]
   pagerSize = 100
