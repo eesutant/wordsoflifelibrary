@@ -40,7 +40,7 @@ We have become increasingly aware of the significant level of Bible illiteracy w
 
 Bible study groups face similar challenges. Working through a book section by section and answering study questions can feel productive, yet participants often miss how each chapter connects to the larger narrative of Scripture. As a result, many do not see how a passage is meant to shape their personal growth in understanding the good news—an understanding that should stir gratitude and lead to deeper service to God. Too often, the focus remains on accumulating information rather than grasping the transforming purpose of Scripture.
 
-We believe Scripture is more than ancient text — it is \*\*alive, transformative, and deeply relevant\*\*. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for resources to deepen your walk with God, Words of Life Library invites you to \*\*journey through the sacred story\*\* with us.
+We believe Scripture is more than ancient text — it is **alive, transformative, and deeply relevant**. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for resources to deepen your walk with God, Words of Life Library invites you to **journey through the sacred story** with us.
 
 **Explore the Currently Available Collections**
 
