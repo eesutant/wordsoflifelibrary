@@ -2,11 +2,10 @@
 title: "Words of Life Library"
 description: "A space where the richness of God’s Word is explored with depth, clarity, and faith."
 draft: false
-layout: "page"
 ---
 
 Welcome to \*Words of Life Library\* — a growing collection of Bible teaching resources created to help you understand the story of Scripture and encounter God through His living Word.
-&nbsp;
+
 
 **Our Mission**
 
