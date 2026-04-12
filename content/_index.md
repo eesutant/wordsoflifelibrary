@@ -35,8 +35,12 @@ Our mission is simple: to guide you into the heart of the Bible through engaging
 **Encouragement & Spiritual Growth** – Messages of hope, testimonies, and reflections to uplift believers in every season
 
 **Why This Library Exists**
-We believe Scripture is more than ancient text — it is \*\*alive, transformative, and deeply relevant\*\*. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for resources to deepen your walk with God, Words of Life Library invites you to \*\*journey through the sacred story\*\* with us.
 
+We have become increasingly aware of the significant level of Bible illiteracy within the church today. Many believers gain most of their understanding from sermons, which often focus on a few chapters without showing how those passages fit within the broader context of the book, the storyline of Scripture, or the Bible’s overall purpose. Many have never read the Bible on their own, and very few have read it from beginning to end to see God’s plan unfold through His Word.
+
+Bible study groups face similar challenges. Working through a book section by section and answering study questions can feel productive, yet participants often miss how each chapter connects to the larger narrative of Scripture. As a result, many do not see how a passage is meant to shape their personal growth in understanding the good news—an understanding that should stir gratitude and lead to deeper service to God. Too often, the focus remains on accumulating information rather than grasping the transforming purpose of Scripture.
+
+We believe Scripture is more than ancient text — it is \*\*alive, transformative, and deeply relevant\*\*. Whether you are seeking clarity on biblical themes, exploring Christian perspectives, or looking for resources to deepen your walk with God, Words of Life Library invites you to \*\*journey through the sacred story\*\* with us.
 
 **Explore the Currently Available Collections**
 
