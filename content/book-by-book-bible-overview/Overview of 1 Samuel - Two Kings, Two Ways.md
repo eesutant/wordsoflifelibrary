@@ -320,5 +320,5 @@ And slowly, the peace she had chased for years finally found her.
 For more references, please see the following:
 
 - [1 Samuel: The Death of the Flesh](https://www.raystedman.org/bible-overview/adventuring/1-samuel-the-death-of-the-flesh)
-- [Bible Project: 1 ^ 2 Samuel](https://bibleproject.com/guides/books-of-samuel/)
+- [Bible Project: 1 and 2 Samuel](https://bibleproject.com/guides/books-of-samuel/)
 - [The Gospel Coalition - Commentary on 1 Samuel](https://www.thegospelcoalition.org/commentary/1-samuel/)

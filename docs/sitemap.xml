@@ -33,6 +33,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-kings---how-kingdoms-fall/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-revelation---the-ending-that-makes-sense-of-everything/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -83,12 +95,6 @@
   <url>
     <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-historical-books---from-joshua-to-esther/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
