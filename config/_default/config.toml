@@ -118,3 +118,6 @@ googleAnalytics = "G-DZV1LMB159"
     name  = "Words of Life Library"
     url   = "/"
     weight = 1
+
+[privacy.googleanalytics]
+  anonymizeIP = false
