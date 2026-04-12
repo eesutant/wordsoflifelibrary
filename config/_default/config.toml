@@ -10,6 +10,18 @@ baseURL = "https://wordsoflifelibrary.org/"
 
 [module]
   noVendor = true
+[[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
 
 #disableLanguages = ["en"]
 defaultContentLanguage = "en"
@@ -26,7 +38,7 @@ buildFuture = false
 enableEmoji = true
 #pluralizeListTitles = false
 
-googleAnalytics = "G-DZV1LMB159"
+#googleAnalytics = "G-DZV1LMB159"
 
 [pagination]
   pagerSize = 100
@@ -111,6 +123,7 @@ googleAnalytics = "G-DZV1LMB159"
 
 [params.assets]
   customCSS = ["css/homepage.css", "css/custom.css"]
+  customJS = ["js/analytics.js"]
 
 [menu]
 
