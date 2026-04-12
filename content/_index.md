@@ -51,3 +51,11 @@ We believe Scripture is more than ancient text - it is **alive, transformative, 
 May these resources help you grow in understanding, hope, and love as you discover the Words of Life.
 
 </div>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZV1LMB159"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-DZV1LMB159');
+</script>
