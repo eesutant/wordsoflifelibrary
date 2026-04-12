@@ -133,6 +133,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardView = false
   cardViewScreenWidth = false
 
+[analytics]
+googleAnalytics = "G-DZV1LMB159"
+
 [firebase]
   # apiKey = "XXXXXX"
   # authDomain = "XXXXXX"
