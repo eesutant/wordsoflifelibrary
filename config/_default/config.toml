@@ -96,11 +96,9 @@ enableEmoji = true
   showRecent = false
   recentLimit = 5
 
-#[params.analytics]
-#googleAnalytics = "G-DZV1LMB159"
+[params.analytics]
+googleAnalytics = "G-DZV1LMB159"
 
-[google.analytics]
-id = "G-DZV1LMB159"
 
 [params.hero]
   style = "basic"
