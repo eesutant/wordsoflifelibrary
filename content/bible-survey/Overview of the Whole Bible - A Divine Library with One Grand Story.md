@@ -7,9 +7,6 @@ tags:
   - bible
 date: 2025-09-13
 draft: false
-batchContext: '"The Bible"'
-showBadge: "true"
-badgeColor: primary
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
