@@ -48,6 +48,11 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # This allows Hugo to process HTML tags like <br> if needed
+
 [related]
   threshold = 0
   toLower = false
