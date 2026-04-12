@@ -13,3 +13,7 @@
   display: block;
   margin-bottom: 1.4rem !important;
 }
+
+.page-content p {
+  margin-bottom: 1.4rem !important;
+}
