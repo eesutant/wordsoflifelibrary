@@ -5,7 +5,7 @@ categories:
   - blog
 tags:
   - bible
-date: 2026-01-10
+date: 2026-04-01
 draft: false
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_

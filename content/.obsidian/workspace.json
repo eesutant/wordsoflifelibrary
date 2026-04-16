@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "abad9ba0ee703cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "42730d1eaa95a271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89ccc9fd2a76713a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-by-book-bible-overview/Overview of 1 Samuel - Two Kings, Two Ways.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview of 1 Samuel - Two Kings, Two Ways"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "923ab7d8db78d73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "495d944deac39be2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02b5b7661f422f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2cfa50b41726b9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1e1982982b71aaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9655c95a9f174d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b041726a8e5442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89260cc0210d0e42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book-by-book-bible-overview/Overview of 1 Samuel - Two Kings, Two Ways.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overview of 1 Samuel - Two Kings, Two Ways"
+            }
+          },
+          {
+            "id": "7aa7b5f044cecc23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book-by-book-bible-overview/Overview of 1 Samuel - Two Kings, Two Ways.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overview of 1 Samuel - Two Kings, Two Ways"
+            }
+          },
+          {
+            "id": "8f8fcbccc50db83b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07313aff97c114ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "81cbceb3289e7c61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book-by-book-bible-overview/Overview of 1 Samuel - Two Kings, Two Ways.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Overview of 1 Samuel - Two Kings, Two Ways"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "89ccc9fd2a76713a",
+  "lastOpenFiles": [
+    "book-by-book-bible-overview/Overview of Deuteronomy - The Law that Delivers.md",
+    "book-by-book-bible-overview/Overview of 2 Samuel – The Story of David.md",
+    "book-by-book-bible-overview/Overview of 1 Kings - How Kingdoms Fall.md",
+    "book-by-book-bible-overview/Overview of 2 Kings – The Fall of a Kingdom, and a God Who Refuses to Give Up.md",
+    "book-by-book-bible-overview/Overview of 1 Samuel - Two Kings, Two Ways.md",
+    "bible-survey/Delighting in Gods Word.md",
+    "templates/frontmatter.md",
+    "book-by-book-bible-overview/Untitled.md",
+    "bible-survey/Untitled.md"
+  ]
+}

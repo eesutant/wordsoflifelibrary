@@ -1,8 +1,10 @@
 ---
-title: ""
+title: "<% tp.file.title %>"
 description: ""
 categories: []
 tags: []
-date: 2026-04-11
+date: <% tp.date.now("YYYY-MM-DD") %>
 draft: false
 ---
+
+# <% tp.file.title %>

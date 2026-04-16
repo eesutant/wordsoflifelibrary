@@ -6,6 +6,8 @@ tags: []
 date: 2026-04-15
 draft: false
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections.
+
 **A Story to Begin: The City That Ignored the Cracks**
 
 There is a small coastal town where the sea is both friend and threat. Fishermen rise before dawn, children play along the shore, and the rhythm of the waves sets the pace of life. At the edge of the town stands an old seawall, built by their grandparents, weathered by decades of storms. It has always been there, solid and dependable, like an old friend who never fails.

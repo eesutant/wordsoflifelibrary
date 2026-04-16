@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/templates/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title></title>
-      <link>https://wordsoflifelibrary.org/templates/frontmatter/</link>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/templates/frontmatter/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="https://wordsoflifelibrary.org/templates/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
@@ -39,6 +29,16 @@ draft: false
 tR
 %>
 </description>
+      
+    </item>
+    
+    <item>
+      <title>&lt;% tp.file.title %&gt;</title>
+      <link>https://wordsoflifelibrary.org/templates/frontmatter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/templates/frontmatter/</guid>
+      <description><% tp.file.title %>#</description>
       
     </item>
     

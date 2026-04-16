@@ -21,14 +21,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/templates/frontmatter/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/templates/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-kings---how-kingdoms-fall/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,14 +33,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/bible-survey/delighting-in-gods-word/</loc>
-    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-2-samuel--the-story-of-david/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-kings---how-kingdoms-fall/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-samuel---two-kings-two-ways/</loc>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/bible-survey/delighting-in-gods-word/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -101,18 +101,6 @@
   <url>
     <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-historical-books---from-joshua-to-esther/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-2-samuel--the-story-of-david/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-samuel---two-kings-two-ways/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -196,6 +184,16 @@
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/templates/hugo-default/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/templates/frontmatter/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/templates/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

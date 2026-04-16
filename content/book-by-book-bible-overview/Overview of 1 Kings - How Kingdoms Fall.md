@@ -5,7 +5,7 @@ categories:
   - bible-overview
 tags:
   - bible
-date: 2026-01-21
+date: 2026-04-08
 draft: false
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
