@@ -183,17 +183,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wordsoflifelibrary.org/templates/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wordsoflifelibrary.org/templates/hugo-default/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/templates/frontmatter/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wordsoflifelibrary.org/templates/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
