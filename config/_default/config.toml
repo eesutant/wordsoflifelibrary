@@ -8,6 +8,8 @@ publishDir = "docs"
 theme = "blowfish"
 baseURL = "https://wordsoflifelibrary.org/"
 
+ignoreFiles = ["/content/templates/.*", "/content/.obsidian/.*"]
+
 [module]
   noVendor = true
 [[module.mounts]]
@@ -123,7 +125,6 @@ enableEmoji = true
 
 [params.assets]
   customCSS = ["css/homepage.css", "css/custom.css"]
-  customJS = ["js/analytics.js"]
 
 [menu]
 
