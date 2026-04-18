@@ -42,6 +42,12 @@ enableEmoji = true
 
 #googleAnalytics = "G-DZV1LMB159"
 
+[[cascade]]
+  [cascade.params]
+    featureImage = "img/default-feature.jpg"
+  [cascade._target]
+    path = "/**"
+
 [pagination]
   pagerSize = 100
 
