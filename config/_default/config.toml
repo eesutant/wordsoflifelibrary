@@ -42,11 +42,11 @@ enableEmoji = true
 
 #googleAnalytics = "G-DZV1LMB159"
 
-#[[cascade]]
-#  [cascade.params]
-#    featureImage = "/img/default-feature.jpg"
-#  [cascade._target]
-#    path = "/**"
+[[cascade]]
+  [cascade.params]
+    featureImage = "/img/default-feature.jpg"
+  [cascade._target]
+    path = "{/bible-survey/**,/book-by-book-bible-overview/**}"
 
 [pagination]
   pagerSize = 100
