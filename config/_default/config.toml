@@ -44,7 +44,7 @@ enableEmoji = true
 
 [[cascade]]
   [cascade.params]
-    featureImage = "img/default-feature.jpg"
+    featureImage = "/img/default-feature.jpg"
   [cascade._target]
     path = "/**"
 
@@ -107,6 +107,7 @@ enableEmoji = true
   disableLandingPage = false
   disableTurbo = true
   disableInstantPage = true
+  defaultFeaturedImage = "img/default-feature.jpg"
 
 #[params.layout]
 #  home = "hero"
