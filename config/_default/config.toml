@@ -108,21 +108,21 @@ enableEmoji = true
   disableTurbo = true
   disableInstantPage = true
 
-[params.layout]
-  home = "hero"
+#[params.layout]
+#  home = "hero"
 
-[params.homepage]
-  layout = "hero"
-  homepageImage = "img/default-feature.jpg"
-  showRecent = false
-  recentLimit = 5
+#[params.homepage]
+#  layout = "hero"
+#  homepageImage = "img/default-feature.jpg"
+#  showRecent = false
+#  recentLimit = 5
 
 #[params.analytics]
 #googleAnalytics = "G-DZV1LMB159"
 
 
-[params.hero]
-  style = "basic"
+#[params.hero]
+#  style = "basic"
 
 [params.header]
   layout = "basic"
