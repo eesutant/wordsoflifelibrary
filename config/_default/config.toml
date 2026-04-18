@@ -46,7 +46,7 @@ enableEmoji = true
   [cascade.params]
     featureImage = "img/default-feature.jpg"
   [cascade._target]
-    path = "/**"
+    path = "{/bible-survey/**,/book-by-book-bible-overview/**}"
 
 [pagination]
   pagerSize = 100
