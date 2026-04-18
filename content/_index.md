@@ -2,6 +2,7 @@
 title: "Words of Life Library"
 description: "A space where the richness of God’s Word is explored with depth, clarity, and faith."
 layout: "hero"
+featureImage: "/img/default-feature.jpg"
 draft: false
 ---
 

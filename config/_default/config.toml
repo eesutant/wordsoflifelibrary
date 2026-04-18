@@ -42,11 +42,11 @@ enableEmoji = true
 
 #googleAnalytics = "G-DZV1LMB159"
 
-[[cascade]]
-  [cascade.params]
-    featureImage = "/img/default-feature.jpg"
-  [cascade._target]
-    path = "/**"
+#[[cascade]]
+#  [cascade.params]
+#    featureImage = "/img/default-feature.jpg"
+#  [cascade._target]
+#    path = "/**"
 
 [pagination]
   pagerSize = 100
@@ -106,6 +106,7 @@ enableEmoji = true
  [params]
   disableLandingPage = false
   homepageImage = "/img/default-feature.jpg"
+  defaultFeaturedImage = "/img/default-feature.jpg"
   disableTurbo = true
   disableInstantPage = true
  
