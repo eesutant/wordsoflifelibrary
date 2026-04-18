@@ -48,8 +48,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  sections = []
   homepageImage = "img/default-feature.jpg" # used in: hero, and card
+  sections = []
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -69,8 +69,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthorBottom = true
   showHero = true
   showReadingTime = true
-  layout = "card"
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -109,6 +108,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
+  hideFeatureImage = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
