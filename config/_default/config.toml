@@ -105,9 +105,10 @@ enableEmoji = true
 
  [params]
   disableLandingPage = false
+  homepageImage = "/img/default-feature.jpg"
   disableTurbo = true
   disableInstantPage = true
-  defaultFeaturedImage = "img/default-feature.jpg"
+  defaultFeaturedImage = "/img/default-feature.jpg"
 
 #[params.layout]
 #  home = "hero"

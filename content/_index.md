@@ -1,6 +1,7 @@
 ---
 title: "Words of Life Library"
 description: "A space where the richness of God’s Word is explored with depth, clarity, and faith."
+layout: "hero"
 draft: false
 ---
 
@@ -52,10 +53,3 @@ May these resources help you grow in understanding, hope, and love as you discov
 
 </div>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZV1LMB159"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-DZV1LMB159');
-</script>
