@@ -60,29 +60,37 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. MOBILE OVERRIDE --- */
+/* --- 5. MOBILE OVERRIDE (iPhone Optimized) --- */
 @media (max-width: 768px) {
-    /* Target the Banner on Articles AND the Banners on Menu Pages */
+    /* Target all banners at once with a simplified rule */
     .hero img, 
     #featured-image, 
     .max-w-prose.featured-image img,
     header img,
     img[alt*="Banner"],
-    .relative.w-full.mb-5 img,    /* Specific to Blowfish v1 List headers */
-    section .flex img {           /* Specific to Blowfish v1 Menu headers */
+    .relative.w-full.mb-5 img {
+        /* Reset all desktop height constraints */
         height: auto !important;
-        min-height: 120px !important; 
+        max-height: 200px !important; 
+        min-height: 0 !important;
+        
+        /* Force the fit */
         object-fit: contain !important; 
         width: 100% !important;
-        background-color: transparent !important;
+        
+        /* Stop the browser from drawing "X" or placeholder lines */
+        border: none !important;
+        background: transparent !important;
     }
-    
-    /* Ensure the container around the menu image doesn't crop it */
-    .relative.w-full.mb-5 {
+
+    /* Fix the container that is likely causing the 'big lines' */
+    .relative.w-full.mb-5, .hero {
         height: auto !important;
+        min-height: 0 !important;
+        overflow: hidden;
     }
 
     .max-w-prose {
-        max-width: 92% !important;
+        max-width: 90% !important;
     }
 }
