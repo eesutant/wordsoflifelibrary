@@ -60,46 +60,43 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. THE ULTIMATE IPHONE FIX (Container Reset) --- */
+/* --- 5. THE BALANCED IPHONE FIX --- */
 @media (max-width: 768px) {
-    /* 1. Target the BACKGROUND images used in Menus/Articles */
-    .thumbnail_card,
-    .article-image,
-    [style*="background-image"] {
-        background-size: contain !important; /* Shows the WHOLE image */
-        background-repeat: no-repeat !important;
-        background-position: center top !important;
-        
-        /* THE CRITICAL RESET: Remove the 'forced height' container */
-        height: 180px !important; 
-        padding-bottom: 0 !important; 
-        margin-bottom: 10px !important;
-    }
-
-    /* 2. Target the ACTUAL image tags (Homepage) */
+    /* 1. HOMEPAGE & STANDARD IMAGES: Keep them simple and un-cropped */
     .hero img, 
     #featured-image, 
-    .max-w-prose.featured-image img,
     header img,
-    .relative.w-full.mb-5 img {
+    img[alt*="Banner"] {
         height: auto !important;
-        max-height: 200px !important;
         width: 100% !important;
-        object-fit: contain !important;
-        position: relative !important;
-        top: 0 !important;
+        max-height: 200px !important;
+        object-fit: contain !important; /* Forces the whole image to show */
+        display: block !important;
     }
 
-    /* 3. Kill the 'Big X' by resetting the parent boxes */
+    /* 2. MENUS & ARTICLES: Reset the forced "Aspect Ratio" boxes */
+    /* This targets the 'featureImage' containers specifically */
+    .thumbnail_card,
+    .article-image,
+    .relative.w-full.mb-5,
+    [style*="background-image"] {
+        background-size: contain !important; /* No more zooming/cropping */
+        background-repeat: no-repeat !important;
+        background-position: center top !important;
+        height: 180px !important; /* Gives it a fixed height so it doesn't vanish */
+        padding-bottom: 0 !important; /* Breaks the Blowfish aspect-ratio trick */
+    }
+
+    /* 3. THE "X" CLEANUP: Remove distortion lines */
     .relative.w-full, 
     .hero, 
     article header .relative {
         height: auto !important;
         min-height: 0 !important;
-        padding-bottom: 0 !important; /* Removes the invisible box stretching the image */
+        background: transparent !important;
     }
 
-    /* 4. Ensure your 80% width doesn't get squished on small screens */
+    /* 4. WIDTH: Adjust the text container for mobile */
     .max-w-prose {
         max-width: 92% !important;
     }
