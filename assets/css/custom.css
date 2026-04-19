@@ -1,77 +1,56 @@
-/* 1. THE "FIT" FIX: Stop the image from cutting off on the sides */
-.grid img, 
-article img, 
-.card-image img {
-    object-fit: contain !important; 
-    background-color: transparent !important;
-}
-
-/* 2. THE "V1" ATTEMPT: Try to hide the card images one last time */
-/* In Blowfish v1, cards often use the 'featured-image-2-3' class */
-.featured-image-2-3,
-.featured-image-1-1,
-.grid .flex-none {
-    display: none !important;
-}
-
-/* 3. THE PROTECTOR: Keep your main Banners visible */
-/* This protects the manual <img> tags you added and the Hero section */
-.hero img, 
-header img, 
-img[alt*="Banner"], 
-#featured-image {
-    display: block !important;
-}
-
-/* Force the Article Hero Image to match the Manual Banners */
-.hero img, 
-#featured-image, 
-.max-w-prose.featured-image img {
-    width: 100% !important;
-    max-width: 100% !important; /* Removes the "thinner" restriction */
-    height: 250px !important;    /* Matches the height of your manual banners */
-    object-fit: cover !important; /* Ensures it doesn't look stretched */
-    border-radius: 8px !important;
-}
-
-/* This makes the article text container wider */
+/* --- 1. ARTICLE & PAGE WIDTH --- */
+/* Makes the reading area wider and the banner full-width */
 .max-w-prose {
-    max-width: 80% !important; /* Changes from the default narrow width to 80% of the screen */
+    max-width: 80% !important; 
 }
 
-/* This ensures the actual text elements use that new width */
 article .prose {
     max-width: 100% !important;
     width: 100% !important;
 }
 
-/* 1. Create space for the 'Read Article' text */
-.grid article .flex-1 {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 120px; /* Adjust this if you want taller cards */
+/* --- 2. THE PROTECTOR (BANNERS) --- */
+/* Ensures main banners on top of articles and menus look consistent */
+.hero img, 
+#featured-image, 
+.max-w-prose.featured-image img,
+header img,
+img[alt*="Banner"] {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 250px !important;
+    object-fit: cover !important;
+    border-radius: 8px !important;
 }
 
-/* 2. Inject the 'Read Article' text automatically */
-.grid article .flex-1::after {
+/* --- 3. THE CARD CLEANUP (GRID VIEW) --- */
+/* Hides images on the cards and fixes the layout */
+.featured-image-2-3,
+.featured-image-1-1,
+.grid .flex-none,
+.grid img {
+    display: none !important;
+}
+
+/* Prepares the card text to hold the "Read Article" link at the bottom */
+.grid article a, 
+.grid article .flex-1,
+section article .relative {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
+
+/* --- 4. THE AUTOMATIC "READ ARTICLE" LINK --- */
+/* Injects the link text under the title or summary on cards */
+.grid article h2::after,
+.grid article .text-sm::after {
     content: "Read Article →";
-    display: inline-block;
-    margin-top: auto; /* Pushes the link to the bottom */
-    padding-top: 15px;
-    font-weight: 700;
-    color: #2563eb; /* A vibrant blue */
-    font-size: 0.95rem;
-    letter-spacing: 0.025em;
-}
-
-/* 3. Give a visual 'lift' when the user hovers over the card */
-.grid article:hover {
-    background-color: #f8fafc; /* Very light blue/gray background */
-    transition: background-color 0.2s ease;
-}
-
-.grid article:hover .flex-1::after {
-    text-decoration: underline;
-    color: #1d4ed8;
+    display: block !important;
+    margin-top: 10px !important;
+    font-weight: bold !important;
+    color: #2563eb !important;
+    text-decoration: underline !important;
+    font-size: 0.9rem !important;
 }
