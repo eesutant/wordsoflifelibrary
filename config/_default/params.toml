@@ -111,6 +111,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
   constrainItemsWidth = false
   hideFeatureImage = true
+  showCards = false           
+  showThumbnail = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

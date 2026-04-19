@@ -6,6 +6,8 @@ featureImage: "/img/default-feature.jpg"
 draft: false
 ---
 
+<img src="/img/default-feature.jpg" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 2rem;" alt="Words of Life Library Banner">
+
 <style>
   /* This ensures links in your content look like links (blue and underlined) */
   .custom-library-content a {
