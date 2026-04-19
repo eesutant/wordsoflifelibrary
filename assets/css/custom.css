@@ -44,3 +44,19 @@ article .prose {
     max-width: 100% !important;
     width: 100% !important;
 }
+
+/* Adds a 'Read More' link to the bottom of every card */
+.grid article .flex-1::after {
+    content: "Read Article →";
+    display: block;
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #3b82f6; /* A nice blue color */
+    font-size: 0.9rem;
+    text-decoration: underline;
+}
+
+/* Optional: Changes color when hovering over the card */
+.grid article:hover .flex-1::after {
+    color: #2563eb;
+}
