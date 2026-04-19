@@ -5,6 +5,7 @@ categories: []
 tags: []
 date: 2026-01-18
 draft: false
+featureImage: "/img/default-feature.jpg"
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
