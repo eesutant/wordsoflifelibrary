@@ -1,0 +1,10 @@
+/* This hides the image container specifically within the card grid */
+.grid .relative.w-full.flex-none {
+    display: none !important;
+}
+
+/* This removes the extra margin/spacing left behind by the hidden image */
+.grid .flex.flex-col.justify-between.flex-1 {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
