@@ -103,6 +103,7 @@ enableEmoji = true
   defaultFeaturedImage = "/img/default-feature.jpg"
   disableTurbo = true
   disableInstantPage = true
+  customCSS = ["css/custom.css"]
  
 #[params.layout]
 #  home = "hero"

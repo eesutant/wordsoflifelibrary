@@ -1,24 +1,24 @@
-/* --- BLOWFISH V1 LIST/CARD CLEANUP --- */
+/* 1. THE "FIT" FIX: Stop the image from cutting off on the sides */
+.grid img, 
+article img, 
+.card-image img {
+    object-fit: contain !important; 
+    background-color: transparent !important;
+}
 
-/* 1. Hide the image container in the list/grid view */
-.flex.flex-col.p-4 img,
-.flex.flex-row.p-4 img,
-article.mb-4 img {
+/* 2. THE "V1" ATTEMPT: Try to hide the card images one last time */
+/* In Blowfish v1, cards often use the 'featured-image-2-3' class */
+.featured-image-2-3,
+.featured-image-1-1,
+.grid .flex-none {
     display: none !important;
 }
 
-/* 2. Remove the empty container box that holds the image */
-.flex-none.w-full.md\:w-1\/3, 
-.relative.w-full.mb-5 {
-    display: none !important;
-}
-
-/* 3. PROTECT: The Article Banners and Menu Headers */
-/* This keeps the banners at the top of the page visible */
-.hero img,
-header img,
-#featured-image,
-.max-w-prose.featured-image img,
-img[alt*="Banner"] {
+/* 3. THE PROTECTOR: Keep your main Banners visible */
+/* This protects the manual <img> tags you added and the Hero section */
+.hero img, 
+header img, 
+img[alt*="Banner"], 
+#featured-image {
     display: block !important;
 }
