@@ -60,42 +60,36 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. MOBILE OVERRIDE (The "No-Crop, No-X" Fix) --- */
+/* --- 5. THE ULTIMATE MOBILE FIX (iPhone) --- */
 @media (max-width: 768px) {
-    /* 1. Reset the height of ALL banner containers */
-    .hero,
-    .relative.w-full.mb-5,
-    article header .relative,
-    .max-w-prose.featured-image,
-    .featured-image {
+    /* Target ANY container that Blowfish might be using for headers */
+    [class*="relative"] img,
+    [class*="hero"] img,
+    header img,
+    .max-w-prose img {
+        height: auto !important;
+        width: 100% !important;
+        max-height: 220px !important;
+        object-fit: contain !important; /* Forces the whole image to show */
+        position: static !important;  /* Stops the image from "pinning" and cutting */
+        transform: none !important;
+    }
+
+    /* Force the boxes holding those images to shrink and stop the 'X' lines */
+    div.relative.w-full, 
+    .hero, 
+    header,
+    [class*="featured-image"] {
         height: auto !important;
         min-height: 0 !important;
         max-height: none !important;
-        aspect-ratio: auto !important; /* This stops the 'X' and distortion */
-        background: none !important;
-        padding: 0 !important;        /* Prevents weird spacing */
-    }
-
-    /* 2. Make the images fit inside those reset containers */
-    .hero img, 
-    #featured-image, 
-    .max-w-prose.featured-image img,
-    header img,
-    img[alt*="Banner"],
-    .relative.w-full.mb-5 img {
+        aspect-ratio: auto !important;
         display: block !important;
-        height: auto !important;
-        width: 100% !important;
-        max-height: 250px !important; /* Keeps it from getting too huge */
-        object-fit: contain !important; /* Shows the FULL image edges */
-        border: none !important;
-        position: relative !important; /* Resets the absolute positioning of v1 */
+        background: none !important;
     }
 
-    /* 3. Ensure the text doesn't touch the screen edges */
+    /* Ensure text container doesn't force a weird width */
     .max-w-prose {
         max-width: 94% !important;
-        padding-left: 10px;
-        padding-right: 10px;
     }
 }
