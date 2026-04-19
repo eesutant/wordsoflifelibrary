@@ -1,5 +1,5 @@
 ---
-title: Overview of 2 Kings – The Fall of a Kingdom, and a God Who Refuses to Give Up
+title: Overview of 2 Kings – The Fall of a Kingdom, and a God Who Refuses to Give Up 🟢 NEW
 description: ""
 categories: []
 tags: []
