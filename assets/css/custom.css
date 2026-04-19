@@ -1,0 +1,16 @@
+/* 1. Hide the image box on the card grid */
+.grid article .relative.w-full.flex-none {
+    display: none !important;
+}
+
+/* 2. Fix the padding so the text doesn't look squished where the image was */
+.grid article .flex-1 {
+    padding-top: 1rem !important;
+}
+
+/* 3. Ensure the banner INSIDE the article stays visible */
+.hero img, 
+.featured-image img, 
+#hero-image {
+    display: block !important;
+}
