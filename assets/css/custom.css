@@ -60,35 +60,41 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. THE ULTIMATE MOBILE FIX (iPhone) --- */
+/* --- 5. THE FINAL MOBILE REPAIR (iPhone) --- */
 @media (max-width: 768px) {
-    /* Target ANY container that Blowfish might be using for headers */
-    [class*="relative"] img,
-    [class*="hero"] img,
+    /* Reset the Flex container that wraps the header */
+    .flex.flex-col, 
+    .relative.w-full,
+    header .flex {
+        display: block !important; /* Breaks the flex-force */
+        height: auto !important;
+        min-height: 0 !important;
+    }
+
+    /* Target the Image and force it to be 'contained' */
+    .hero img, 
+    #featured-image, 
+    .max-w-prose.featured-image img,
     header img,
-    .max-w-prose img {
+    img[alt*="Banner"],
+    .relative.w-full img {
         height: auto !important;
         width: 100% !important;
         max-height: 220px !important;
-        object-fit: contain !important; /* Forces the whole image to show */
-        position: static !important;  /* Stops the image from "pinning" and cutting */
+        object-fit: contain !important; /* This is the key to no cropping */
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important;
         transform: none !important;
     }
 
-    /* Force the boxes holding those images to shrink and stop the 'X' lines */
-    div.relative.w-full, 
-    .hero, 
-    header,
-    [class*="featured-image"] {
-        height: auto !important;
-        min-height: 0 !important;
-        max-height: none !important;
-        aspect-ratio: auto !important;
-        display: block !important;
-        background: none !important;
+    /* Remove the 'X' and distortion lines */
+    .relative.w-full::before,
+    .relative.w-full::after {
+        display: none !important; /* Removes theme-injected layout lines */
     }
 
-    /* Ensure text container doesn't force a weird width */
+    /* Keep text readable */
     .max-w-prose {
         max-width: 94% !important;
     }
