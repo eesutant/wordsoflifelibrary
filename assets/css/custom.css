@@ -60,38 +60,42 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. MOBILE OVERRIDE (iPhone Optimized) --- */
+/* --- 5. MOBILE OVERRIDE (The "No-Crop, No-X" Fix) --- */
 @media (max-width: 768px) {
-    /* 1. Target the images themselves */
+    /* 1. Reset the height of ALL banner containers */
+    .hero,
+    .relative.w-full.mb-5,
+    article header .relative,
+    .max-w-prose.featured-image,
+    .featured-image {
+        height: auto !important;
+        min-height: 0 !important;
+        max-height: none !important;
+        aspect-ratio: auto !important; /* This stops the 'X' and distortion */
+        background: none !important;
+        padding: 0 !important;        /* Prevents weird spacing */
+    }
+
+    /* 2. Make the images fit inside those reset containers */
     .hero img, 
     #featured-image, 
     .max-w-prose.featured-image img,
     header img,
     img[alt*="Banner"],
     .relative.w-full.mb-5 img {
-        height: auto !important; /* Let the image decide its height */
-        max-height: 200px !important; 
+        display: block !important;
+        height: auto !important;
         width: 100% !important;
-        object-fit: contain !important; /* Show the WHOLE image */
+        max-height: 250px !important; /* Keeps it from getting too huge */
+        object-fit: contain !important; /* Shows the FULL image edges */
         border: none !important;
-        background: transparent !important;
+        position: relative !important; /* Resets the absolute positioning of v1 */
     }
 
-    /* 2. Target the containers (The source of the "X" and lines) */
-    .relative.w-full.mb-5, 
-    .hero,
-    article header .relative,
-    .max-w-prose.featured-image,
-    .featured-image {
-        height: auto !important;      /* Stop forcing a 250px box */
-        min-height: 0 !important;     /* Remove any minimum height */
-        max-height: none !important;
-        background: none !important;   /* Remove any background that draws lines */
-        border: none !important;
-    }
-
-    /* 3. Adjust the page width for mobile */
+    /* 3. Ensure the text doesn't touch the screen edges */
     .max-w-prose {
-        max-width: 92% !important;
+        max-width: 94% !important;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
