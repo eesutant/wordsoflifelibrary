@@ -8,3 +8,13 @@
     padding-top: 0 !important;
     margin-top: 0 !important;
 }
+
+/* Target only images inside the card-view grid */
+.card img {
+    display: none !important;
+}
+
+/* Ensure the hero banner at the top of the page remains visible */
+.hero img, #fixed-header img {
+    display: block !important;
+}
