@@ -62,34 +62,35 @@ section article .relative {
 
 /* --- 5. MOBILE OVERRIDE (iPhone Optimized) --- */
 @media (max-width: 768px) {
-    /* Target all banners at once with a simplified rule */
+    /* 1. Target the images themselves */
     .hero img, 
     #featured-image, 
     .max-w-prose.featured-image img,
     header img,
     img[alt*="Banner"],
     .relative.w-full.mb-5 img {
-        height: auto !important;
+        height: auto !important; /* Let the image decide its height */
         max-height: 200px !important; 
-        min-height: 0 !important;
-        object-fit: contain !important; 
         width: 100% !important;
+        object-fit: contain !important; /* Show the WHOLE image */
         border: none !important;
         background: transparent !important;
-        aspect-ratio: auto !important;
     }
 
-    /* Reset the container heights that cause cropping or 'big lines' */
+    /* 2. Target the containers (The source of the "X" and lines) */
     .relative.w-full.mb-5, 
     .hero,
     article header .relative,
-    .max-w-prose.featured-image {
-        height: auto !important;
-        min-height: 0 !important;
+    .max-w-prose.featured-image,
+    .featured-image {
+        height: auto !important;      /* Stop forcing a 250px box */
+        min-height: 0 !important;     /* Remove any minimum height */
         max-height: none !important;
-        overflow: hidden;
+        background: none !important;   /* Remove any background that draws lines */
+        border: none !important;
     }
 
+    /* 3. Adjust the page width for mobile */
     .max-w-prose {
         max-width: 92% !important;
     }
