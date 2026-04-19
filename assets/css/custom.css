@@ -60,44 +60,35 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. THE ULTIMATE IPHONE FIX --- */
+/* --- 5. THE ULTIMATE IPHONE FIX (Background Image Focus) --- */
 @media (max-width: 768px) {
-    /* 1. Reset the "Box" that holds the featureImage */
-    .hero,
-    .relative.w-full.mb-5,
+    /* Target the actual containers used by Blowfish v1 for featureImages */
     .thumbnail_card,
-    [style*="background-image"], 
-    article header .relative {
-        height: 180px !important;    /* Force a shorter height for mobile */
-        min-height: 0 !important;
-        background-size: contain !important; /* Forces the WHOLE image to fit */
+    .article-image,
+    .hero,
+    [style*="background-image"],
+    .relative.w-full.mb-5 {
+        /* Force the background image to show the full width */
+        background-size: contain !important; 
         background-repeat: no-repeat !important;
-        background-position: center !important;
+        background-position: center top !important;
+        
+        /* Stop the "Big X" and distortion by fixing the box height */
+        height: auto !important;
+        min-height: 180px !important; 
         aspect-ratio: auto !important;
-    }
-
-    /* 2. Target the actual Image tag if it's not a background */
-    .hero img, 
-    #featured-image, 
-    .max-w-prose.featured-image img,
-    header img,
-    .relative.w-full.mb-5 img {
-        height: 180px !important;
-        width: 100% !important;
-        object-fit: contain !important; /* Stops the zooming/cropping */
-        position: relative !important;
-        top: 0 !important;
         background-color: transparent !important;
     }
 
-    /* 3. Kill the "Big X" and distortion lines */
-    .nozoom, [class*="thumbnail"] {
-        filter: none !important;
-        border: none !important;
+    /* Target the specific wrapper Blowfish uses for list page headers */
+    .relative.w-full.mb-5 {
+        margin-bottom: 10px !important;
+        display: block !important;
     }
 
-    /* 4. Page width fix */
+    /* Adjust the text container so it doesn't overlap the now-shorter image */
     .max-w-prose {
         max-width: 94% !important;
+        margin-top: 20px !important;
     }
 }
