@@ -69,28 +69,28 @@ section article .relative {
     header img,
     img[alt*="Banner"],
     .relative.w-full.mb-5 img {
-        /* Reset all desktop height constraints */
         height: auto !important;
         max-height: 200px !important; 
         min-height: 0 !important;
-        
-        /* Force the fit */
         object-fit: contain !important; 
         width: 100% !important;
-        
-        /* Stop the browser from drawing "X" or placeholder lines */
         border: none !important;
         background: transparent !important;
+        aspect-ratio: auto !important;
     }
 
-    /* Fix the container that is likely causing the 'big lines' */
-    .relative.w-full.mb-5, .hero {
+    /* Reset the container heights that cause cropping or 'big lines' */
+    .relative.w-full.mb-5, 
+    .hero,
+    article header .relative,
+    .max-w-prose.featured-image {
         height: auto !important;
         min-height: 0 !important;
+        max-height: none !important;
         overflow: hidden;
     }
 
     .max-w-prose {
-        max-width: 90% !important;
+        max-width: 92% !important;
     }
 }
