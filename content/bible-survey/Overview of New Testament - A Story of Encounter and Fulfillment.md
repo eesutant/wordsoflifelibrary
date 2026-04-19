@@ -5,6 +5,7 @@ categories: ["blog"]
 tags: ["bible"]
 date: "2025-09-15"
 draft: false
+featureImage: "/img/default-feature.jpg"
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
