@@ -33,3 +33,14 @@ img[alt*="Banner"],
     object-fit: cover !important; /* Ensures it doesn't look stretched */
     border-radius: 8px !important;
 }
+
+/* This makes the article text container wider */
+.max-w-prose {
+    max-width: 80% !important; /* Changes from the default narrow width to 80% of the screen */
+}
+
+/* This ensures the actual text elements use that new width */
+article .prose {
+    max-width: 100% !important;
+    width: 100% !important;
+}
