@@ -6,10 +6,8 @@ tags: ["genesis", "overview"]
 date: 2026-01-01
 draft: false
 featureImage: "/img/default-feature.jpg"
-menu:
-  main:
-    parent: "Book-by-Book Bible Overview"
 ---
+
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
 **A Story to Begin**
