@@ -7,6 +7,7 @@ tags:
   - bible
 date: 2026-01-22
 draft: false
+featureImage: "/img/default-feature.jpg"
 ---
 **Preface**
 
