@@ -22,3 +22,14 @@ img[alt*="Banner"],
 #featured-image {
     display: block !important;
 }
+
+/* Force the Article Hero Image to match the Manual Banners */
+.hero img, 
+#featured-image, 
+.max-w-prose.featured-image img {
+    width: 100% !important;
+    max-width: 100% !important; /* Removes the "thinner" restriction */
+    height: 250px !important;    /* Matches the height of your manual banners */
+    object-fit: cover !important; /* Ensures it doesn't look stretched */
+    border-radius: 8px !important;
+}
