@@ -60,35 +60,47 @@ section article .relative {
     content: none !important;
 }
 
-/* --- 5. THE ULTIMATE IPHONE FIX (Background Image Focus) --- */
+/* --- 5. THE ULTIMATE IPHONE FIX (Container Reset) --- */
 @media (max-width: 768px) {
-    /* Target the actual containers used by Blowfish v1 for featureImages */
+    /* 1. Target the BACKGROUND images used in Menus/Articles */
     .thumbnail_card,
     .article-image,
-    .hero,
-    [style*="background-image"],
-    .relative.w-full.mb-5 {
-        /* Force the background image to show the full width */
-        background-size: contain !important; 
+    [style*="background-image"] {
+        background-size: contain !important; /* Shows the WHOLE image */
         background-repeat: no-repeat !important;
         background-position: center top !important;
         
-        /* Stop the "Big X" and distortion by fixing the box height */
-        height: auto !important;
-        min-height: 180px !important; 
-        aspect-ratio: auto !important;
-        background-color: transparent !important;
-    }
-
-    /* Target the specific wrapper Blowfish uses for list page headers */
-    .relative.w-full.mb-5 {
+        /* THE CRITICAL RESET: Remove the 'forced height' container */
+        height: 180px !important; 
+        padding-bottom: 0 !important; 
         margin-bottom: 10px !important;
-        display: block !important;
     }
 
-    /* Adjust the text container so it doesn't overlap the now-shorter image */
+    /* 2. Target the ACTUAL image tags (Homepage) */
+    .hero img, 
+    #featured-image, 
+    .max-w-prose.featured-image img,
+    header img,
+    .relative.w-full.mb-5 img {
+        height: auto !important;
+        max-height: 200px !important;
+        width: 100% !important;
+        object-fit: contain !important;
+        position: relative !important;
+        top: 0 !important;
+    }
+
+    /* 3. Kill the 'Big X' by resetting the parent boxes */
+    .relative.w-full, 
+    .hero, 
+    article header .relative {
+        height: auto !important;
+        min-height: 0 !important;
+        padding-bottom: 0 !important; /* Removes the invisible box stretching the image */
+    }
+
+    /* 4. Ensure your 80% width doesn't get squished on small screens */
     .max-w-prose {
-        max-width: 94% !important;
-        margin-top: 20px !important;
+        max-width: 92% !important;
     }
 }
