@@ -1,17 +1,23 @@
-/* --- 1. THE KILL SWITCH FOR CARDS --- */
-/* This targets images inside the grid/list cards specifically */
-.grid article img, 
-.grid .card-image, 
-.card img {
+/* 1. Remove the image AND the empty space from cards */
+.grid article .relative.w-full.flex-none,
+.grid article .card-image,
+.card .card-image {
     display: none !important;
 }
 
-/* --- 2. THE PROTECTOR FOR BANNERS --- */
-/* This ensures the image STAY VISIBLE at the top of pages and articles */
-.hero img, 
-#hero-image, 
+/* 2. Remove any extra padding/margin that was reserved for the image */
+.grid article .flex-1 {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* 3. PROTECT the Article and Page Banners (Heros) */
+/* We target the 'main' header images specifically to keep them visible */
+header.hero img, 
+div.hero img, 
 .featured-image img, 
-header img,
-.custom-library-content img {
+#hero-image,
+#background-image,
+img[alt*="Banner"] {
     display: block !important;
 }
