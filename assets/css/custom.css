@@ -1,16 +1,24 @@
-/* 1. Hide the image box on the card grid */
-.grid article .relative.w-full.flex-none {
+/* --- STEP 1: HIDE IMAGES ON LIST/MENU PAGES --- */
+/* This targets images inside 'main' only when viewing a list of cards */
+.list main img, 
+.section main img,
+article.flex img {
     display: none !important;
 }
 
-/* 2. Fix the padding so the text doesn't look squished where the image was */
-.grid article .flex-1 {
-    padding-top: 1rem !important;
+/* --- STEP 2: PROTECT THE BANNERS --- */
+/* This ensures images stay visible at the top of the homepage, menus, and articles */
+.hero img, 
+header img, 
+#hero-image, 
+.featured-image img,
+img[alt*="Banner"],
+.prose img {
+    display: block !important;
 }
 
-/* 3. Ensure the banner INSIDE the article stays visible */
-.hero img, 
-.featured-image img, 
-#hero-image {
-    display: block !important;
+/* --- STEP 3: FIX TEXT SPACING --- */
+/* This removes the empty gap on the cards so the text slides up */
+.flex-none, .mb-6 {
+    margin-bottom: 0 !important;
 }
