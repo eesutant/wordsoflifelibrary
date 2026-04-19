@@ -42,12 +42,20 @@ enableEmoji = true
 
 #googleAnalytics = "G-DZV1LMB159"
 
+# Rule 1: This applies the image to the actual articles
 [[cascade]]
   [cascade.params]
-   thumbnail = false 
-   featureImage = "/img/default-feature.jpg"
+    featureImage = "/img/default-feature.jpg"
   [cascade._target]
-    path = "{/bible-survey/**,/book-by-book-bible-overview/**}"
+    path = "{/bible-survey/*/**,/book-by-book-bible-overview/*/**}"
+
+# Rule 2: This specifically tells the list pages to have NO image on their cards
+[[cascade]]
+  [cascade.params]
+    featureImage = ""
+    thumbnail = ""
+  [cascade._target]
+    kind = "section"
 
 [pagination]
   pagerSize = 100
