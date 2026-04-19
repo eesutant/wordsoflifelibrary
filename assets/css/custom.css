@@ -62,18 +62,26 @@ section article .relative {
 
 /* --- 5. MOBILE OVERRIDE --- */
 @media (max-width: 768px) {
+    /* Target the Banner on Articles AND the Banners on Menu Pages */
     .hero img, 
     #featured-image, 
     .max-w-prose.featured-image img,
     header img,
-    img[alt*="Banner"] {
-        /* On Phone: Switch from fixed height to flexible height */
+    img[alt*="Banner"],
+    .relative.w-full.mb-5 img,    /* Specific to Blowfish v1 List headers */
+    section .flex img {           /* Specific to Blowfish v1 Menu headers */
         height: auto !important;
         min-height: 120px !important; 
-        object-fit: contain !important; /* Forces the whole image to show */
+        object-fit: contain !important; 
+        width: 100% !important;
         background-color: transparent !important;
     }
     
+    /* Ensure the container around the menu image doesn't crop it */
+    .relative.w-full.mb-5 {
+        height: auto !important;
+    }
+
     .max-w-prose {
         max-width: 92% !important;
     }
