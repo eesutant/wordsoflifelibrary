@@ -10,7 +10,7 @@ article .prose {
 }
 
 /* --- 2. THE PROTECTOR (BANNERS) --- */
-/* Ensures main banners on top of articles and menus look consistent */
+/* This handles banners for BOTH Desktop and Mobile */
 .hero img, 
 #featured-image, 
 .max-w-prose.featured-image img,
@@ -19,9 +19,10 @@ img[alt*="Banner"] {
     display: block !important;
     width: 100% !important;
     max-width: 100% !important;
+    border-radius: 8px !important;
+    /* On Desktop: */
     height: 250px !important;
     object-fit: cover !important;
-    border-radius: 8px !important;
 }
 
 /* --- 3. THE CARD CLEANUP (GRID VIEW) --- */
@@ -59,23 +60,21 @@ section article .relative {
     content: none !important;
 }
 
-/* --- MOBILE RESPONSIVENESS --- */
-
-/* This code only runs on screens smaller than 768px (phones and small tablets) */
-@media screen and (max-width: 768px) {
+/* --- 5. MOBILE OVERRIDE --- */
+@media (max-width: 768px) {
     .hero img, 
     #featured-image, 
     .max-w-prose.featured-image img,
     header img,
     img[alt*="Banner"] {
-        height: auto !important;      /* Allows the height to shrink naturally */
-        max-height: 180px !important; /* Prevents it from getting too tall */
-        object-fit: contain !important; /* Ensures the full width is visible */
+        /* On Phone: Switch from fixed height to flexible height */
+        height: auto !important;
+        min-height: 120px !important; 
+        object-fit: contain !important; /* Forces the whole image to show */
         background-color: transparent !important;
     }
-
-    /* Adjust the page width for mobile so text doesn't hit the edges */
+    
     .max-w-prose {
-        max-width: 95% !important;
+        max-width: 92% !important;
     }
 }
