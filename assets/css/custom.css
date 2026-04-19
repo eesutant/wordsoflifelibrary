@@ -62,7 +62,7 @@ section article .relative {
 
 /* --- 5. THE BALANCED IPHONE FIX --- */
 @media (max-width: 768px) {
-    /* 1. HOMEPAGE & STANDARD IMAGES: Keep them simple and un-cropped */
+    /* 1. HOMEPAGE: Keep standard banners fitting correctly */
     .hero img, 
     #featured-image, 
     header img,
@@ -70,33 +70,37 @@ section article .relative {
         height: auto !important;
         width: 100% !important;
         max-height: 200px !important;
-        object-fit: contain !important; /* Forces the whole image to show */
+        object-fit: contain !important;
         display: block !important;
     }
 
-    /* 2. MENUS & ARTICLES: Reset the forced "Aspect Ratio" boxes */
-    /* This targets the 'featureImage' containers specifically */
+    /* 2. MENUS & ARTICLES: Force the "Inline" featureImage to shrink */
+    /* We target the div and the background specifically */
     .thumbnail_card,
     .article-image,
-    .relative.w-full.mb-5,
-    [style*="background-image"] {
-        background-size: contain !important; /* No more zooming/cropping */
+    .featured-image,
+    [style*="background-image"],
+    .relative.w-full.mb-5 {
+        background-size: contain !important; /* NO MORE CROPPING */
         background-repeat: no-repeat !important;
         background-position: center top !important;
-        height: 180px !important; /* Gives it a fixed height so it doesn't vanish */
-        padding-bottom: 0 !important; /* Breaks the Blowfish aspect-ratio trick */
+        height: 180px !important; 
+        padding-bottom: 0 !important; 
+        min-height: 0 !important;
     }
 
-    /* 3. THE "X" CLEANUP: Remove distortion lines */
+    /* 3. THE "X" CLEANUP: Stop the container from stretching */
     .relative.w-full, 
     .hero, 
-    article header .relative {
+    article header .relative,
+    .max-w-prose.featured-image {
         height: auto !important;
         min-height: 0 !important;
+        padding-bottom: 0 !important;
         background: transparent !important;
     }
 
-    /* 4. WIDTH: Adjust the text container for mobile */
+    /* 4. WIDTH: Adjust the text container */
     .max-w-prose {
         max-width: 92% !important;
     }
