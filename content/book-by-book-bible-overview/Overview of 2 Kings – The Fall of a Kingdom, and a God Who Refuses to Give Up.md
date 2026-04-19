@@ -6,6 +6,8 @@ tags: []
 date: 2026-04-15
 draft: false
 featureImage: "/img/default-feature.jpg"
+showBadge: true
+badgeContext: "New"
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
