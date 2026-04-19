@@ -1,20 +1,17 @@
-/* This hides the image container specifically within the card grid */
-.grid .relative.w-full.flex-none {
-    display: none !important;
-}
-
-/* This removes the extra margin/spacing left behind by the hidden image */
-.grid .flex.flex-col.justify-between.flex-1 {
-    padding-top: 0 !important;
-    margin-top: 0 !important;
-}
-
-/* Target only images inside the card-view grid */
+/* --- 1. THE KILL SWITCH FOR CARDS --- */
+/* This targets images inside the grid/list cards specifically */
+.grid article img, 
+.grid .card-image, 
 .card img {
     display: none !important;
 }
 
-/* Ensure the hero banner at the top of the page remains visible */
-.hero img, #fixed-header img {
+/* --- 2. THE PROTECTOR FOR BANNERS --- */
+/* This ensures the image STAY VISIBLE at the top of pages and articles */
+.hero img, 
+#hero-image, 
+.featured-image img, 
+header img,
+.custom-library-content img {
     display: block !important;
 }
