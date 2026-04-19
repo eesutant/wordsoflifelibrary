@@ -44,7 +44,8 @@ enableEmoji = true
 
 [[cascade]]
   [cascade.params]
-    featureImage = "/img/default-feature.jpg"
+   thumbnail = false 
+   featureImage = "/img/default-feature.jpg"
   [cascade._target]
     path = "{/bible-survey/**,/book-by-book-bible-overview/**}"
 
