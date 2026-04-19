@@ -1,18 +1,13 @@
 ---
-
 title: "Overview of Exodus: The Pattern of Redemption"
-
 description: ""
-
 categories: [Overview of Exodus: The Pattern of Redemption]
-
 tags: [Bible]
-
 date: 2026-01-02
-
 draft: false
-
+featureImage: "/img/default-feature.jpg"
 ---
+
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
 **A Relevant Story to Begin**

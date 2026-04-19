@@ -7,6 +7,7 @@ tags:
   - bible
 date: 2026-03-25
 draft: false
+featureImage: "/img/default-feature.jpg"
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
