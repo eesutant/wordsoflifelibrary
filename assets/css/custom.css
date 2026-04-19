@@ -45,18 +45,33 @@ article .prose {
     width: 100% !important;
 }
 
-/* Adds a 'Read More' link to the bottom of every card */
-.grid article .flex-1::after {
-    content: "Read Article →";
-    display: block;
-    margin-top: 1rem;
-    font-weight: bold;
-    color: #3b82f6; /* A nice blue color */
-    font-size: 0.9rem;
-    text-decoration: underline;
+/* 1. Create space for the 'Read Article' text */
+.grid article .flex-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 120px; /* Adjust this if you want taller cards */
 }
 
-/* Optional: Changes color when hovering over the card */
+/* 2. Inject the 'Read Article' text automatically */
+.grid article .flex-1::after {
+    content: "Read Article →";
+    display: inline-block;
+    margin-top: auto; /* Pushes the link to the bottom */
+    padding-top: 15px;
+    font-weight: 700;
+    color: #2563eb; /* A vibrant blue */
+    font-size: 0.95rem;
+    letter-spacing: 0.025em;
+}
+
+/* 3. Give a visual 'lift' when the user hovers over the card */
+.grid article:hover {
+    background-color: #f8fafc; /* Very light blue/gray background */
+    transition: background-color 0.2s ease;
+}
+
 .grid article:hover .flex-1::after {
-    color: #2563eb;
+    text-decoration: underline;
+    color: #1d4ed8;
 }
