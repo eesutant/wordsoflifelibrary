@@ -43,14 +43,18 @@ section article .relative {
 }
 
 /* --- 4. THE AUTOMATIC "READ ARTICLE" LINK --- */
-/* Injects the link text under the title or summary on cards */
-.grid article h2::after,
+/* This only targets the summary area to avoid double text */
 .grid article .text-sm::after {
     content: "Read Article →";
     display: block !important;
-    margin-top: 10px !important;
+    margin-top: 15px !important;
     font-weight: bold !important;
     color: #2563eb !important;
     text-decoration: underline !important;
     font-size: 0.9rem !important;
+}
+
+/* This ensures the title doesn't also show the link */
+.grid article h2::after {
+    content: none !important;
 }
