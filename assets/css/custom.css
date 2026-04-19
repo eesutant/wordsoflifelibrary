@@ -1,24 +1,22 @@
-/* --- STEP 1: HIDE IMAGES ON LIST/MENU PAGES --- */
-/* This targets images inside 'main' only when viewing a list of cards */
-.list main img, 
-.section main img,
-article.flex img {
+/* --- BLOWFISH V1 CARD FIX --- */
+
+/* 1. Hide the thumbnail container on the list pages */
+section.w-full .flex .mr-5, 
+section.w-full .flex .flex-none,
+.relative.w-full.mb-5 img {
     display: none !important;
 }
 
-/* --- STEP 2: PROTECT THE BANNERS --- */
-/* This ensures images stay visible at the top of the homepage, menus, and articles */
-.hero img, 
-header img, 
-#hero-image, 
-.featured-image img,
-img[alt*="Banner"],
-.prose img {
-    display: block !important;
+/* 2. Remove the empty space left on the left/top of the text */
+section.w-full .flex .flex-1 {
+    padding-left: 0 !important;
+    margin-top: 0 !important;
 }
 
-/* --- STEP 3: FIX TEXT SPACING --- */
-/* This removes the empty gap on the cards so the text slides up */
-.flex-none, .mb-6 {
-    margin-bottom: 0 !important;
+/* 3. PROTECT: Keep the big header image at the top of the actual article */
+.max-w-prose.featured-image,
+#featured-image,
+.hero img,
+img[alt*="Banner"] {
+    display: block !important;
 }
