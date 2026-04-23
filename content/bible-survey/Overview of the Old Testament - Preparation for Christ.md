@@ -1,11 +1,14 @@
 ---
-title: "Overview of the Old Testament - Preparation for Christ"
-description: "..."
-categories: ["blog"]
-tags: ["bible"]
-date: "2025-09-14"
+title: Overview of the Old Testament - Preparation for Christ
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+categories:
+  - bible-overview
+tags:
+  - bible
+  - overview
+date: 2025-09-14
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 

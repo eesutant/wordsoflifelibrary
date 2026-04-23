@@ -1,13 +1,14 @@
 ---
 title: Delighting in Gods Word
-description: ""
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
 categories:
   - bible-overview
 tags:
   - bible
+  - overview
 date: 2026-01-22
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 **Preface**
 

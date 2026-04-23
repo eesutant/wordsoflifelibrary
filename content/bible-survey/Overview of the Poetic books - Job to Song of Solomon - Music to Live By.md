@@ -1,11 +1,14 @@
 ---
 title: Overview of the Poetic books - Job to Song of Solomon - Music to Live By
-description: ""
-categories: []
-tags: []
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+categories:
+  - bible-overview
+tags:
+  - bible
+  - overview
 date: 2026-01-12
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 

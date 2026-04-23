@@ -1,13 +1,14 @@
 ---
 title: Overview of Revelation - The Ending That Makes Sense of Everything
-description: ""
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
 categories:
   - bible-overview
 tags:
   - bible
+  - overview
 date: 2026-01-20
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 

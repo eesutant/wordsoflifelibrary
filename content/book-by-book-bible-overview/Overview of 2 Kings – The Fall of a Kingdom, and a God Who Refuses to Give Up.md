@@ -1,13 +1,12 @@
 ---
 title: Overview of 2 Kings – The Fall of a Kingdom, and a God Who Refuses to Give Up 🟢 NEW
-description: ""
-categories: []
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+categories:
+  - bible-overview
 tags: []
 date: 2026-04-15
 draft: false
-featureImage: "/img/default-feature.jpg"
-showBadge: true
-badgeContext: "New"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 

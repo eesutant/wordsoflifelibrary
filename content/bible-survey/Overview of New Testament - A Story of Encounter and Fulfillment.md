@@ -1,11 +1,14 @@
 ---
-title: "Overview of New Testament - A Story of Encounter and Fulfillment"
-description: "..."
-categories: ["blog"]
-tags: ["bible"]
-date: "2025-09-15"
+title: Overview of New Testament - A Story of Encounter and Fulfillment
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+categories:
+  - bible-overview
+tags:
+  - bible
+  - overview
+date: 2025-09-15
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 

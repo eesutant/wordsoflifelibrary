@@ -1,13 +1,13 @@
 ---
 title: Overview of 1 Kings - How Kingdoms Fall
-description: ""
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
 categories:
   - bible-overview
 tags:
   - bible
 date: 2026-04-08
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 

@@ -1,11 +1,12 @@
 ---
 title: Overview of Deuteronomy - The Law that Delivers
-description: ""
-categories: []
+description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+categories:
+  - bible-overview
 tags: []
 date: 2026-01-05
 draft: false
-featureImage: "/img/default-feature.jpg"
+featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
