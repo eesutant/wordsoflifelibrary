@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-chronicles---when-god-becomes-the-centre/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-2-chronicles---a-kingdom-of-glory-and-a-kingdom-in-ruins/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-chronicles---when-god-becomes-the-centre/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
