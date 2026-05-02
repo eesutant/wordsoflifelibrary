@@ -40,14 +40,14 @@ If you’ve ever felt that tension, the pull between calling and weakness, betwe
 
 Because 2 Samuel is not just the story of a king. It is the story of a heart, rising, wandering, breaking, and being restored.
 
-**What 2 Samuel Is About**
+## What 2 Samuel Is About
 
 2 Samuel follows the life of David, Israel’s greatest king, through four sweeping movements:
 
-1.  **God establishes David’s rule**
-2.  **David centres the nation on worship**
-3.  **David falls and faces the consequences**
-4.  **David reflects on a lifetime with God**
+### 1.  God establishes David’s rule
+### 2.  David centres the nation on worship
+### 3.  David falls and faces the consequences
+### 4.  David reflects on a lifetime with God
 
 It is a book about leadership, temptation, repentance, consequences, and grace.
 
