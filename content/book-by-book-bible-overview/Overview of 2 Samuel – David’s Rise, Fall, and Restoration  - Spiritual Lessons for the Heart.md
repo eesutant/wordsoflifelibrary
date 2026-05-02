@@ -15,11 +15,6 @@ tags:
   - Bathsheba
   - Nathan
   - Absalom
-  - Biblical_Themes
-  - Temptation
-  - Worship
-  - Inner_Life
-  - Old_Testament
 date: 2026-04-01
 draft: false
 featureImage: /img/default-feature.jpg
@@ -227,7 +222,7 @@ David has learned that God relates to us according to the posture of our hearts.
 
 Paul echoes this truth: “_Not that I have already obtained all this… but I press on to take hold of that for which Christ Jesus took hold of me_” (Philippians 3:12, NIV).
 
-**C. The Census, Pride Still Lurks**
+### C. The Census, Pride Still Lurks
 
 David orders a census, an act of pride, trusting numbers instead of God. Joab warns him, but David insists. The result is devastating: “_So the Lord sent a plague on Israel_” (2 Samuel 24:15, NIV).
 
