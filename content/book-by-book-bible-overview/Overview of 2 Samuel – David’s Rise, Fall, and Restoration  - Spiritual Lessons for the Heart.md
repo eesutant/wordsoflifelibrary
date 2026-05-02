@@ -26,7 +26,7 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
-**A Story to Begin**
+## A Story to Begin
 
 Imagine a young leader named Aaron. He never sought power, but circumstances pushed him forward. People trusted him. God seemed to be shaping him. And for a while, everything went beautifully: victories, unity, purpose.
 
@@ -51,11 +51,11 @@ Because 2 Samuel is not just the story of a king. It is the story of a heart, ri
 
 It is a book about leadership, temptation, repentance, consequences, and grace.
 
-**Introduction: How to Read the Life of David**
+## Introduction: How to Read the Life of David
 
 There are two essential ways to read David’s story, and both unlock the richness of 2 Samuel.
 
-**1\. David as a Picture of Christ**
+### 1. David as a Picture of Christ
 
 David’s life foreshadows Jesus in profound ways. He was the ancestor of Christ, but also a living portrait of Christ’s pattern:
 
@@ -67,7 +67,7 @@ In the same way, Christ is now rejected by the world, gathering His people quiet
 
 David’s journey from rejection to kingship mirrors the arc of Christ’s kingdom, hidden now, revealed later.
 
-**2\. David as a Picture of the Believer**
+### 2. David as a Picture of the Believer
 
 The story of David is a picture of what happens in a Christian’s life when it is yielded to God — a life brought into dominion and reign under Christ. Every Christian is offered a kingdom, just as David was offered a kingdom. That kingdom is the kingdom of your own life, and it resembles the kingdom of Israel in striking ways.
 
@@ -83,7 +83,7 @@ And just as David had to confront, subdue, and sometimes revisit these enemies a
 
 This is why David is such a powerful picture of the believer: He is a man after God’s own heart. He is indwelt, instructed, and corrected by the Spirit. He is flawed, but responsive. He falls, but he rises again. He sins, but he repents. He battles, but he overcomes. David’s story is the believer’s story, the story of a life being brought under the loving, liberating rule of God.
 
-**1\. Chapters 1–5, The Road to Dominion**
+### 1. Chapters 1–5, The Road to Dominion
 
 A young woman named Elise finally broke free from a toxic relationship that had controlled her for years. She described the moment as “like a weight falling off my chest, as I could breathe again.” But freedom didn’t mean instant peace. Old habits tugged at her. Old fears whispered. Old patterns tried to reclaim her.
 
@@ -109,7 +109,7 @@ This movement, from Saul’s death, through prolonged struggle, to David’s ent
 
 David’s journey into kingship is not just history; it is a map of the Christian life.
 
-**2\. Chapters 6–10, Worship and Victory**
+### 2. Chapters 6–10, Worship and Victory
 
 A pastor once told of a church that launched a massive outreach event. The intentions were pure. The excitement was real. But they never prayed about it. They never asked God what He wanted. The event collapsed. Volunteers burned out. Money was wasted. Later, the pastor said, “We were sincere, but we were sincerely wrong.”
 
@@ -144,7 +144,7 @@ When God is at the centre, and David walks in God’s program rather than his ow
 
 Worship, obedience, and alignment with God bring victory.
 
-**3\. Chapters 11–20, Failure, Forgiveness, and the Ripple Effects of Sin**
+### 3. Chapters 11–20, Failure, Forgiveness, and the Ripple Effects of Sin
 
 A businessman once confessed that his affair didn’t begin with passion; it began with boredom. “I wasn’t where I was supposed to be,” he said. “I wasn’t guarding my heart. And one small compromise became a landslide.”
 
@@ -191,7 +191,7 @@ Yet through all of this, David’s heart remains tender. He never blames God. He
 
 David is restored to the throne, but the scars remain. Sin always brings consequences, even when grace restores the sinner.
 
-**4\. Chapters 21–24, Lessons from a Lifetime with God**
+### 4. Chapters 21–24, Lessons from a Lifetime with God
 
 A retired missionary once said, “The older I get, the more I realize that God has been teaching me the same lessons my whole life, just in deeper ways.”
 
@@ -199,7 +199,7 @@ That is exactly what these final chapters feel like.
 
 These chapters form an epilogue, a collection of spiritual lessons David learned over forty years.
 
-**A. The Gibeonites, The Past Must Be Reckoned With**
+### A. The Gibeonites, The Past Must Be Reckoned With
 
 During Joshua’s time, the Gibeonites tricked Israel into making a peace treaty with them (Joshua 9). Israel swore an oath before the Lord to protect them. Generations later, King Saul violated that oath. In misguided zeal, he attacked and tried to destroy the Gibeonites, an act of covenant‑breaking that Israel never addressed.
 
@@ -213,7 +213,7 @@ This teaches:
 
 God desires truth in the inward parts, not outward religion, but inward integrity.
 
-**B. David’s Song, God Mirrors the Heart**
+### B. David’s Song, God Mirrors the Heart
 
 David sings:
 
@@ -239,7 +239,7 @@ Yet even here, grace shines. David repents. God relents. And the site of David�
 
 God turns failure into a foundation.
 
-**So What? Why Does 2 Samuel Matter Today?**
+## So What? Why Does 2 Samuel Matter Today?
 
 Because **2 Samuel is your story**.
 
@@ -254,7 +254,7 @@ It teaches that:
 
 2 Samuel is not a biography; it is a mirror.
 
-**Closing Story**
+## Closing Story
 
 After studying 2 Samuel, a woman named Maria realized she had been drifting spiritually, not in scandal, but in subtle neglect. She had stopped praying regularly, stopped seeking God’s direction, and started relying on her own competence.
 
@@ -266,7 +266,7 @@ She realized she had been walking in her own light. Like David, she confessed. L
 
 2 Samuel didn’t just inform her; it transformed her.
 
-**Conclusion**
+## Conclusion
 
 2 Samuel is not ancient history. It is a revelation of what life with God truly looks like, the heights of devotion, the depths of failure, and the relentless grace of a God who never abandons His people.
 
