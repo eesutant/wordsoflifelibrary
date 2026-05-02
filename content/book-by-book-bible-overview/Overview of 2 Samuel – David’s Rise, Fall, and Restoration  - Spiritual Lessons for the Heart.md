@@ -1,5 +1,5 @@
 ---
-title: Overview of 2 Samuel – The Story of David
+title: Overview of 2 Samuel – David’s Rise, Fall, and Restoration  - Spiritual Lessons for the Heart
 description: A powerful, story‑driven overview of 2 Samuel showing how David’s rise, fall, and restoration reveal the battles of the human heart.
 categories:
   - bible-overview
