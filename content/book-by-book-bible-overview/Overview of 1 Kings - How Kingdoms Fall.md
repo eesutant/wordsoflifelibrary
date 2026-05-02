@@ -1,10 +1,27 @@
 ---
 title: Overview of 1 Kings - How Kingdoms Fall
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A compelling, story‑driven overview of 1 Kings showing how small heart‑level compromises lead to spiritual decline and a divided life.
 categories:
-  - bible-overview
+  - Bible-Study
+  - Old_Testament
+  - 1Kings
+  - Christian_Living
+  - Biblical Narrative
+  - Devotional_Reflections
+  - Theology
+  - 1Kings
 tags:
-  - bible
+  - 1Kings
+  - Solomon
+  - Elijah
+  - Israel
+  - Biblical_Themes
+  - Old_Testament
+  - Prophets
+  - Compromise
+  - Divided_Kingdoms
+  - Rehoboam
+  - Jeroboam
 date: 2026-04-08
 draft: false
 featureImage: /img/default-feature.jpg

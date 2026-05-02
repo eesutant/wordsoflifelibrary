@@ -1,9 +1,27 @@
 ---
 title: Overview of 1 Chronicles - When God Becomes the Centre🟢 NEW
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A narrative‑rich overview of 1 Chronicles showing how its genealogies, David’s reign, and temple focus reveal God’s priority on obedience and His presence.
 categories:
   - bible-overview
-tags: []
+  - 1_Chronicles
+  - Bible_Commentary
+  - Bible-Study
+  - Biblical Narrative
+  - Christian_Living
+  - Devotional_Reflections
+  - Old_Testament
+  - Theology
+tags:
+  - 1Chronicles
+  - Biblical_Themes
+  - David
+  - bible
+  - Saul
+  - Exile
+  - Old_Testament
+  - Worship
+  - Obedience
+  - Temple_of_the_Lord
 date: 2026-04-23
 draft: false
 featureImage: /img/default-feature.jpg

@@ -1,10 +1,25 @@
 ---
 title: Overview of 2 Samuel – The Story of David
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A powerful, story‑driven overview of 2 Samuel showing how David’s rise, fall, and restoration reveal the battles of the human heart.
 categories:
   - bible-overview
+  - Old_Testament
+  - 2Samuel
+  - Christian_Living
+  - Devotional_Reflections
+  - Theology
+  - Biblical Narrative
 tags:
-  - bible
+  - 2Samuel
+  - David
+  - Bathsheba
+  - Nathan
+  - Absalom
+  - Biblical_Themes
+  - Temptation
+  - Worship
+  - Inner_Life
+  - Old_Testament
 date: 2026-04-01
 draft: false
 featureImage: /img/default-feature.jpg
