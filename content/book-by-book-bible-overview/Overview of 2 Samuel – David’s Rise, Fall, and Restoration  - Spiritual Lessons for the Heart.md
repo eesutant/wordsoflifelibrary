@@ -15,6 +15,12 @@ tags:
   - Bathsheba
   - Nathan
   - Absalom
+  - Biblical_Themes
+  - Repentance
+  - Sin
+  - Old_Testament
+  - Grace
+  - Forgiveness
 date: 2026-04-01
 draft: false
 featureImage: /img/default-feature.jpg
