@@ -129,7 +129,7 @@ But the genealogies of Chronicles are far too important to dismiss.
 
 For one thing, they are among the most valuable materials we have for understanding **biblical chronology**. Anyone studying the timeline of Scripture inevitably spends time here. But more importantly, these genealogies reveal **how God works in history**, by choosing, selecting, including, and excluding according to one great principle:
 
-#### God includes the obedient heart and excludes the disobedient one.
+#### God includes the obedient heart and excludes the disobedient one.**
 
 The genealogy begins at the dawn of human history with Adam’s descendants. Yet immediately we see the principle at work:
 

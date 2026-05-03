@@ -30,7 +30,7 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
-**A Story to Begin: The City That Ignored the Cracks**
+## A Story to Begin: The City That Ignored the Cracks
 
 There is a small coastal town where the sea is both friend and threat. Fishermen rise before dawn, children play along the shore, and the rhythm of the waves sets the pace of life. At the edge of the town stands an old seawall, built by their grandparents, weathered by decades of storms. It has always been there, solid and dependable, like an old friend who never fails.
 
@@ -44,7 +44,7 @@ The next morning, as the sun rose over the wreckage, the townspeople stood in si
 
 2 Kings is the story of a seawall like that, strong once, beautiful once, but slowly cracking from within. It is the story of a kingdom that didn’t collapse in a day, but in a thousand small choices. And it is the story of a God who kept calling out, “Repair the cracks while there is still time.”
 
-**Introduction**
+## Introduction
 
 In the Hebrew Bible, 1 and 2 Kings form a single continuous narrative simply called **Kings**. The title is fitting because the story follows the rise and fall of the rulers of God’s kingdom, from Saul and David, through Solomon, and then into the tragic division of the nation under Rehoboam. From that point onward, the book traces two parallel histories:
 
@@ -61,7 +61,7 @@ What makes Kings so compelling is that the kingdom of Israel is not merely a nat
 
 Kings is not just national history. It is a mirror held up to the human heart.
 
-**The Kingdom as a Portrait of Human Life**
+## The Kingdom as a Portrait of Human Life
 
 The two kingdoms in Israel’s history are more than political entities; they are a living parable of the human person. The **ten tribes of the north** picture the **body**, the outward life that interacts with the world. The **two tribes of Judah and Benjamin** picture the **soul**, the inner life where identity, conscience, and emotion reside. And within the soul lies something deeper still, the **human spirit**, so closely intertwined with the soul that Scripture says only God’s Word can distinguish between them: “the word of God… divides soul and spirit” (Hebrews 4:12). This human spirit is the inner sanctuary where God intends to dwell by His Holy Spirit.
 
@@ -82,11 +82,11 @@ Every king in Kings is evaluated by one of these two patterns. Israel’s kings 
 
 Throughout this long decline, God continually intervenes, sending prophets, warnings, miracles, and mercies to arrest the fall. The story of the kingdoms is the story of the human heart: **a life that flourishes when the will bows to God, and a life that collapses when the will enthrones itself**.
 
-**Elijah and Elisha: God Interrupts the Decline**
+## Elijah and Elisha: God Interrupts the Decline
 
 All through the long decline of the kingdoms, God repeatedly stepped in to halt the corruption and call His people back. These divine interventions centred especially on the ministries of **Elijah** and **Elisha**. Kings is remembered above all for these two towering prophets. God never spoke to the nation through a king; the king governed, judged, and shaped the character of the kingdom, but when God wanted to speak, He sent a prophet. Many prophets ministered during this era, Hosea, Amos, Joel, Isaiah, and Jeremiah, but in the narrative of Kings, only Elijah and Elisha appear. Their ministries form the spiritual backbone of the book.
 
-**Elijah: The Prophet of Fire**
+### Elijah: The Prophet of Fire
 
 Elijah bursts onto the scene like a thunderstorm. Rugged, wild, clothed in haircloth with a leather belt, he looked like a man carved out of the wilderness. Time after time, he stood alone before kings, delivering messages of judgment at the risk of his life. Yet God protected him.
 
@@ -94,7 +94,7 @@ His defining moment came on Mount Carmel, where he confronted four hundred proph
 
 Elijah’s ministry was the ministry of fire, judgment, and holy confrontation. He came to shake Israel awake, to expose its shame, and to call it back to covenant faithfulness.
 
-**Elisha: The Prophet of Mercy**
+### Elisha: The Prophet of Mercy
 
 When Elijah was taken up into heaven in a chariot of fire, his mantle fell upon Elisha. If Elijah was the prophet of fire, Elisha was the prophet of **grace**. His ministry is marked by sweetness, compassion, and quiet power. Together, Elijah and Elisha prefigure the ministry of Jesus Christ: Elijah reflecting Christ’s fiery confrontation with corrupt religion, and Elisha reflecting Christ’s tender ministry to individuals.
 
@@ -113,9 +113,7 @@ These miracles are not random acts of power. They picture the ministry of the **
 
 Elijah and Elisha together show how God pursues a drifting people: first with the thunder of truth, then with the tenderness of grace. Their ministries stand as God’s great effort to halt the decay of the kingdom and win back the hearts of His people.
 
-**The Fall of the Two Kingdoms**
-
-**Illustration: The Athlete Who Ignored the Pain**
+## The Fall of the Two Kingdoms
 
 A gifted athlete once felt a sharp pain in his knee. He ignored it. “I’ll push through,” he said. The pain grew. He compensated with bad form. Eventually, his whole leg gave way, and his career ended, not because the injury was too severe, but because he refused to listen.
 
@@ -141,7 +139,7 @@ Above His cross, Pilate wrote the inscription: **“Jesus of Nazareth, the King 
 
 Israel will not know true blessing again, spiritually or physically, until, as Zechariah foretold, they look upon the One they pierced and recognize the King who came to them in lowliness.
 
-**Summary: The Message of 2 Kings**
+## Summary: The Message of 2 Kings
 
 2 Kings is a portrait of a wasted life, a life whose foundation is genuinely laid by God, yet whose structure is built with **wood, hay, and stubble**. It pictures the believer who refuses to let the Holy Spirit rule in the inner temple of the spirit. The will resists God, the heart drifts, and the life slowly decays. The outward life collapses first, then the personality hardens, and finally even the inner temple is left in ruins.
 
@@ -151,7 +149,7 @@ A person may push ahead, gain the world’s approval, and appear successful, yet
 
 The lesson is simple: **It does not have to end this way.**
 
-**So What? Why 2 Kings Matters Today**
+## So What? Why 2 Kings Matters Today
 
 2 Kings is not just the story of a nation. It is a living parable of the human person.
 
@@ -170,7 +168,7 @@ It comforts us that:
 
 The message is quiet but urgent: **Repair the cracks while the light still flickers.**
 
-**A Modern Story to End: The Man Who Found His Way Home**
+## A Modern Story to End: The Man Who Found His Way Home
 
 There was a man who lived in a small apartment overlooking a busy street. From the outside, his life looked ordinary: work, bills, errands, the quiet routines of adulthood. But inside, he carried a heaviness he rarely spoke about. Years of small compromises had piled up like dust in the corners of his heart. He had drifted, not in one dramatic moment, but in a slow, quiet slide.
 
@@ -186,9 +184,9 @@ He didn’t fix everything that night. He didn’t suddenly become strong or hol
 
 2 Kings is written for people like him, for people who have drifted, who feel the cracks widening, who wonder if it’s too late. It whispers a truth as soft as a sunrise:
 
-**“You can come home.** **You can begin again.** **The One who loves you has not given up.”**
+#### “You can come home. You can begin again. The One who loves you has not given up.”
 
-**Resources**
+## Resources
 
 For more references, please see the following:
 

@@ -28,7 +28,7 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
-**_Opening Story_**
+## Opening Story
 
 Imagine a young CEO inheriting a thriving global company from a legendary founder. The board trusts him. The employees admire him. The world watches him. He begins brilliantly, visionary, humble, eager to learn. But in the quiet corners of his private life, he makes two small compromises. They seem harmless. No one notices. He still gives inspiring speeches, still leads with brilliance, and still expands the company. But those two small compromises become cracks. And cracks, left unaddressed, eventually split foundations.
 
@@ -48,7 +48,7 @@ Israel’s monarchy becomes a stage on which God displays this truth. What happe
 
 This is why 1 Kings places such emphasis on the throne, because the throne represents the heart. And the story begins with Solomon, David's successor, ascending to that throne.
 
-**1\. Solomon’s Rise: Wisdom, Glory, and God’s Presence (1 Kings 1–10)**
+## 1. Solomon’s Rise: Wisdom, Glory, and God’s Presence (1 Kings 1–10)
 
 When 1 Kings opens, David is still alive, but the throne is already under threat. His son Adonijah attempts to seize power before David dies. In response, David acts decisively and publicly installs Solomon as king. Solomon is anointed while David still lives, symbolizing a crucial spiritual truth: **true authority is something God establishes, not something we seize for ourselves**. When a life is yielded to God’s rule, God takes responsibility for defending that life against every threat, just as He defended Solomon’s throne against Adonijah.
 
@@ -72,7 +72,7 @@ The nations recognize the splendour of Solomon’s rule. The Queen of Sheba trav
 
 Solomon’s rise is dazzling: wisdom, order, prosperity, worship, and glory. Yet beneath the gold and grandeur, the first cracks have already appeared. The heart of the king is drifting, and the kingdom will eventually follow.
 
-**2\. Solomon’s Fall: A Heart Turned Away (1 Kings 11)**
+## 2. Solomon’s Fall: A Heart Turned Away (1 Kings 11)
 
 After ten chapters of brilliance, blessing, and breathtaking glory, **1 Kings 11** opens with a sudden and tragic shift. The seeds of compromise planted early in Solomon’s reign now bear their bitter fruit. Scripture states plainly:
 
@@ -106,7 +106,7 @@ And this pattern is not unique to Solomon. Many lives collapse not because of su
 
 Solomon’s fall stands as a sobering reminder: **the greatest dangers to the kingdom of your life are not external enemies but internal loyalties.**
 
-**3\. A Divided Kingdom: Rehoboam, Jeroboam, and the Downward Spiral (1 Kings 12–16)**
+## 3. A Divided Kingdom: Rehoboam, Jeroboam, and the Downward Spiral (1 Kings 12–16)
 
 With Solomon gone, **1 Kings 12** marks the beginning of the kingdom’s tragic unravelling. His son Rehoboam inherits the throne, but instead of listening to wise counsel, he responds harshly to the people’s request for relief. The result is catastrophic: **the kingdom splits in two**. Ten tribes (Reuben, Simeon, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Ephraim, and Manasseh) break away under Jeroboam, forming the Northern Kingdom of Israel, while Judah and Benjamin remain with Rehoboam under David’s line.
 
@@ -114,16 +114,16 @@ Jerusalem remains the capital, and the temple stays in the south. The Levites, t
 
 This division shapes the rest of Israel’s history.
 
-**God Sends Prophets to Both Kingdoms**
+### God Sends Prophets to Both Kingdoms
 
 After the split, God faithfully sends prophets to **both** nations:
 
-- **To the Northern Kingdom (Israel):** Prophets like **Ahijah, Elijah, Elisha, Hosea, Amos, and Jonah** confront the kings and call the people back to covenant faithfulness. **But every northern king rejects God’s word.** Israel has **no good kings**, and the prophetic warnings go unheeded.
-- **To the Southern Kingdom (Judah):** Prophets like **Isaiah, Micah, Joel, Habakkuk, Zephaniah, Jeremiah**, and others speak God’s truth. Judah has **a mixture of good and bad kings**, some listen (like Hezekiah and Josiah), while others harden their hearts.
+- #### To the Northern Kingdom (Israel): Prophets like Ahijah, Elijah, Elisha, Hosea, Amos, and Jonah confront the kings and call the people back to covenant faithfulness. But every northern king rejects God’s word. Israel has no good kings, and the prophetic warnings go unheeded.
+- #### To the Southern Kingdom (Judah): Prophets like Isaiah, Micah, Joel, Habakkuk, Zephaniah, Jeremiah, and others speak God’s truth. Judah has a mixture of good and bad kings, some listen (like Hezekiah and Josiah), while others harden their hearts.
 
 This prophetic contrast becomes one of the defining differences between the two kingdoms.
 
-**Jeroboam’s Sin and the Northern Collapse Begins**
+### Jeroboam’s Sin and the Northern Collapse Begins
 
 Jeroboam immediately leads Israel into deep spiritual corruption. Fearing that worship in Jerusalem might turn the people’s hearts back to Rehoboam, he creates **two golden calves** and tells the nation:
 
@@ -135,7 +135,7 @@ This is not a new sin, it echoes the rebellion of Exodus 32, when Israel demande
 
 His actions set the Northern Kingdom on a path of spiritual decay from which it never recovers.
 
-**Judah’s Early Decline**
+### Judah’s Early Decline
 
 Meanwhile, Judah also faces judgment. In **1 Kings 14**, Egypt, the very nation from which God once delivered Israel, invades Jerusalem. Scripture records:
 
@@ -143,7 +143,7 @@ Meanwhile, Judah also faces judgment. In **1 Kings 14**, Egypt, the very nation 
 
 The first thing Egypt takes is **the treasure of the temple**, a symbolic picture of what had already happened spiritually. Solomon’s divided heart had led to a divided kingdom, and now the inner glory of worship is stripped away. The shields of gold are replaced with bronze, a dim imitation of former splendour.
 
-**The Downward Spiral of Israel’s Kings**
+### The Downward Spiral of Israel’s Kings
 
 The narrative then moves through a rapid succession of kings in Israel, Nadab, Baasha, Elah, Zimri, Omri, each one continuing the downward slide. The decline reaches a new depth under **Ahab**, who marries Jezebel and embraces Baal worship with unprecedented zeal:
 
@@ -153,7 +153,7 @@ The kingdom that once shone with the glory of Solomon’s temple now sinks into 
 
 The message is unmistakable: **When the king’s heart turns from God, the kingdom follows.** And when the throne of a life is surrendered to rival loves, the consequences ripple outward into every corner of that life.
 
-**4\. Elijah: God’s Voice in a Dark Time (1 Kings 17–22)**
+## 4. Elijah: God’s Voice in a Dark Time (1 Kings 17–22)
 
 The final movement of 1 Kings introduces **Elijah**, whose ministry erupts onto the scene in chapter 17. Though prophets had appeared before him, Elijah is the first whose ministry is marked by **miracles**, a dramatic sign that God is still present and active in a nation that has largely rejected Him. In Judah, where the temple still stood, prophets did not need miraculous signs to validate God’s presence. But in the Northern Kingdom, where golden calves replaced true worship, miracles became God’s wake‑up call to a drifting people.
 
@@ -187,26 +187,26 @@ The spiritual lesson of this final section is captured in Proverbs:
 
 External pressures cannot dethrone a life anchored in God. Collapse comes only when the heart allows a rival love to take God’s place. When the throne of the heart is surrendered to anything else, fear, desire, pride, or idolatry, the kingdom begins to crumble.
 
-**So What? Why 1 Kings Matters Today**
+## So What? Why 1 Kings Matters Today
 
 1 Kings presses a single, unavoidable truth into the heart of every reader:
 
-**Your heart is the throne of your life. Whoever sits there determines your future.**
+#### Your heart is the throne of your life. Whoever sits there determines your future.
 
-- **Solomon’s downfall began not with idolatry, but with affection.**
-- **The kingdom split not because of enemies, but because of pride.**
-- **Israel drifted not because God was absent, but because their hearts wandered.**
-- **Elijah’s ministry shows that God will shake us, confront us, whisper to us, and pursue us, because He wants our hearts back.**
+- #### Solomon’s downfall began not with idolatry, but with affection.
+- #### The kingdom split not because of enemies, but because of pride.
+- #### Israel drifted not because God was absent, but because their hearts wandered.
+- #### Elijah’s ministry shows that God will shake us, confront us, whisper to us, and pursue us, because He wants our hearts back.
 
 The book asks you to examine the throne of your own life:
 
-- **What small compromise is quietly shaping the direction of your heart?**
-- **What affection is competing with your loyalty to God?**
-- **What rival love is quietly taking the place of the King?**
+- #### What small compromise is quietly shaping the direction of your heart?
+- #### What affection is competing with your loyalty to God?
+- #### What rival love is quietly taking the place of the King?
 
 1 Kings teaches that the greatest spiritual battles are not fought on mountains like Carmel, but in the unseen chambers of the heart.
 
-**Closing Story**
+## Closing Story
 
 A respected Christian leader once built a ministry that touched thousands. His sermons were powerful, his leadership admired, and his influence far‑reaching. Outwardly, everything gleamed like Solomon’s temple, golden, impressive, and full of activity. People spoke of his wisdom, his gifting, and the fruit of his work. He was invited to conferences, quoted in books, and sought after for counsel. To many, he seemed unshakeable.
 
@@ -222,7 +222,7 @@ This story is not rare. It is repeated in countless lives, in pastors, parents, 
 
 1 Kings teaches us to pay attention to the small things, because **the heart is always conquered in inches before it is conquered in miles**.
 
-**Final Concluding Thought**
+## Final Concluding Thought
 
 1 Kings ends with a divided kingdom, a fallen king, and a prophet listening to the whisper of God. It is a book filled with glory and tragedy, wisdom and folly, fire and silence. But above all, it is a book about the heart.
 
@@ -236,7 +236,7 @@ Guard it fiercely. Guard it humbly. Guard it with the help of the God who still 
 
 May the King of Kings sit on the throne of your heart, and may your life become a kingdom marked not by drift, but by devotion; not by compromise, but by courage; not by collapse, but by the quiet, steady reign of God.
 
-**Resources**
+## Resources
 
 For more references, please see the following:
 
