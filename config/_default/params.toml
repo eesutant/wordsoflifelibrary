@@ -9,11 +9,14 @@ colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
+
 enableA11y = false
 enableSearch = true
 enableCodeCopy = false
 
 replyByEmail = true
+
+customCSS = ["css/custom.css"]
 
 # mainSections = ["section1", "section2"]
 # robots = ""
