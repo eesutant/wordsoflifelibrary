@@ -28,7 +28,7 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
-**Opening Story - Discovering the Family Chest**
+## Opening Story - Discovering the Family Chest
 
 Sometimes the most important stories hide in places we don’t expect.
 
@@ -54,7 +54,7 @@ That is what the opening chapters of **1 Chronicles** are like.
 
 They are not random names. They are a carefully curated family chest, God’s family album, selected by a loving God who wants His people, fresh from the seventy years of Israel's captivity in Babylon and unsure of their identity, to remember who they are, where they came from, and what kind of hearts He blesses.
 
-**1\. Introduction**
+## 1. Introduction
 
 When we open **1 Chronicles**, we are not simply reading history; we are reading history told through the eyes of a **priest**. This is crucial. Chronicles are not the viewpoint of a politician, a military strategist, or a royal historian. It is the perspective of someone whose entire life revolves around **worship**, **holiness**, and **the presence of God**.
 
@@ -82,7 +82,7 @@ From a priest’s perspective, the central questions are:
 
 This explains the shape of the book.
 
-**Why Saul Is Almost Ignored**
+### Why Saul Is Almost Ignored
 
 Saul receives only one chapter. Not because he was unimportant politically, but because he was spiritually disqualified. A priest is not impressed by military victories or royal charisma. A priest cares about **obedience**. And Saul’s life is summed up in one tragic sentence:
 
@@ -90,7 +90,7 @@ Saul receives only one chapter. Not because he was unimportant politically, but 
 
 From a priest’s viewpoint, a king who refuses to obey God cannot lead God’s people. Therefore, Saul’s story is not central.
 
-**Why David Dominates the Book**
+### Why David Dominates the Book
 
 David, however, is the priest’s delight, not because he was flawless, but because he had **an obedient heart**. He sought God. He honored the ark. He prepared the temple. He submitted to God’s word. He repented deeply when he sinned.
 
@@ -98,13 +98,13 @@ To a priest, this is what matters.
 
 So in Chronicles, David is not merely a king. He is **God’s king**. He is the man through whom God restores worship, establishes the temple, and models what it means to live under God’s authority.
 
-**Why the Northern Kingdom Is Ignored**
+### Why the Northern Kingdom Is Ignored
 
 The priestly writer almost completely bypasses the Northern Kingdom because its kings never aligned themselves with the temple, the priesthood, or the worship of the Lord. They built rival shrines, rival altars, and rival systems of worship. From a priest’s perspective, they are spiritually irrelevant.
 
 Chronicles is the story of **the line of David** and **the place of God’s presence**, the king and the temple.
 
-**Why Ezra Wrote This Way**
+### Why Ezra Wrote This Way
 
 Ezra writes to a discouraged, returning community, people rebuilding their identity, their worship, and their hope. His purpose is not merely to record history but to **re‑establish the worship of the Lord** and to show how God works through obedient hearts to build His kingdom.
 
@@ -121,7 +121,7 @@ This is not just history. It is **a theological portrait**, a selective, Spirit�
 - what God values,
 - and how His presence must stand at the centre of their lives.
 
-**2\. The Genealogies (Chapters 1–9)**
+## 2. The Genealogies (Chapters 1–9)
 
 The selective character of **1 Chronicles** becomes immediately clear in its opening nine chapters. At first glance, these long genealogies may feel like a string of difficult names, easy to skim, easy to skip. Many readers feel like the old Scottish preacher who began reading Matthew 1, sighed, and said, “They kept on begetting one another all the way down this side of the page and clear on to the other side,” before jumping ahead.
 
@@ -129,7 +129,7 @@ But the genealogies of Chronicles are far too important to dismiss.
 
 For one thing, they are among the most valuable materials we have for understanding **biblical chronology**. Anyone studying the timeline of Scripture inevitably spends time here. But more importantly, these genealogies reveal **how God works in history**, by choosing, selecting, including, and excluding according to one great principle:
 
-**God includes the obedient heart and excludes the disobedient one.**
+#### God includes the obedient heart and excludes the disobedient one.
 
 The genealogy begins at the dawn of human history with Adam’s descendants. Yet immediately we see the principle at work:
 
@@ -156,7 +156,7 @@ The genealogies are not filler. They are a theological map showing how God build
 
 **This sets the pattern for the rest of the book.**
 
-**3\. Saul’s Life in One Chapter (10)**
+## 3. Saul’s Life in One Chapter (10)
 
 Saul’s reign is summarized in fourteen verses. The reason is blunt:
 
@@ -164,17 +164,17 @@ Saul’s reign is summarized in fourteen verses. The reason is blunt:
 
 Disobedience shortens the story.
 
-**4\. David - God’s King (Chapters 11–29)**
+## 4. David - God’s King (Chapters 11–29)
 
 The rest of 1 Chronicles is all about **David**, the king with an obedient heart. From the moment he is anointed, the book traces his life as **God’s chosen king**, the one through whom God restores worship and establishes His presence among His people.
 
-**a. David Takes Jerusalem (Chapter 11)**
+### a. David Takes Jerusalem (Chapter 11)
 
 David’s first act as king is to capture the Jebusite stronghold of **Jerusalem**, the city where God had chosen to place His name. Immediately after this, the chronicler gives a flashback to David’s years in exile and the **mighty men** who gathered around him, men drawn to him because of his character and faith.
 
 Among them is **Benaiah**, who “slew a lion in a pit on a snowy day” (11:22). These men who shared David’s suffering later shared his glory. The chronicler uses this as a picture of Christ: those who share His sufferings now will share His glory when He reigns in righteousness.
 
-**b. The Ark and the Lesson of Obedience (Chapters 13–16)**
+### b. The Ark and the Lesson of Obedience (Chapters 13–16)
 
 The second great emphasis of the book is the **ark of God**. David attempts to bring the ark back on a cart, ignoring God’s command that only Levites may carry it. When Uzzah touches the ark and dies, David is shaken. He realizes he has neglected God’s word.
 
@@ -187,7 +187,7 @@ David repents, follows God’s instructions, and the ark is brought into Jerusal
 
 A remarkable detail emerges: The **tabernacle**, the old center of worship, was still in **Gibeon**, not Jerusalem. Yet David brings the ark to the city of the king and establishes a new center of worship. This anticipates the coming **temple**, where God’s presence will be fixed.
 
-**c. The Tabernacle, the Temple, and the Christian Life**
+### c. The Tabernacle, the Temple, and the Christian Life
 
 The chronicler uses the tabernacle and temple to teach spiritual truth:
 
@@ -196,11 +196,11 @@ The chronicler uses the tabernacle and temple to teach spiritual truth:
 
 When Christ becomes King in the heart, the ark is “fixed in the temple,” and blessing flows. A new beginning takes place, a new government, a new way of life.
 
-**d. David’s Victories (Chapters 18–20)**
+### d. David’s Victories (Chapters 18–20)
 
 Once the ark is established in Jerusalem, the chronicler records David’s victories over every enemy. This symbolizes the spiritual victories that follow when Christ is enthroned in the believer’s life.
 
-**e. The One Dark Chapter - Numbering the People (Chapter 21)**
+### e. The One Dark Chapter - Numbering the People (Chapter 21)
 
 The chronicler passes over David’s sin with Bathsheba in silence, because it was a personal failure, not a kingly one. But he highlights David’s sin of **numbering the people**, because it was a failure of leadership, a departure from trusting God’s strength.
 
@@ -210,7 +210,7 @@ Gideon’s 300, David’s sling, and Samson’s jawbone all illustrate this prin
 
 Because David’s example influenced the whole nation, God’s discipline was severe. Yet even here, mercy triumphs. David buys the threshing floor of **Ornan**, builds an altar, and the plague stops. That very site becomes the location of the future **temple**, judgment turned into grace.
 
-**f. David’s Preparation for the Temple (Chapters 22–29)**
+### f. David’s Preparation for the Temple (Chapters 22–29)
 
 David longs to build the temple, but God appoints **Solomon**, a man of peace, to do it. David accepts God’s will with humility. Yet God graciously allows David to prepare everything:
 
@@ -222,7 +222,7 @@ David longs to build the temple, but God appoints **Solomon**, a man of peace, t
 
 The book closes with David and Solomon reigning side by side, a picture of Christ as both **warrior** (David) and **prince of peace** (Solomon).
 
-**The Message of 1 Chronicles**
+## The Message of 1 Chronicles
 
 The book teaches one central truth:
 
@@ -232,11 +232,11 @@ Not our strength. Not our numbers. Not our plans. Not our enthusiasm.
 
 When God is King, truly King, blessing flows, battles are won, and life becomes ordered around what is eternal.
 
-**So What? - Why This Matters Today**
+## So What? - Why This Matters Today
 
 1 Chronicles invites us to ask:
 
-**Who is king in my life?**
+#### Who is king in my life?
 
 Many believers live like the tabernacle, moving, wandering, up and down. But when Christ is enthroned as King, like the ark fixed in the temple, stability comes. Obedience becomes joyful. Life aligns with God’s purposes.
 
@@ -246,7 +246,7 @@ The book calls us to:
 - value obedience over enthusiasm,
 - and build our lives around God’s presence, not our plans.
 
-**Closing Story - Building the Hidden Stones**
+## Closing Story - Building the Hidden Stones
 
 Years ago, a master stonecutter worked on a cathedral that would take more than a century to complete. He knew he would never see the finished building. He would never walk its halls or hear the choir sing beneath its vaulted ceilings. But every morning, he arrived before sunrise, lit his lamp, and began shaping stones with quiet devotion.
 
@@ -267,11 +267,11 @@ The chronicler wrote to a discouraged people returning from exile, people who fe
 
 And now the book whispers the same truth to us:
 
-**Your life is a temple.** **Your obedience is a stone.** **Your worship is the foundation.** **Your choices shape something eternal.**
+#### Your life is a temple. Your obedience is a stone. Your worship is the foundation. Your choices shape something eternal.
 
 You are not building a wall. You are building a cathedral. And the King who dwells in the temple sees every stone you place.
 
-**Resources**
+## Resources
 
 For more references, please see the following:
 
