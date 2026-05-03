@@ -105,3 +105,12 @@ section article .relative {
         max-width: 92% !important;
     }
 }
+.prose h2 {
+  margin-top: 0.6em;
+  margin-bottom: 0.4em;
+}
+
+.prose h3 {
+  margin-top: 0.4em;
+  margin-bottom: 0.3em;
+}
