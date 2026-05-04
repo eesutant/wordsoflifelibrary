@@ -13,7 +13,7 @@ Adapted from insights by Ray C. Stedman and other biblical reflections.
 
 A narrative of two kings, two ways of living, and one God who weighs the heart._
 
-**Opening Story**
+## Opening Story
 
 Aaron lived most of his life by instinct. If something felt right, he did it. If something felt difficult, he avoided it. He believed in God, but only in the background, like an emergency number he might call if life collapsed.
 
@@ -23,7 +23,7 @@ Aaron had gotten what he wanted, but not what he needed.
 
 His story mirrors the message of **1 Samuel**: two ways of living, **self‑reliance** and **God‑dependence**, and the radically different outcomes they produce.
 
-**Introduction: The Old Testament as a Mirror of the Heart**
+## Introduction: The Old Testament as a Mirror of the Heart
 
 The Old Testament is filled with **case studies in normal and abnormal living**. Like a psychology textbook that uses real people to illustrate deep principles, Scripture uses real stories, messy, honest, and unfiltered, to reveal the spiritual dynamics at work in every human heart. These stories are not merely historical; they are **spiritual diagnostics**.
 
@@ -54,9 +54,9 @@ The structure of the book follows these three figures:
 
 Through them, 1 Samuel becomes a living portrait of the inner conflict every believer knows.
 
-**Samuel: God’s Voice in a Barren Nation (1 Samuel 1–7)**
+## Samuel: God’s Voice in a Barren Nation (1 Samuel 1–7)
 
-**1\. Hannah’s Barrenness and Israel’s Spiritual Condition**
+### 1. Hannah’s Barrenness and Israel’s Spiritual Condition
 
 The book opens with **Hannah**, deeply loved yet barren, mocked by her husband’s other wife. Her barrenness is symbolic: Israel itself is spiritually barren, fruitless, compromised, and drifting from God.
 
@@ -72,7 +72,7 @@ Israel’s priesthood was failing not because the system was flawed, but because
 
 Into this barrenness, God gives Hannah a son, **Samuel**, a sign that God can bring life out of death.
 
-**2\. Samuel’s Birth, Calling, and Ministry**
+### 2. Samuel’s Birth, Calling, and Ministry
 
 Hannah dedicates Samuel to the Lord, and the boy grows up in the tabernacle. Even as a child, he becomes **the voice of God** to Eli, delivering a message of judgment on Eli’s corrupt household.
 
@@ -86,7 +86,7 @@ Samuel stands at a turning point in Israel’s history:
 
 Through Samuel, God calls Israel back to repentance, truth, and obedience.
 
-**3\. Israel’s Decay and the Departure of God’s Glory**
+### 3. Israel’s Decay and the Departure of God’s Glory
 
 The first seven chapters trace Israel’s downward spiral:
 
@@ -99,7 +99,7 @@ This is one of the lowest points in Israel’s national story. The people who we
 
 Yet even here, God is not silent. Through Samuel, He begins to restore the nation, not by political strategy, but by calling them back to Himself.
 
-**4\. Israel Demands a King, and Rejects God**
+### 4. Israel Demands a King, and Rejects God
 
 Samuel’s ministry had become a stabilizing force in a collapsing nation. Through him, God restored clarity, confronted corruption, and called Israel back to Himself. But spiritual renewal does not eliminate the battle between flesh and Spirit—it exposes it.
 
@@ -135,11 +135,11 @@ Israel’s demand for a king “like the nations” becomes the turning point of
 
 Saul enters the story as the embodiment of Israel’s desire—a man shaped by human expectations rather than divine formation.
 
-**Saul: The Tragedy of Self‑Reliance (1 Samuel 8–15)**
+## Saul: The Tragedy of Self‑Reliance (1 Samuel 8–15)
 
 Saul’s life is one of Scripture’s clearest portraits of the **flesh**, the self‑directed life that resists surrender to God. His story shows how a person can look impressive, begin well, experience God’s blessing, and yet collapse because the heart refuses obedience.
 
-**1\. Saul’s Calling: God Reaches a Man Who Isn’t Seeking Him**
+### 1. Saul’s Calling: God Reaches a Man Who Isn’t Seeking Him
 
 Saul begins as a young man with **no interest in God’s will**. He is busy with his father’s donkey business, absorbed in ordinary life, uninterested in spiritual things. Yet God pursues him.
 
@@ -153,7 +153,7 @@ Saul had gone out looking for donkeys and returned as the king of Israel, yet he
 
 This is the first sign of the flesh: **avoiding God’s call when it threatens our comfort.**
 
-**2\. Saul’s Early Success: Using God Without Submitting to Him**
+### 2. Saul’s Early Success: Using God Without Submitting to Him
 
 Despite Saul’s reluctance, God empowers him. When the Ammonites attack, Saul rallies Israel and wins a decisive victory. The people cheer, “Long live the king!”
 
@@ -167,7 +167,7 @@ Samuel arrives immediately afterward and confronts him:
 
 Saul’s kingdom is now doomed, not because of one mistake, but because of a **pattern of self‑rule**.
 
-**3\. Saul’s Decline: Religious Activity Without Obedience**
+### 3. Saul’s Decline: Religious Activity Without Obedience
 
 After Jonathan’s faith wins a great victory, Saul builds his first recorded altar. But this is outward religion, not inward surrender. He thinks rituals can substitute for obedience.
 
@@ -187,7 +187,7 @@ Saul’s refusal to obey reveals the core of the flesh: **presuming to find good
 
 Because Saul rejects God’s word, God rejects Saul’s kingship.
 
-**4\. The Lesson of Saul’s Life**
+### 4. The Lesson of Saul’s Life
 
 Saul shows what happens when a person:
 
@@ -205,11 +205,11 @@ Saul obeyed fear, pride, and self‑will, and became their slave.
 
 This is why 1 Samuel places Saul beside David: **Saul shows the ruin of the flesh; David shows the beauty of faith.**
 
-**David: The Beauty of a God‑Dependent Heart (1 Samuel 16–31)**
+## David: The Beauty of a God‑Dependent Heart (1 Samuel 16–31)
 
 David’s life is Scripture’s most vivid portrait of **the man of faith**, the believer who learns to walk in dependence on God rather than in the strength of the flesh. His story stands in deliberate contrast to Saul’s, showing what God can do with a heart that trusts Him.
 
-**1\. God Chooses David: The Heart, Not the Appearance**
+### 1. God Chooses David: The Heart, Not the Appearance
 
 When Samuel visits Jesse’s house, the seven older sons look like kings, strong, impressive, capable. But God rejects each one. Then the youngest, smallest, least likely son is brought in from the fields.
 
@@ -219,7 +219,7 @@ God says:
 
 David is anointed, but unlike Saul, he is **not placed on the throne immediately**. God’s pattern for the man of faith is different: **calling first, crowning later; anointing first, adversity next.**
 
-**2\. David’s Training: Obscurity, Hardship, and Dependence**
+### 2. David’s Training: Obscurity, Hardship, and Dependence
 
 David enters a long season of testing, rejection, danger, loneliness, and exile. Everything seems to go against him. Yet this is how God forms a king.
 
@@ -231,7 +231,7 @@ This is why he can later write:
 
 David’s faith is not theoretical; it is forged in caves, deserts, and sleepless nights.
 
-**3\. David and Goliath: Faith That Sees God, Not Giants**
+### 3. David and Goliath: Faith That Sees God, Not Giants
 
 Israel trembles before Goliath, who mocks and intimidates the armies of God. No one dares to fight him.
 
@@ -249,7 +249,7 @@ David strikes the giant, cuts off his head with Goliath’s own sword, and becom
 
 David is also a picture of the believer who lives the life of Christ, overcoming not by strength, but by faith.
 
-**4\. David’s Exile: The Flesh Persecutes the Spirit**
+### 4. David’s Exile: The Flesh Persecutes the Spirit
 
 After Goliath, Saul becomes violently jealous. From chapter 18 onward, Saul hunts David relentlessly. Paul describes this dynamic:
 
@@ -269,7 +269,7 @@ Twice, David has the chance to kill Saul. Twice, he refuses. He will not seize t
 
 This is the essence of faith: **refusing to act in the flesh, even when the flesh seems justified.**
 
-**5\. David’s Vindication and Saul’s End**
+### 5. David’s Vindication and Saul’s End
 
 David’s years in the wilderness are not wasted years; they are shaping years. While Saul clings to power and spirals deeper into fear, David learns dependence, humility, and trust.
 
@@ -285,7 +285,7 @@ Saul’s death illustrates Paul’s warning:
 
 Saul is saved, but his life is wasted. David is vindicated, and the man of faith is lifted up.
 
-**So What?**
+## So What?
 
 1 Samuel is not just a story about two kings; it is a story about **two ways of living**.
 
@@ -302,7 +302,7 @@ The book presses a deeper question:
 
 1 Samuel shows that **self‑rule leads to fear, emptiness, and collapse**, while **God's‑rule leads to strength, peace, and purpose**.
 
-**Closing Modern Story**
+## Closing Modern Story
 
 Maria was capable, respected, and admired. But she lived with a quiet pressure to control everything. She prayed, but mostly to ask God to bless the plans she had already made.
 
@@ -316,7 +316,7 @@ She began to live like David. seeking God, trusting God, waiting on God.
 
 And slowly, the peace she had chased for years finally found her.
 
-**Resources**
+## Resources
 
 For more references, please see the following:
 

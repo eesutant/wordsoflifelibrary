@@ -12,7 +12,7 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
-**Introduction**
+## Introduction
 
 The book of Judges is one of the most fascinating yet sobering accounts in Scripture. It is filled with gripping stories, Assassination of the Moabite king, Gideon’s army reduced to three hundred men, and Samson’s strength and downfall. These accounts are colourful, dramatic, and unforgettable.
 
@@ -22,9 +22,9 @@ Judges must be read alongside Joshua. Both books take place in the land of Canaa
 
 The New Testament reminds us that these accounts are not just history; they are also spiritual lessons. As Paul writes, _“These things happened to them as examples and were written down as warnings for us.”_ (1 Corinthians 10:11, NIV).
 
-**The Pattern of Defeat**
+## The Pattern of Defeat
 
-**Step One: Settling for Less than Total Victory**
+### Step One: Settling for Less than Total Victory
 
 Israel’s defeat began when they failed to drive out the Canaanites as God commanded. Instead of complete obedience, they tolerated compromise, allowing pagan tribes to remain among them. This “partial victory” became the seed of spiritual decline.
 
@@ -41,7 +41,7 @@ When they investigated the villages, the people seemed harmless, even friendly. 
 
 This compromise mirrors the Christian life today. Many believers abandon obvious sins but tolerate “smaller” ones—anger, worry, pride, or self-confidence. They excuse them as personality traits or family habits: _“That’s just the way I am.”_ But tolerated sins become entrenched strongholds. Settling for less than total victory always leads to eventual defeat.
 
-**Step Two: God’s Warning Given by God’s Grace and Ignored**
+### Step Two: God’s Warning Given by God’s Grace and Ignored
 
 In chapter two, God’s grace is revealed as He warns Israel of the consequences of their compromise.
 
@@ -53,7 +53,7 @@ Despite this clear warning, Israel ignored God’s voice. _“The Israelites did
 
 This shows how God, in His grace, always warns before judgment. Yet when His warnings are ignored, compromise inevitably leads to idolatry and decline.
 
-**Step Three: The Drift into Idolatry**
+### Step Three: The Drift into Idolatry
 
 The next step was open idolatry. Israel bowed to Baal and Ashtaroth, fertility gods of the Canaanites. Baal was a male god, Ashtaroth a female goddess. These were worshiped through immoral practices.
 
@@ -65,7 +65,7 @@ This worship was not only idolatry but also licentiousness, involving sexual rit
 
 Modern parallel: believers today face similar pressures—“If you want success, you must compromise your faith.” Whether in business, culture, or relationships, the temptation to adopt worldly practices can lead to spiritual decline.
 
-**Step Four: Bondage Under Enemies**
+### Step Four: Bondage Under Enemies
 
 The next step in the cycle was bondage. Israel’s disobedience provoked God’s anger: _“They forsook the Lord and served the Baals and the Ashtaroth. So the Lord’s anger burned against Israel, and he gave them into the hands of raiders who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist.”_ (Judges 2:13–15, NIV).
 
@@ -73,7 +73,7 @@ God, in His grace, had placed warning after warning before them, but they ignore
 
 Modern parallel: when believers ignore God’s warnings, life often feels like bondage—habits enslave, relationships break down, and peace disappears.
 
-**Step Five: God’s Grace Through Judges**
+### Step Five: God’s Grace Through Judges
 
 Even in judgment, God’s grace intervened: _“Then the Lord raised up judges, who saved them out of the hands of these raiders. Whenever the Lord raised up a judge for them, he was with the judge and saved them out of the hands of their enemies as long as the judge lived.”_ (Judges 2:16–18, NIV).
 
@@ -83,7 +83,7 @@ This cycle shows both man’s folly and God’s mercy. Israel repeatedly fell in
 
 Modern parallel: God’s grace still intervenes today. Even when believers fall into cycles of sin, He raises up voices, circumstances, and deliverers to call His people back. His patience is long, but His call is urgent: return to Him before decline deepens.
 
-**Step Six: Continuous Decline**
+### Step Six: Continuous Decline
 
 The revelation of man’s perpetual folly is seen in chapter two: _“But whenever the judge died, they turned back and behaved worse than their fathers, going after other gods, serving them and bowing down to them; they did not drop any of their practices or their stubborn ways.”_ (Judges 2:19, NIV).
 
@@ -93,7 +93,7 @@ This tragic shift, from battling God’s enemies to battling themselves—marks 
 
 Modern parallel: when believers persist in compromise, communities of faith often turn inward,
 
-### Comparison with Romans 1
+## Comparison with Romans 1
 
 The pattern in Judges parallels the decline described in Romans 1. Paul writes that what can be known about God is plain, yet people chose idolatry: “Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images made to look like a mortal human being and birds and animals and reptiles.” (Romans 1:22–23, NIV).
 
@@ -129,7 +129,7 @@ Judges is not just ancient history; it is a mirror for our lives. It shows how c
 
 The book ends in darkness, but Ruth begins in hope. Even in decline, God is at work, weaving redemption into the story. That is the ultimate encouragement: though we may fall into cycles of defeat, God’s grace is greater, and His plan of salvation through Christ is unshakable.
 
-**Resources**
+## Resources
 
 For more references, please see the following:
 

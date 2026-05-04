@@ -36,7 +36,7 @@ This is the story of 1 Kings. It is the story of how a kingdom is gained, how it
 
 1 Kings is a mirror held up to the human heart.
 
-**Introduction: Why 1 Kings Matters for Every Believer**
+## Introduction: Why 1 Kings Matters for Every Believer
 
 1 Kings is, at its core, the gripping story of **how a kingdom is lost**. But it is far more than ancient history. The Old Testament narratives function like **spiritual mirrors**, visual aids God uses to show us what is happening inside our own lives. When we read these stories with open eyes, they begin to read us. The kings, the choices, the victories, and the failures all point to the deeper reality that **every person is meant to rule a kingdom, the kingdom of their own life under God’s authority**.
 
