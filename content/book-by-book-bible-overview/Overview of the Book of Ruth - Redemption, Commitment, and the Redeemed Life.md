@@ -15,7 +15,7 @@ Adapted from insights by Ray C. Stedman and other biblical reflections_
 
 A narrative doorway for those who have never read Ruth, enriched with the theological depth of the Old Testament picture and the New Testament fulfillment in Christ._
 
-**A Modern Doorway into Ruth’s World**
+## A Modern Doorway into Ruth’s World
 
 Maya sat alone in a crowded airport terminal, clutching a one‑way ticket and a backpack that held everything she owned. In six months, she had lost her mother, her business, and the relationship she thought would anchor her future. Now she was flying to live with an aunt she barely knew, in a city she had never visited, with no plan except survival.
 
@@ -25,7 +25,7 @@ She felt like a stranger stepping into a land where she had nothing to offer and
 
 This is the emotional doorway into the book of Ruth, a story for anyone who has ever lost more than they thought they could bear, stepped into an unknown future, or wondered whether God still writes beauty out of brokenness.
 
-**Why Ruth Is a Masterpiece**
+## Why Ruth Is a Masterpiece
 
 Benjamin Franklin once read the book of Ruth aloud to a group of French sceptics known as the Infidels Club, changing the names so they wouldn’t recognize it as Scripture. When he finished, they praised it as one of the most beautiful short stories they had ever heard and demanded to know its source. Franklin was delighted to reveal that it came from the Bible, the very book they scorned.
 
@@ -37,9 +37,9 @@ _“These things happened to them as examples and were written down as warnings 
 
 Ruth is the **romance of redemption**.
 
-**THE FOUR MOVEMENTS OF REDEMPTION**
+## THE FOUR MOVEMENTS OF REDEMPTION
 
-**1\. The Fall - When “My God Is King” Marries “Pleasure.”**
+### 1. The Fall - When “My God Is King” Marries “Pleasure.”
 
 The Old Testament often hides truth in names. Ruth opens with a man named **Elimelech**, meaning _“My God is King.”_ In that name lies the whole doctrine of humanity as God intended it:
 
@@ -66,13 +66,13 @@ _“Don’t call me Naomi… Call me Mara, because the Almighty has made my life
 
 But the turning point comes when Naomi decides to return to Bethlehem. Both daughters‑in‑law begin the journey with her, but here the story divides into two paths, two hearts, two kinds of commitments.
 
-**Orpah: The Commitment That Feels Real but Does Not Last**
+#### Orpah: The Commitment That Feels Real but Does Not Last
 
 Orpah walks with Naomi for a while. She weeps. She promises. She begins the journey. But as the road stretches on, her heart pulls her back toward Moab, toward her people, her gods, her old life. Her commitment was sincere in emotion but shallow in resolve.
 
 She loved Naomi, but she loved Moab more.
 
-**Ruth: The Commitment That Clings and Never Lets Go**
+#### Ruth: The Commitment That Clings and Never Lets Go
 
 Ruth’s commitment is of a different kind, deep, covenantal, unshakeable. When Naomi urges her to return, Ruth replies:
 
@@ -82,7 +82,7 @@ Orpah kissed Naomi and left. **Ruth clung to her.**
 
 One turns back. One goes forward into the unknown and into redemption.
 
-**2\. Grace - Ruth Seeks Favour in the Fields**
+### 2. Grace - Ruth Seeks Favour in the Fields
 
 From the bitterness of chapter one, the story moves into the quiet working of grace. Naomi and Ruth arrive in Bethlehem with no money, no property, no husbands, and no security. They take the only posture they can: **destitution**.
 
@@ -102,7 +102,7 @@ And then Scripture says she “happened” to come to the field of **Boaz**, who
 
 But nothing truly “just happens.” This is a divine appointment disguised as a coincidence.
 
-**Why “Coincidence” in Ruth Is Often a Divine Appointment**
+#### Why “Coincidence” in Ruth Is Often a Divine Appointment
 
 The Bible is full of moments that look accidental but are actually orchestrated by God.
 
@@ -113,7 +113,7 @@ The Bible is full of moments that look accidental but are actually orchestrated 
 
 Often, the moments we call coincidence are the fingerprints of God.
 
-**Ruth’s Divine Appointment with Boaz**
+#### Ruth’s Divine Appointment with Boaz
 
 Boaz notices her. Approaches her. Protects her. Provides for her. Ruth asks:
 
@@ -133,11 +133,11 @@ The one with the **right to redeem** has entered the story.
 
 Grace has begun its work.
 
-**3\. Redemption - The Kinsman‑Redeemer Steps Forward**
+### 3. Redemption - The Kinsman‑Redeemer Steps Forward
 
 This is where the story reaches its legal and theological centre.
 
-**Ruth’s Bold Appeal at the Threshing Floor**
+#### Ruth’s Bold Appeal at the Threshing Floor
 
 In chapter 3, Ruth does something bold. She goes to the threshing floor at night, uncovers Boaz’s feet, and lies down. This is not seduction; it is **covenant language**. She is asking Boaz to spread his cloak over her, claiming his lawful right to redeem her.
 
@@ -173,7 +173,7 @@ As Paul writes:
 
 _“For what the law was powerless to do… God did by sending his own Son.”_ **Romans 8:3, NIV**
 
-**Boaz Steps In as the True Redeemer**
+#### Boaz Steps In as the True Redeemer
 
 With the obstacle removed, Boaz declares:
 
@@ -186,7 +186,7 @@ This is the gospel in narrative form:
 - The Law stands near but cannot save.
 - **Christ stands nearer still and does.**
 
-**4\. Restoration - Beauty Marries Strength, Worship Is Born, and Jesus Is Revealed**
+### 4. Restoration - Beauty Marries Strength, Worship Is Born, and Jesus Is Revealed
 
 Boaz marries Ruth, and the Lord gives them a son. The women of Bethlehem rejoice:
 
@@ -204,7 +204,7 @@ Boaz is not just a kind man. He is a **shadow** of the Redeemer to come.
 
 When **Beauty** (Ruth) is joined to **Strength** (Boaz), the house is filled with **Worship** (Obed). When humanity is joined to **Christ**, the true Redeemer, the house of God is filled with eternal worship.
 
-**Why Ruth matters today**
+## Why Ruth matters today
 
 Ruth is not just an ancient love story. It is a mirror held up to our lives.
 
@@ -217,7 +217,7 @@ Ruth is not just an ancient love story. It is a mirror held up to our lives.
 
 Your small acts of faithfulness may be part of a story far larger than you imagine.
 
-**HOW WE SHOULD WALK: LIVING AS THE REDEEMED**
+## HOW WE SHOULD WALK: LIVING AS THE REDEEMED
 
 Imagine Ruth waking up one morning after her marriage to Boaz, picking up her old gleaning sack, and heading back to the fields to scavenge for leftovers. Boaz would stop her in bewilderment:
 
@@ -225,7 +225,7 @@ _“Ruth, why are you gathering scraps when everything I have already belongs to
 
 This is the picture the book of Ruth holds up to us.
 
-**We often live like gleaners when we are already redeemed.**
+#### We often live like gleaners when we are already redeemed.
 
 We come to Christ asking for things He has already given:
 
@@ -236,9 +236,9 @@ We come to Christ asking for things He has already given:
 
 And Christ, our Redeemer, might well say:
 
-**“All that I am is already yours. Why beg for what you already possess in Me?”**
+#### “All that I am is already yours. Why beg for what you already possess in Me?
 
-**What it looks like to walk as the redeemed**
+### What it looks like to walk as the redeemed**
 
 - We stop living like spiritual beggars.
 - We stop striving to earn what is already ours.
@@ -252,7 +252,7 @@ We stop gleaning for scraps in fields He already owns.
 
 This is the beauty portrayed in Ruth: **a redeemed life lived in the strength of the Redeemer.**
 
-**A Modern Story After Reading Ruth**
+## A Modern Story After Reading Ruth
 
 Months after arriving in the rural town, Maya found herself sitting at a kitchen table, sipping tea while her host chopped vegetables. She now had a part‑time job, a small community, and a sense that her life, though still fragile, was being rebuilt.
 
@@ -262,13 +262,13 @@ Her host smiled. “Sometimes God writes His best chapters after we think the bo
 
 Grace had met her in a foreign land, and her life was no longer defined by what she had lost.
 
-**A Final Challenge**
+## A Final Challenge
 
 Orpah walked partway with Naomi but turned back when the cost became clear. Ruth clung, surrendered, and stepped into redemption. Boaz, the willing redeemer, did what the nearer one could not. And Jesus, the true Redeemer, does for us what no one else can.
 
 **Where in your life are you still living as though the Law were your nearest kin,** **when Christ stands nearer still, offering you everything He has already redeemed?**
 
-**Resources**
+## Resources
 
 For more references, please see the following:
 
