@@ -10,7 +10,7 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections_
 
-## INTRODUCTION - A STORY OF STARTING OVER**
+## INTRODUCTION - A STORY OF STARTING OVER
 
 Aria had spent years drifting, with good intentions, bad habits, and a long trail of half-finished commitments. After a painful setback, she decided to start over. She bought a new journal, wrote “A Fresh Beginning” on the first page, and promised herself she would live differently this time.
 

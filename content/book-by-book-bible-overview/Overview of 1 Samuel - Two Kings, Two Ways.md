@@ -1,10 +1,39 @@
 ---
 title: Overview of 1 Samuel - Two Kings, Two Ways
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A vivid exploration of 1 Samuel showing the contrast between self‑reliance and God‑dependence through the lives of Saul, David, and Samuel.
 categories:
-  - blog
+  - 1_Samuel
+  - Bible-Study
+  - Biblical Narrative
+  - Christian_Living
+  - Devotional_Reflections
+  - Old_Testament
+  - Character-Studies
 tags:
-  - bible
+  - 1Samuel
+  - Biblical_Themes
+  - David
+  - Samuel
+  - Faith
+  - Saul
+  - Exile
+  - Old_Testament
+  - Worship
+  - Obedience
+  - Temple_of_the_Lord
+keywords:
+  - 1Samuel
+  - Biblical_Themes
+  - David
+  - Saul
+  - Samuel
+  - Faith
+  - self_reliance
+  - pride
+  - Old_Testament
+  - Worship
+  - Obedience
+  - Temple_of_the_Lord
 date: 2026-03-25
 draft: false
 featureImage: /img/default-feature.jpg
