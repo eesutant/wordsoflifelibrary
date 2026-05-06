@@ -1,11 +1,40 @@
 ---
 title: Overview of Joshua - A Guidebook to Victory
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A practical and vivid exploration of the Book of Joshua, showing how Israel’s journey into the land models the believer’s path from spiritual wandering to Spirit‑led victory.
 categories:
-  - bible-overview
+  - Joshua
+  - Bible-Study
+  - Spiritual_Growth
+  - Christian_Living
+  - Devotional_Reflections
+  - Old_Testament
+  - Character_Studies
 tags:
-  - bible
-  - overview
+  - Joshua
+  - Crossing_the_Jordan
+  - Jericho
+  - Ai
+  - Gibeon
+  - Spiritua_warfare
+  - Christian_obedience
+  - Old_Testament
+  - sanctification
+  - spiritual_growth
+  - inner battle
+  - biblical_pattern
+keywords:
+  - Book_of_Joshua
+  - crossing_Jordan
+  - Spiritua_warfare
+  - Ai_defeat
+  - Gibeon_deception
+  - bondage
+  - God's_warning
+  - Old_Testament
+  - Romans_1_comparison
+  - Obedience
+  - biblical_leadership
+  - spiritual_battle
 date: 2026-01-06
 draft: false
 featureImage: /img/default-feature.jpg
