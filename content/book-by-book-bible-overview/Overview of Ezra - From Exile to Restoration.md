@@ -14,6 +14,7 @@ categories:
 tags:
   - Ezra
   - Biblical_Themes
+  - Zerubbabel
   - Nehemiah
   - bible
   - Old_Testament
