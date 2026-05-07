@@ -59,7 +59,7 @@ Ezra also gives us a pattern for how God restores a life, a church, or even a na
 
 Both roles are essential. Restoration requires rebuilding what has been broken and cleansing what has become defiled. In spiritual terms, this mirrors the work of Christ, our King who rebuilds and our High Priest who cleanses.
 
-**The Ministry of Zerubbabel (Ezra 1–6)**
+## The Ministry of Zerubbabel (Ezra 1–6)
 
 ### 1. God Initiates the Return
 
