@@ -1,17 +1,33 @@
 ---
 title: Overview of 2 Chronicles - A Kingdom of Glory and a Kingdom in Ruins 🟢 NEW
-description: Study 2 Chronicles through the kings of Judah and five revivals, exploring temple symbolism, idolatry, and practical principles of spiritual renewal.
+description: A vivid, soul‑searching overview of 2 Chronicles that reveals how the rise and fall of Judah’s kings mirror the inner life—showing the glory of a heart surrendered to God and the ruin of a heart that drifts.
 categories:
   - bible-overview
-  - Old_Testament
   - Bible_Commentary
+  - Bible-Study
+  - Biblical Narrative
+  - Christian_Living
+  - Old_Testament_Theology
 tags:
-  - bible
-  - overview
-  - 2Chronicles
-  - Word_of_God
-  - Temple_of_the_Lord
-  - Idolatory
+  - 2_Chronicles
+  - Temple
+  - Kings_of_Judah
+  - Revival
+  - Spiritual_Drift
+  - Idolatry
+  - God's_Presence
+  - Inner_Life
+keywords:
+  - 2_Chronicles_summary
+  - Kings_of_Judah_explained
+  - Temple_Symbolism
+  - Spiritual_Drift_and Restoration
+  - Asa_and Jeshosaphat_revival
+  - Hezekiah_and_Josiah_reforms
+  - High_places_meaning
+  - Inner-kingdom_spiritual_life
+  - God's_glory_in_the_temple
+  - Judah's_fall_and Exile
 date: 2026-04-30
 draft: false
 featureImage: /img/default-feature.jpg

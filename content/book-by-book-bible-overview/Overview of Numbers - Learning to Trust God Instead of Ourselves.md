@@ -12,7 +12,7 @@ tags:
   - Numbers
   - Wilderness
   - Murmuring
-  - Unvelief
+  - Unbelief
   - Kadesh Barnia
   - Guidance
   - Protection
