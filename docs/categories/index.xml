@@ -160,11 +160,41 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://wordsoflifelibrary.org/categories/blog/</link>
+      <title>Book_of_Ruth</title>
+      <link>https://wordsoflifelibrary.org/categories/book_of_ruth/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://wordsoflifelibrary.org/categories/blog/</guid>
+      <guid>https://wordsoflifelibrary.org/categories/book_of_ruth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Discipleship</title>
+      <link>https://wordsoflifelibrary.org/categories/discipleship/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/discipleship/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Old_testament_Theology</title>
+      <link>https://wordsoflifelibrary.org/categories/old_testament_theology/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/old_testament_theology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Redemption and Grace</title>
+      <link>https://wordsoflifelibrary.org/categories/redemption-and-grace/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/redemption-and-grace/</guid>
       <description></description>
       
     </item>
@@ -205,6 +235,46 @@
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/joshua/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Biblical_Narrative</title>
+      <link>https://wordsoflifelibrary.org/categories/biblical_narrative/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/biblical_narrative/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spiritual_Formation</title>
+      <link>https://wordsoflifelibrary.org/categories/spiritual_formation/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/spiritual_formation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Story_Telling</title>
+      <link>https://wordsoflifelibrary.org/categories/story_telling/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/story_telling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Christ_in_the_Old_Testament</title>
+      <link>https://wordsoflifelibrary.org/categories/christ_in_the_old_testament/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/christ_in_the_old_testament/</guid>
       <description></description>
       
     </item>

@@ -1,9 +1,33 @@
 ---
 title: Overview of Deuteronomy - The Law that Delivers
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A vivid, story‑driven introduction to Deuteronomy that presents the book as Israel’s turning point and a spiritual blueprint for remembering, returning, and choosing life.
 categories:
   - bible-overview
-tags: []
+  - Old_Testament_Theology
+  - Spiritual_Formation
+  - Biblical_Narrative
+  - Story_Telling
+  - Christian_Living
+tags: 
+  - Deuteronomy
+  - Moses
+  - Pentateuch
+  - Faithfulness
+  - Holiness
+  - Prophecy
+  - Human_Weakness
+  - God's_Presence
+  - Spritual_Renewal
+  - Choose_life
+Keywords:
+  - Deuteronomy_Summary
+  - Moses_Final_Sermon
+  - Pentateuch_Explained
+  - Law_and_Grace_in_Deuteronomy
+  - Old_Testamnet_Prophecy
+  - Holiness_in_Scripture
+  - Spiritual_Renewal
+  - Obedience
 date: 2026-01-05
 draft: false
 featureImage: /img/default-feature.jpg

@@ -1,12 +1,35 @@
 ---
 title: Overview of the Book of Ruth - Redemption, Commitment, and the Redeemed Life
-description: A space where the richness of God’s Word is explored with depth, clarity, and faith.
+description: A sweeping, modern‑framed exploration of the book of Ruth that reveals its four‑movement arc of fall, grace, redemption, and restoration, showing how Christ’s redeeming work is foreshadowed in every scene.
 categories:
-  - blog
+  - Book_of_Ruth
+  - Old_testament_Theology
   - bible-overview
+  - Biblical Narrative
+  - Christian_Living
+  - Discipleship
+  - Redemption and Grace
 tags:
-  - bible
+  - Ruth
+  - Boaz
+  - Naomi
+  - Kinsman_Reddemer
+  - Grace
+  - Redemption
+  - Commitment
+  - Providence
+  - Christ_Foreshadowing
+  - Spritual Idenyity
   - overview
+keywords:
+  - Book_of_Ruth_summary
+  - Ruth_and_Boaz_explained
+  - Biblical_Redemption story
+  - Kinsman_Reddemer_meaning
+  - Oll_Testament_grace
+  - Christ_in_the_book_of_Ruth
+  - Providence
+  - Redeemed
 date: 2026-01-08
 draft: false
 featureImage: /img/default-feature.jpg
