@@ -261,12 +261,12 @@ Because Exodus is _your_ story. Everyone knows what bondage feels like, fear, ad
 Exodus teaches:
 
 - #### God sees. God hears. God comes down.
-- Deliverance is not self-help; it is God’s intervention.
-- Freedom requires trust, movement, and sometimes stepping into the unknown.
-- God not only rescues, He _dwells_ with us.
+- #### Deliverance is not self-help; it is God’s intervention.
+- #### Freedom requires trust, movement, and sometimes stepping into the unknown.
+- #### God not only rescues, He _dwells_ with us.
 
 The message is simple and life-changing: 
-#### You were never meant to stay in Egypt.
+### You were never meant to stay in Egypt.
 
 ## Closing Story After Reading Exodus
 
