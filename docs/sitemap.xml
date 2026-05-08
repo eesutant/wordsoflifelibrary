@@ -33,12 +33,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-chronicles---when-god-becomes-the-centre/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-2-kings--the-fall-of-a-kingdom-and-a-god-who-refuses-to-give-up/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -203,6 +197,11 @@
   <url>
     <loc>https://wordsoflifelibrary.org/bible-survey/overview-of-the-whole-bible---a-divine-library-with-one-grand-story/</loc>
     <lastmod>2025-09-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-1-chronicles---when-god-becomes-the-centre/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

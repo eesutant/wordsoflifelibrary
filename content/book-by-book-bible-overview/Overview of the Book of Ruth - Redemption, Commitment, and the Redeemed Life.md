@@ -13,20 +13,20 @@ tags:
   - Ruth
   - Boaz
   - Naomi
-  - Kinsman_Reddemer
+  - Kinsman_Redeemer
   - Grace
   - Redemption
   - Commitment
   - Providence
   - Christ_Foreshadowing
-  - Spritual Idenyity
-  - overview
+  - Spritual Identity
+  - bible_overview
 keywords:
   - Book_of_Ruth_summary
   - Ruth_and_Boaz_explained
   - Biblical_Redemption story
-  - Kinsman_Reddemer_meaning
-  - Oll_Testament_grace
+  - Kinsman_Redeemer_meaning
+  - Old_Testament_grace
   - Christ_in_the_book_of_Ruth
   - Providence
   - Redeemed
