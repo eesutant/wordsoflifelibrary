@@ -1,5 +1,5 @@
 ---
-title: Overview of 1 Chronicles - When God Becomes the Centre🟢 NEW
+title: Overview of 1 Chronicles - When God Becomes the Centre
 description: A rich, priest‑eyed overview of 1 Chronicles that reveals how God builds His kingdom through obedient hearts, restored worship, and lives centred on His presence.
 categories:
   - bible-overview
