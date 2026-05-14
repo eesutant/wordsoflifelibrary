@@ -7,14 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bible_Commentary</title>
       <link>https://wordsoflifelibrary.org/categories/bible_commentary/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/bible_commentary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bible-Oberview</title>
+      <link>https://wordsoflifelibrary.org/categories/bible-oberview/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/bible-oberview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bible-Study</title>
+      <link>https://wordsoflifelibrary.org/categories/bible-study/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/bible-study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Biblical_Narrative</title>
+      <link>https://wordsoflifelibrary.org/categories/biblical_narrative/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/biblical_narrative/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Christian_Living</title>
+      <link>https://wordsoflifelibrary.org/categories/christian_living/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/christian_living/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Devotional_Reflections</title>
+      <link>https://wordsoflifelibrary.org/categories/devotional_reflections/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/devotional_reflections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nehemiah</title>
+      <link>https://wordsoflifelibrary.org/categories/nehemiah/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/nehemiah/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Old_Testament</title>
+      <link>https://wordsoflifelibrary.org/categories/old_testament/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/old_testament/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Theology</title>
+      <link>https://wordsoflifelibrary.org/categories/theology/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/theology/</guid>
       <description></description>
       
     </item>
@@ -30,16 +110,6 @@
     </item>
     
     <item>
-      <title>Bible-Study</title>
-      <link>https://wordsoflifelibrary.org/categories/bible-study/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/bible-study/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Biblical Narrative</title>
       <link>https://wordsoflifelibrary.org/categories/biblical-narrative/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
@@ -50,51 +120,11 @@
     </item>
     
     <item>
-      <title>Christian_Living</title>
-      <link>https://wordsoflifelibrary.org/categories/christian_living/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/christian_living/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Devotional_Reflections</title>
-      <link>https://wordsoflifelibrary.org/categories/devotional_reflections/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/devotional_reflections/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ezra</title>
       <link>https://wordsoflifelibrary.org/categories/ezra/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/ezra/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Old_Testament</title>
-      <link>https://wordsoflifelibrary.org/categories/old_testament/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/old_testament/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Theology</title>
-      <link>https://wordsoflifelibrary.org/categories/theology/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/theology/</guid>
       <description></description>
       
     </item>
@@ -235,16 +265,6 @@
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/joshua/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Biblical_Narrative</title>
-      <link>https://wordsoflifelibrary.org/categories/biblical_narrative/</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/biblical_narrative/</guid>
       <description></description>
       
     </item>

@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-ezra---from-exile-to-restoration/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-nehemiah---rebuilding-what-mattersuntitled/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-ezra---from-exile-to-restoration/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
