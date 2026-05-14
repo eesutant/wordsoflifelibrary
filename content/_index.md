@@ -28,6 +28,7 @@ Welcome to **Words of Life Library** — a growing collection of Bible teaching 
 Our mission is simple: to guide you into the heart of the Bible through engaging **Bible Book Overviews**, thoughtful **Christian reflections**, and insightful **Book Reviews** that encourage both understanding and transformation.
 
 **What You Will Find Here**
+
 **Bible Book Overviews** – Clear summaries of each biblical book, highlighting themes, structure, and practical applications for today
 
 **Christian Thought & Reflection** – Articles exploring grace, prayer, worship, discipleship, and the nature of faith
