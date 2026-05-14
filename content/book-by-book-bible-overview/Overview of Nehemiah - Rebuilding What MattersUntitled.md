@@ -43,7 +43,7 @@ Daniel stood still, letting the sound settle into him. In a world where everythi
 
 This is the world Nehemiah stepped into, a world where God’s people had lost their centre, their truth, their strength. And God called one man to rebuild what mattered.
 
-**Introduction, Setting Nehemiah in Its Story**
+## Introduction, Setting Nehemiah in Its Story
 
 For years, the only thing some people knew about Nehemiah was the old joke that he was the “shortest man in the Bible”, _knee‑high‑miah_. But behind the pun stands one of the most courageous, steady, spiritually insightful leaders in Scripture. Nehemiah is not just a historical figure; he is a guide for anyone who has ever looked at their life and thought, _“Something needs to be rebuilt.”_
 
