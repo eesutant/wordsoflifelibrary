@@ -25,7 +25,7 @@ $scriptName = Split-Path $scriptPath -Leaf
 $scriptStatus = git status --porcelain $scriptName
 
 if ($scriptStatus) {
-    Write-Host "Script changed - auto‑committing..." -ForegroundColor Yellow
+    Write-Host "Script changed - auto-committing..." -ForegroundColor Yellow
     git add $scriptName
     git commit -m "Auto-commit: updated $scriptName"
     Write-Host "Script auto‑committed." -ForegroundColor Green
