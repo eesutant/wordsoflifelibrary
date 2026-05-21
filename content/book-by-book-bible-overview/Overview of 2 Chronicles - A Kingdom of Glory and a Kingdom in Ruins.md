@@ -60,7 +60,7 @@ These ancient stories are astonishingly accurate pictures of the spiritual life,
 
 ## The First Nine Chapters: The Temple at the Centre
 
-The opening nine chapters revolve entirely around the ## temple, establishing the spiritual foundation for the whole book.
+The opening nine chapters revolve entirely around the **temple**, establishing the spiritual foundation for the whole book.
 
 ## From Gibeon to Jerusalem: Moving from Wandering to Dwelling
 
@@ -196,7 +196,7 @@ This is the heart of Jehoshaphat's renewal. The people needed more than reforms;
 
 Teaching brought clarity, and clarity brought peace.
 
-But Jehoshaphat’s story also includes a warning. Later, in weakness, he allied with Israel, the northern kingdom, and soon Judah faced an overwhelming invasion from Ammon, Moab, and Edom, vivid pictures of the flesh and its pressures. Yet even here, God taught His people a deeper lesson: They did ## not need to fight these enemies in their own strength.
+But Jehoshaphat’s story also includes a warning. Later, in weakness, he allied with Israel, the northern kingdom, and soon Judah faced an overwhelming invasion from Ammon, Moab, and Edom, vivid pictures of the flesh and its pressures. Yet even here, God taught His people a deeper lesson: They **did not need to fight these enemies in their own strength**.
 
 God told them to stand firm, believe, and watch His deliverance. And when Judah came to the lookout point:
 
