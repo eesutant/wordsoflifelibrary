@@ -1,17 +1,7 @@
-# Build the Hugo site
+# Build the Hugo site (outputs directly into /docs)
 hugo
 
-# Ensure docs folder exists
-if (Test-Path "./docs") {
-    Remove-Item "./docs" -Recurse -Force
-}
-
-New-Item -ItemType Directory -Path "./docs" | Out-Null
-
-# Copy Hugo output (public) into docs
-Copy-Item -Recurse -Force "./public/*" "./docs/"
-
-# Restore the CNAME file
+# Ensure the CNAME file stays in /docs
 Copy-Item -Force "./CNAME" "./docs/CNAME"
 
 # Commit and push changes
