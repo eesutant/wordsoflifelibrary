@@ -17,6 +17,20 @@ function Log {
     $msg | Tee-Object -FilePath $logFile -Append
 }
 
+# --- AUTO‑COMMIT SCRIPT IF MODIFIED ---
+$scriptPath = $MyInvocation.MyCommand.Path
+$scriptName = Split-Path $scriptPath -Leaf
+
+# Check if the script itself has uncommitted changes
+$scriptStatus = git status --porcelain $scriptName
+
+if ($scriptStatus) {
+    Write-Host "Script changed - auto‑committing..." -ForegroundColor Yellow
+    git add $scriptName
+    git commit -m "Auto-commit: updated $scriptName"
+    Write-Host "Script auto‑committed." -ForegroundColor Green
+}
+
 Log "===== SAFE PUBLISH STARTED at $timestamp ====="
 
 # --- SAFETY LOCK 1: Ensure docs folder exists ---
@@ -36,7 +50,7 @@ if (!(Test-Path "./CNAME")) {
 # --- SAFETY LOCK 3: Ensure working tree is clean ---
 $gitStatus = git status --porcelain | Out-String
 $gitStatus = $gitStatus.Trim()
-Write-Host "DEBUG: gitStatus='$gitStatus'"   # ← ADD THIS
+Write-Host "DEBUG: gitStatus='$gitStatus'"
 
 if ($gitStatus.Length -gt 0) {
     Log "ERROR: Uncommitted changes detected. Publishing stopped."
