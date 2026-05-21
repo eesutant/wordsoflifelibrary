@@ -4,6 +4,7 @@
 # ================================
 
 $timestamp = Get-Date -Format "yyyy-MM-dd_HH-mm-ss"
+Set-Location $PSScriptRoot   # ← FIX: ensure Git runs in repo root
 $logFile = "./logs/publish_$timestamp.log"
 $backupFolder = "./backups/$timestamp"
 
@@ -33,13 +34,15 @@ if (!(Test-Path "./CNAME")) {
 }
 
 # --- SAFETY LOCK 3: Ensure working tree is clean ---
-$gitStatus = git status --porcelain
-if ($gitStatus) {
+$gitStatus = git status --porcelain | Out-String
+$gitStatus = $gitStatus.Trim()
+Write-Host "DEBUG: gitStatus='$gitStatus'"   # ← ADD THIS
+
+if ($gitStatus.Length -gt 0) {
     Log "ERROR: Uncommitted changes detected. Publishing stopped."
     Write-Host "❌ ERROR: Uncommitted changes. Commit or stash first." -ForegroundColor Red
     exit 1
 }
-
 # --- BACKUP CURRENT DOCS ---
 Log "Creating backup at $backupFolder..."
 Copy-Item -Recurse -Force "./docs" $backupFolder
