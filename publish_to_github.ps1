@@ -64,7 +64,7 @@ Copy-Item -Force "./CNAME" "$backupFolder/CNAME"
 Log "Backup complete."
 
 # --- Build the Hugo site ---
-Write-Host "⚙️ Building Hugo site..." -ForegroundColor Yellow
+Write-Host "Building Hugo site..." -ForegroundColor Yellow
 Log "Running Hugo build..."
 hugo
 
@@ -87,7 +87,7 @@ Copy-Item -Force "./CNAME" "./docs/CNAME"
 Log "CNAME restored to /docs."
 
 # --- Commit and push ---
-Write-Host "⬆️ Committing and pushing changes..." -ForegroundColor Yellow
+Write-Host "Committing and pushing changes..." -ForegroundColor Yellow
 Log "Running git add/commit/push..."
 
 git add .
@@ -112,4 +112,4 @@ if ($allBackups.Count -gt $maxBackups) {
 }
 
 Log "Publish complete."
-Write-Host "✅ Publish complete. Your site is safe." -ForegroundColor Green
+Write-Host "Publish complete. Your site is safe." -ForegroundColor Green
