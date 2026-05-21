@@ -1,20 +1,20 @@
-# 1. Clean the docs folder completely
+# Build the Hugo site
+hugo
+
+# Ensure docs folder exists
 if (Test-Path "./docs") {
-    Remove-Item -Recurse -Force "./docs/*"
+    Remove-Item "./docs" -Recurse -Force
 }
 
-# 2. Build the site into docs/
-hugo --cleanDestinationDir
+New-Item -ItemType Directory -Path "./docs" | Out-Null
 
-# 2b. Recreate the CNAME file so GitHub Pages keeps the domain
-"www.wordsoflifelibrary.org" | Out-File -Encoding ascii "./docs/CNAME"
+# Copy Hugo output (public) into docs
+Copy-Item -Recurse -Force "./public/*" "./docs/"
 
-# 3. Stage all changes
+# Restore the CNAME file
+Copy-Item -Force "./CNAME" "./docs/CNAME"
+
+# Commit and push changes
 git add .
-
-# 4. Commit with timestamp
-$timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-git commit -m "Publish site - $timestamp"
-
-# 5. Push to GitHub
-git push
+git commit -m "Publish updated site"
+git push origin main
