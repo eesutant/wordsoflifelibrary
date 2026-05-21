@@ -80,5 +80,22 @@ git add .
 git commit -m "Safe publish: updated site at $timestamp"
 git push origin main
 
+# --- CLEANUP OLD BACKUPS (keep newest 5) ---
+$backupRoot = "./backups"
+$maxBackups = 5
+
+$allBackups = Get-ChildItem $backupRoot -Directory | Sort-Object LastWriteTime -Descending
+
+if ($allBackups.Count -gt $maxBackups) {
+    $oldBackups = $allBackups[$maxBackups..($allBackups.Count - 1)]
+    foreach ($old in $oldBackups) {
+        Log "Deleting old backup: $($old.FullName)"
+        Remove-Item -Recurse -Force $old.FullName
+    }
+    Log "Old backup cleanup complete."
+} else {
+    Log "No old backups to clean."
+}
+
 Log "Publish complete."
 Write-Host "✅ Publish complete. Your site is safe." -ForegroundColor Green
