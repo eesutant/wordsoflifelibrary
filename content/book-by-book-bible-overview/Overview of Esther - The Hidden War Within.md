@@ -34,6 +34,8 @@ date: 2026-05-23
 draft: false
 featureImage: /img/default-feature.jpg
 ---
+Adapted from insights by Ray C. Stedman and other biblical reflections.
+
 ## Overview of Esther - The Hidden War Within 
   
 ## Opening Story  
@@ -205,3 +207,11 @@ Over the next few weeks, Daniel noticed something new:
 - He walked in strength where he once stumbled.  
   
 He was the same man, but with a different government inside. One evening, months later, he closed his Bible and whispered: **"The wrong man has been removed. The right man is on the throne. The kingdom is at peace."** And he smiled, because he knew: **The story of Esther had become the story of his life.**
+
+## Resources
+
+For more references, please see the following:
+
+- [Esther: A Queen Under Control](https://www.raystedman.org/bible-overview/adventuring/esther-a-queen-under-control)
+- [Bible Project: Esther](https://bibleproject.com/guides/book-of-esther/)
+- [The Gospel Coalition - Commentary on Esther](https://www.thegospelcoalition.org/commentary/esther/)
