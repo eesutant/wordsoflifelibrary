@@ -41,7 +41,7 @@ if (!(Test-Path "./docs")) {
 }
 
 # --- SAFETY LOCK 2: Ensure CNAME exists ---
-if (!(Test-Path "./CNAME")) {
+if (!(Test-Path "./static/CNAME")) {
     Log "ERROR: CNAME missing. Publishing stopped."
     Write-Host "❌ ERROR: CNAME missing. Domain protected." -ForegroundColor Red
     exit 1
@@ -60,7 +60,7 @@ if ($gitStatus.Length -gt 0) {
 # --- BACKUP CURRENT DOCS ---
 Log "Creating backup at $backupFolder..."
 Copy-Item -Recurse -Force "./docs" $backupFolder
-Copy-Item -Force "./CNAME" "$backupFolder/CNAME"
+Copy-Item -Force "./static/CNAME" "$backupFolder/CNAME"
 Log "Backup complete."
 
 # --- Build the Hugo site ---
@@ -83,7 +83,7 @@ if ($docsFiles.Count -lt 10) {
 }
 
 # --- Ensure CNAME stays inside /docs ---
-Copy-Item -Force "./CNAME" "./docs/CNAME"
+Copy-Item -Force "./static/CNAME" "./docs/CNAME"
 Log "CNAME restored to /docs."
 
 # --- Commit and push ---
