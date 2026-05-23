@@ -36,7 +36,8 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
  
-## Opening Story  
+## Opening Story 
+<!--more-->
   
 Ayla never imagined her life would turn out this way. She grew up in a quiet neighbourhood where the loudest sound at night was the hum of streetlights and the occasional barking dog. But after university, she stepped into a world she had never known, a towering corporate empire of glass walls, polished steel, and people who walked with the confidence of those who believed the world owed them something. At first, Ayla felt invisible. She was competent, diligent, and quietly faithful to God, but in a place driven by ambition and image, those qualities rarely got noticed. She kept her head down, did her work, and tried to honour God in a place where His name was never spoken.  
   
