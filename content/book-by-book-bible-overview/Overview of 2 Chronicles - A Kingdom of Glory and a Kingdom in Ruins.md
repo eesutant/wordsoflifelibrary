@@ -1,5 +1,5 @@
 ---
-title: Overview of 2 Chronicles - A Kingdom of Glory and a Kingdom in Ruins 🟢 NEW
+title: Overview of 2 Chronicles - A Kingdom of Glory and a Kingdom in Ruins
 description: A vivid, soul‑searching overview of 2 Chronicles that reveals how the rise and fall of Judah’s kings mirror the inner life—showing the glory of a heart surrendered to God and the ruin of a heart that drifts.
 categories:
   - bible-overview
