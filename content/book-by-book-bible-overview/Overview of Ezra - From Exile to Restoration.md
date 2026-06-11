@@ -1,5 +1,5 @@
 ---
-title: Overview of Ezra - From Exile to Restoration 🟢 NEW
+title: Overview of Ezra - From Exile to Restoration
 description: A narrative‑rich overview of 1 Chronicles showing how its genealogies, David’s reign, and temple focus reveal God’s priority on obedience and His presence.
 categories:
   - bible-overview
