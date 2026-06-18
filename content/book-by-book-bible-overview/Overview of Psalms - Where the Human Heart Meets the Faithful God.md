@@ -130,7 +130,7 @@ Book 5 is the sound of a heart that has learned to trust God deeply. It is the v
   
 When you finish reading the Psalms, it helps to step back and see where they sit in the larger landscape of Scripture. The Psalms are not an isolated collection of ancient poems; they are part of a wider conversation, one that stretches across the other poetic books of the Old Testament and finds its fulfilment in the New Testament.  
   
-### 1. Psalms and the Other Poetic Books  
+## 1. Psalms and the Other Poetic Books  
   
 The poetic books, **Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon**, each give voice to a different dimension of human experience. They are like five instruments playing different parts of the same symphony.  
   
