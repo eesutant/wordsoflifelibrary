@@ -180,18 +180,6 @@ The early church prayed the Psalms. Jesus prayed the Psalms. Paul and the apostl
   
 When you pray the Psalms, you are praying the same words Jesus prayed.  
   
-### The Psalms Teach Us the Language of Faith  
-  
-The New Testament writers use the Psalms to teach believers how to: 
-- endure suffering  
-- resist temptation  
-- trust God in uncertainty  
-- worship with honesty  
-- hope in God's promises  
-- see Christ as the centre of Scripture  
-  
-The Psalms become a bridge between the Old and New Testaments, showing us that the God who met David in caves and Moses in the wilderness is the same God who meets us in Christ.  
-  
 ### The Psalms Are Designed to Teach Us to Worship  
   
 Before the Psalms teach us how to pray, they teach us something even more foundational: **how to worship**.  
@@ -227,6 +215,18 @@ God is not offended by honesty. He is offended by pretence.
 When we bring our real selves to God, something happens. Grace meets honesty. Strength rises where weakness was. Peace enters where turmoil lived. Hope grows where despair once ruled.  
   
 The Psalms teach us that worship is not a performance. It is a relationship. It is the heart opening itself to God and finding Him already there.  
+
+### The Psalms Teach Us the Language of Faith  
+  
+The New Testament writers use the Psalms to teach believers how to: 
+- endure suffering  
+- resist temptation  
+- trust God in uncertainty  
+- worship with honesty  
+- hope in God's promises  
+- see Christ as the centre of Scripture  
+  
+The Psalms become a bridge between the Old and New Testaments, showing us that the God who met David in caves and Moses in the wilderness is the same God who meets us in Christ.  
   
 ## So What? Why the Psalms Matter Today  
   
