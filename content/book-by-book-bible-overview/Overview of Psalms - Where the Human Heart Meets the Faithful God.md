@@ -137,24 +137,56 @@ The poetic books, **Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon**, 
 ### Job, The Cry of the Spirit  
   
 Job wrestles with suffering that makes no sense. It asks the hard questions: _Why? How long? Where is God when life collapses?_ If Job is the cry of a wounded spirit, the Psalms are the cry of the whole person, spirit, soul, and body, learning to trust God in the middle of life's storms.  
+
+Psalms, Proverbs, and Ecclesiastes join together to express the cry of man's soul, and just as the soul has three divisions, the emotions, the will, and the mind, so these books express these divisions.
   
-### Psalms, The Cry of the Soul  
+### Psalms, The Book of Emotions before God  
   
-The Psalms give language to the emotions: fear, joy, anger, guilt, gratitude, hope. They teach us how to bring our inner world into God's presence honestly.  
+The Psalms give language to the emotions: fear, joy, anger, guilt, gratitude, hope. They teach us how to bring our **inner world** into God's presence honestly. Where Job wrestles with the “why,” Psalms teaches us what to do with the ache. 
   
-### Proverbs, The Voice of Wisdom  
+### Proverbs, The Voice of Wisdom, the Book of the Will  
   
-Where Psalms teaches us to pray, Proverbs teaches us to live. Proverbs is the book of the will, practical, grounded, full of everyday wisdom. If the Psalms show us how to talk to God, Proverbs shows us how to walk with God.  
+Proverbs speaks to the **will**, the part of us that chooses a path and walks it. It is intensely practical, full of everyday decisions:
+- choosing wisdom vs. folly
+-  choosing righteousness vs. wickedness
+-  choosing diligence vs. laziness
+-  choosing self‑control vs. impulse
+-  choosing the fear of the Lord vs. self‑reliance
+    
+Proverbs constantly says, _“Do this, not that. Walk this way, avoid that way.”_ It is intensely practical. It trains the will to act wisely in the real world.
+
+**If the Psalms teach us how to talk to God, Proverbs teaches us how to walk with God. It shapes your decisions, your habits, your character, your will.**
   
-### Ecclesiastes, The Search of the Mind  
+### Ecclesiastes, The Search of the Mind, the Book of the Mind  
   
-Ecclesiastes explores the big questions of meaning, purpose, and the apparent contradictions of life. It is the book of the mind, probing, questioning, evaluating. The Psalms complement it by showing how to trust God even when life doesn't make sense.  
+Ecclesiastes speaks to the **mind**, the part of us that wrestles with meaning, purpose, and the contradictions of life.
+
+Where Proverbs gives clarity, Ecclesiastes gives tension. Where Proverbs says, “This is how life works,” Ecclesiastes asks, “But what about when it doesn’t?”
+
+It explores:
+- the limits of human understanding    
+- the frustration of unanswered questions  
+- the apparent unfairness of life 
+- the fleeting nature of time
+- the search for meaning “under the sun”
+    
+Ecclesiastes is the voice of the thinker, the philosopher, the observer of life. It trains the mind to trust God even when life refuses to make sense.
+
+**If Proverbs teaches us how to live wisely, Ecclesiastes teaches us how to think wisely.** 
   
 #### Song of Solomon, The Cry of the Body  
   
-Song of Solomon celebrates love, intimacy, and desire. It reminds us that God created us as whole people, spiritual, emotional, intellectual, and physical. The Psalms fit into this picture by showing how every part of us can be brought into worship.  
+Song of Solomon celebrates love, intimacy, and desire. It reminds us that God created us as whole people, spiritual, emotional, intellectual, and **physical**. The Psalms fit into this picture by showing how every part of us can be brought into worship.  
   
-Together, these books form a complete portrait of the human experience before God.  
+#### Together, these books form a complete portrait of the human experience before God. 
+
+- **Job**,  the suffering **spirit**
+- **Psalms**,  the honest **emotions**
+- **Proverbs**, the obedient **will**
+- **Ecclesiastes**, the searching **mind**
+- **Song of Solomon**, the longing **body**
+- 
+Each book speaks to a different part of the human person. Together, they show us how to bring our whole selves before God.
   
 ## 2. How the New Testament Reads the Psalms  
 The New Testament writers loved the Psalms. They quoted them more than any other Old Testament book. Why? Because they saw Jesus everywhere in them.  
