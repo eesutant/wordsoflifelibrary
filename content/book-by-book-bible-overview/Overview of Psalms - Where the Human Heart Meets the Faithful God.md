@@ -185,7 +185,7 @@ Song of Solomon celebrates love, intimacy, and desire. It reminds us that God cr
 - **Proverbs**, the obedient **will**
 - **Ecclesiastes**, the searching **mind**
 - **Song of Solomon**, the longing **body**
-- 
+
 Each book speaks to a different part of the human person. Together, they show us how to bring our whole selves before God.
   
 ## 2. How the New Testament Reads the Psalms  
