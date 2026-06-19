@@ -134,7 +134,7 @@ When you finish reading the Psalms, it helps to step back and see where they sit
   
 The poetic books, **Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon**, each give voice to a different dimension of human experience. They are like five instruments playing different parts of the same symphony.  
   
-### Job, The Cry of the Spirit*  
+### Job, The Cry of the Spirit  
   
 Job wrestles with suffering that makes no sense. It asks the hard questions: _Why? How long? Where is God when life collapses?_ If Job is the cry of a wounded spirit, the Psalms are the cry of the whole person, spirit, soul, and body, learning to trust God in the middle of life's storms.  
   
