@@ -32,7 +32,7 @@ date: 2026-06-18
 draft: false
 featureImage: /img/default-feature.jpg
 ---
-Overview of Psalms - Where the Human Heart Meets the Faithful God  
+Adapted from insights by Ray C. Stedman and other biblical reflections.
   
 ## Opening Story 
   
