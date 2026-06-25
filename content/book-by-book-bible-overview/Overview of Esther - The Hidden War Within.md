@@ -1,5 +1,5 @@
 ---
-title: Overview of Esther - The Hidden War Within 🟢 NEW
+title: Overview of Esther - The Hidden War Within
 summary: Ayla never imagined her life would turn out this way. She grew up in a quiet neighbourhood where the loudest sound at night was the hum of streetlights and the occasional barking dog. But after university, she stepped into a world she had never known, a towering corporate empire of glass walls, polished steel, and people who walked with the confidence of those who believed the world owed them something. At first, Ayla felt invisible. She was competent, diligent, and quietly faithful to God, but in a place driven by ambition and image, those qualities rarely got noticed. She kept her head down, did her work, and tried to honour God in a place where His name was never spoken.
 description: A deep, symbolic exploration of the Book of Esther showing how its characters reveal the hidden spiritual battle between the flesh and the Spirit within every believer.
 categories:
