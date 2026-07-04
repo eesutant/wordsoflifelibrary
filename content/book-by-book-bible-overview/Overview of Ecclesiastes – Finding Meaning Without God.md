@@ -382,7 +382,7 @@ When God moves to the centre, life does not suddenly become easy, but it becomes
 
 Ecclesiastes teaches us that meaning is not found by climbing higher, running faster, or thinking more deeply. Meaning is found by returning to the One who placed eternity in our hearts and who alone can satisfy the longing He created. The book’s message is not “everything is meaningless,” but rather “everything is meaningless without God.” And once God stands at the centre, everything, work, wisdom, pleasure, relationships, time, even death, begins to make sense in a way it never could before.
 
-### Closing Story: When God Moves to the Center
+### Closing Story: When God Moves to the Centre
 
 Several weeks after finishing Ecclesiastes, Liam found himself walking along the Wollongong foreshore early one morning, long before the usual crowds arrived and while the ocean still carried the quiet hush of dawn. The air was cool enough to make him pull his jacket a little tighter, and the faint mist drifting across the path softened the edges of everything he saw, as though the world itself had slowed down to let him think. He had walked this stretch of coastline countless times, yet on this particular morning, something felt different, not in the scenery itself but in the way he was seeing it.
 
