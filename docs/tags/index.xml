@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Agur</title>
-      <link>https://wordsoflifelibrary.org/tags/agur/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Bible_Narrative</title>
+      <link>https://wordsoflifelibrary.org/tags/bible_narrative/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://wordsoflifelibrary.org/tags/agur/</guid>
+      <guid>https://wordsoflifelibrary.org/tags/bible_narrative/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bible_Study</title>
+      <link>https://wordsoflifelibrary.org/tags/bible_study/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/bible_study/</guid>
       <description></description>
       
     </item>
@@ -22,9 +32,99 @@
     <item>
       <title>Biblical_Wisdom</title>
       <link>https://wordsoflifelibrary.org/tags/biblical_wisdom/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/tags/biblical_wisdom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ecclesiastes_Overview</title>
+      <link>https://wordsoflifelibrary.org/tags/ecclesiastes_overview/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/ecclesiastes_overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fear_God</title>
+      <link>https://wordsoflifelibrary.org/tags/fear_god/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/fear_god/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meaninglessness</title>
+      <link>https://wordsoflifelibrary.org/tags/meaninglessness/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/meaninglessness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qoheleth</title>
+      <link>https://wordsoflifelibrary.org/tags/qoheleth/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/qoheleth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Restoration</title>
+      <link>https://wordsoflifelibrary.org/tags/restoration/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/restoration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Solomon</title>
+      <link>https://wordsoflifelibrary.org/tags/solomon/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/solomon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://wordsoflifelibrary.org/tags/teaching/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/teaching/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Under_the_ S_un</title>
+      <link>https://wordsoflifelibrary.org/tags/under_the_-s_un/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/under_the_-s_un/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agur</title>
+      <link>https://wordsoflifelibrary.org/tags/agur/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/tags/agur/</guid>
       <description></description>
       
     </item>
@@ -85,16 +185,6 @@
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/tags/proverbs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Solomon</title>
-      <link>https://wordsoflifelibrary.org/tags/solomon/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/tags/solomon/</guid>
       <description></description>
       
     </item>
@@ -210,16 +300,6 @@
     </item>
     
     <item>
-      <title>Bible_Study</title>
-      <link>https://wordsoflifelibrary.org/tags/bible_study/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/tags/bible_study/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Faith</title>
       <link>https://wordsoflifelibrary.org/tags/faith/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
@@ -250,16 +330,6 @@
     </item>
     
     <item>
-      <title>Restoration</title>
-      <link>https://wordsoflifelibrary.org/tags/restoration/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/tags/restoration/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Sovereignity_of_God</title>
       <link>https://wordsoflifelibrary.org/tags/sovereignity_of_god/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
@@ -285,16 +355,6 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/tags/suffering/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://wordsoflifelibrary.org/tags/teaching/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/tags/teaching/</guid>
       <description></description>
       
     </item>
