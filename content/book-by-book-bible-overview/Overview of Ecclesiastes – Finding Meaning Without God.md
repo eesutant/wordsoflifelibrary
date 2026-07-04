@@ -188,64 +188,7 @@ This is the worldview of **self‑protection**. It is the philosophy of **surviv
 
 Solomon’s verdict is clear: **Moderation cannot carry the weight of meaning.** It may help you survive life’s chaos, but it cannot explain it, redeem it, or satisfy the soul. Stoicism is a shield, not a purpose. And shields cannot make life whole.
 
-### 7. Worldly Common Sense (Practical Wisdom)
-
-Solomon now turns to what many people consider the most “reasonable” approach to life: **worldly common sense**. This worldview is not philosophical like existentialism, nor ambitious like capitalism, nor emotional like hedonism. It is the practical mindset that says: _“Just be sensible. Learn how the world works. Play your cards right. Stay on the good side of power. Use discretion. Make smart moves. That’s how you survive.”_ This is the wisdom of the marketplace, the boardroom, the political arena, and the street. It is the advice found in self‑help books, leadership seminars, and motivational speeches. It is the worldview that believes life can be managed if you simply understand how the system works.
-
-Solomon tests this thoroughly.
-
-**(a) Master the Power Structures**
-
-In chapter 8, he observes that people who rely on worldly wisdom try to understand who holds power, who makes decisions, and how to stay in favour with those who control outcomes. The strategy is simple:
-
-- Identify authority.
-- Stay on the right side of it.
-- Navigate carefully.
-- Avoid unnecessary conflict.
-- Play the game well.
-
-This is the wisdom of political manoeuvring, social positioning, and strategic compliance. But Solomon sees a fatal flaw: **No matter how clever you are, you cannot control life.** He writes: “No one can comprehend what goes on under the sun. Despite all their efforts to search it out, they cannot discover its meaning.” _(Ecclesiastes 8:17, NIV)_ Worldly wisdom promises control but delivers **confusion**.
-
-**(b) The World’s Value System Doesn’t Work**
-
-In chapter 9, Solomon examines the world’s assumptions about success, the belief that:
-
-- The fastest should win the race,
-- The strongest should win the battle,
-- The smartest should gain wealth,
-- The skilled should receive favor.
-
-But he observes something deeply frustrating: “The race is not to the swift or the battle to the strong, nor does food come to the wise or wealth to the brilliant or favour to the learned; but time and chance happen to them all.” _(Ecclesiastes 9:11, NIV)_ In other words, life does not follow the rules. Effort does not guarantee success. Skill does not guarantee reward. Wisdom does not guarantee prosperity. The world’s value system is unreliable. It collapses under the weight of randomness.
-
-**(c) Death Cancels Every Strategy**
-
-Solomon then delivers the final blow to worldly wisdom: “No one knows when their hour will come.” _(Ecclesiastes 9:12, NIV)_ A sudden crisis, a tragedy, an accident, an illness - these can strike without warning. Death is the great interrupter. It cancels every plan, every strategy, every clever move. Worldly wisdom cannot protect you from the grave.
-
-**(d) Even Wisdom Itself Is Fragile**
-
-In chapter 10, Solomon observes that wisdom can be undone by a single foolish act. A lifetime of careful decisions can be overturned by one moment of carelessness. He writes: “Dead flies give perfume a bad smell; so a little folly outweighs wisdom and honour.” _(Ecclesiastes 10:1, NIV)_ This is the fragility of human wisdom. It takes years to build, but seconds to destroy.
-
-**(e) The Verdict**
-
-Solomon concludes that worldly common sense, though helpful in daily life, **cannot give meaning**. It is simply another human attempt to manage life “under the sun.”
-
-It promises:
-
-- control,
-- predictability,
-- stability,
-- and success,
-
-but delivers:
-
-- confusion,
-- randomness,
-- disappointment,
-- and death.
-
-Solomon’s verdict is clear: **Worldly wisdom cannot carry the weight of meaning.** It may help you navigate life’s complexities, but it cannot explain them, redeem them, or satisfy the soul.
-
-### 8. Practical Self‑Indulgence (Eat, Drink, and Be Merry)
+### 7. Practical Self‑Indulgence (Eat, Drink, and Be Merry)
 
 Finally, Solomon turns to the worldview that many people adopt when all other philosophies fail: **practical self‑indulgence**. This is not full‑blown hedonism, nor philosophical pleasure‑seeking. It is the simple, pragmatic mindset that says: _“Life is short. Enjoy what you can. Eat, drink, and be merry. Make the best of it before it ends.”_ This worldview is deeply human. It is the quiet resignation of someone who has stopped searching for meaning and has settled for comfort. It is the philosophy of the weary soul that says:
 
@@ -281,7 +224,7 @@ This worldview reduces humans to animals, creatures who eat, drink, mate, work, 
 
 Solomon’s verdict is devastating. **Self‑indulgence cannot carry the weight of meaning.** It may numb the ache, but it cannot heal it. It may distract the mind, but it cannot satisfy the soul. It may fill the stomach, but it cannot fill the heart. Self‑indulgence is the final stop on the road of meaninglessness, the last refuge of a person who has tried everything else and found it empty. Solomon shows that when God is removed from life, the best a person can do is **eat, drink, and try to be merry**, but even that is only temporary comfort before the darkness comes.
 
-### 9. The Wisdom of the World (Chapters 8–11)
+### 8. The Wisdom of the World (Chapters 8–11)
 
 Solomon now turns to another deeply human approach to life: **the practical wisdom of the world**, the belief that if you simply learn how life works, make smart decisions, avoid obvious mistakes, and follow common‑sense principles, you can secure meaning, stability, and success. This worldview is not philosophical like existentialism, nor emotional like hedonism, nor ambitious like capitalism. It is the everyday mindset that says: _“Be sensible. Be careful. Be strategic. Use your head. That’s how you survive.”_
 
@@ -328,7 +271,7 @@ but delivers:
 
 Solomon’s verdict is clear: **Worldly wisdom cannot carry the weight of meaning.** It may help you navigate life’s complexities, but it cannot explain them, redeem them, or satisfy the soul.
 
-### 10. The Collapse of All Human Philosophies (Chapters 11–12)
+### 9. The Collapse of All Human Philosophies (Chapters 11–12)
 
 After examining every major human philosophy, scientific, hedonistic, materialistic, intellectual, existential, capitalist, religious, stoic, and practical, Solomon reaches the end of his investigation. He has climbed every mountain, explored every idea, indulged every pleasure, and tested every worldview available “under the sun.”
 
