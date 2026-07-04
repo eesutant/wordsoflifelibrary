@@ -1,11 +1,11 @@
 ---
-title: Overview of Job - Trusting God When You Have No Answers 🟢 NEW
+title: Overview of Job - Trusting God When You Have No Answers 
 description: A clear, engaging overview of the Book of Job - exploring its structure, themes, heavenly backstory, debates, God’s response, restoration, and the lessons it teaches about suffering, faith, and trust in God.
 categories:
   - Book_of_Job
   - Old_testament_Theology
   - bible-overview
-  - Biblical Narrative
+  - Biblical_Narrative
   - Christian_Living
   - Discipleship
 tags:
