@@ -2,7 +2,7 @@
 title: Overview of Song of Songs - Scripture’s Great Romance 🟢 NEW
 description: A theological and literary exploration of the Song of Songs, tracing its celebration of marital love, its warning against premature desire in a sexualised digital age, and its portrayal of Christ’s inexhaustible love for His people.
 categories:
-  - Song of Songs
+  - Song_of_Songs
   - Biblical_Studies
   - Old_testament_Wisdom
   - Cultural_Discernment
@@ -12,7 +12,7 @@ categories:
 tags:
   - Song_of_Songs_Overview
   - Shulammite
-  - Under_the_ S_un
+  - Under_the_Sun
   - Marriage
   - Purity
   - Chastity
