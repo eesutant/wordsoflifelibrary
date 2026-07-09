@@ -29,7 +29,7 @@ keywords:
   - Biblical_love_poetry
   - Christian_Marriage_Theology
   - Digital_age_pressure_on_youth
-  - Chris_the_Bridegroom
+  - Christ_the_Bridegroom
   - Wisdom_literature
   - Old_Testament_Overview
   - Poetic_Structure_of_Song_of_Songs
