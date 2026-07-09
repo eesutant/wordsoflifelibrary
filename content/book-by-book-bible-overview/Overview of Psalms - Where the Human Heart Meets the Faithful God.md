@@ -1,5 +1,5 @@
 ---
-title: Overview of Psalms - Where the Human Heart Meets the Faithful God  🟢 NEW
+title: Overview of Psalms - Where the Human Heart Meets the Faithful God
 description: "A clear, compelling overview of Psalms, its structure, themes, emotions, and Christ‑centred hope, showing how honest prayer leads to deeper trust in God."
 categories: 
   - bible_overview

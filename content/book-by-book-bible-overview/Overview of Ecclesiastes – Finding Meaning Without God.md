@@ -1,6 +1,6 @@
 ---
 title: Overview of Ecclesiastes – Finding Meaning Without God 🟢 NEW
-escription: A deep, narrative exploration of Ecclesiastes showing how every human philosophy collapses without God, revealing the book’s timeless call to place the Creator at the center of life.
+description: A deep, narrative exploration of Ecclesiastes showing how every human philosophy collapses without God, revealing the book’s timeless call to place the Creator at the center of life.
 categories:
   - Ecclesiastes
   - Old_testament_Wisdom
@@ -11,7 +11,7 @@ categories:
 tags:
   - Ecclesiastes_Overview
   - Qoheleth
-  - Under_the_ S_un
+  - Under_the_Sun
   - Biblical_Wisdom
   - Restoration
   - Meaninglessness
