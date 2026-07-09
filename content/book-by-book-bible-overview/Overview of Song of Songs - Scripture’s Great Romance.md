@@ -1,6 +1,6 @@
 ---
 title: Overview of Song of Songs - Scripture’s Great Romance 🟢 NEW
-description: A comprehensive theological and literary overview of the Song of Songs, exploring its celebration of marital love, its urgent plea for purity in a hyper‑sexualised digital age, and its profound allegory of Christ’s love for His people. This study traces the drama of Solomon and the Shulammite, the beauty of covenant affection, the dangers of premature desire awakened by modern media, and the spiritual joy of a soul enraptured with its Lord.
+description: A theological and literary exploration of the Song of Songs, tracing its celebration of marital love, its warning against premature desire in a sexualised digital age, and its portrayal of Christ’s inexhaustible love for His people.
 categories:
   - Song of Songs
   - Biblical_Studies
