@@ -2,4 +2,6 @@
 content/.obsidian/
 logs/ 
 logs/*
+backups/
+
  
