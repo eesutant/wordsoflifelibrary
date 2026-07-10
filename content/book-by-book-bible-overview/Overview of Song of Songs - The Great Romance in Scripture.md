@@ -1,5 +1,5 @@
 ---
-title: Overview of Song of Songs - Scripture’s Great Romance 🟢 NEW
+title: Overview of Song of Songs - The Great Romance in Scripture 🟢 NEW
 description: A theological and literary exploration of the Song of Songs, tracing its celebration of marital love, its warning against premature desire in a sexualised digital age, and its portrayal of Christ’s inexhaustible love for His people.
 categories:
   - Song_of_Songs
