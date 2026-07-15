@@ -185,6 +185,6 @@ Isaiah had become for him what Sarah discovered in her moment of need, a Grand C
 
 For more references, please see the following:
 
-- [# Isaiah: The Salvation of the Lord](https://www.raystedman.org/bible-overview/adventuring/isaiah-the-salvation-of-the-lord)
+- [Isaiah: The Salvation of the Lord](https://www.raystedman.org/bible-overview/adventuring/isaiah-the-salvation-of-the-lord)
 - [Bible Project: Isaiah](https://bibleproject.com/guides/book-of-isaiah/)
 - [The Gospel Coalition - Commentary on Isaiah](https://www.thegospelcoalition.org/commentary/isaiah/)
