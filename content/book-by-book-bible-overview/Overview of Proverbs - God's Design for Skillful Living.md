@@ -1,5 +1,5 @@
 ---
-title: Overview of Proverbs - God's Design for Skillful Living 🟢 NEW
+title: Overview of Proverbs - God's Design for Skillful Living
 description: A clear, compelling overview of Proverbs showing God’s design for wise, skilful living through structure, themes, and practical, life‑shaping wisdom.
 categories: 
   - bible_overview
