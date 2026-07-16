@@ -189,3 +189,4 @@ For more references, please see the following:
 - [Isaiah: The Salvation of the Lord](https://www.raystedman.org/bible-overview/adventuring/isaiah-the-salvation-of-the-lord)
 - [Bible Project: Isaiah](https://bibleproject.com/guides/book-of-isaiah/)
 - [The Gospel Coalition - Commentary on Isaiah](https://www.thegospelcoalition.org/commentary/isaiah/)
+- [Why Isaiah's 66 Chapters Are The Key To The Entire Bible](https://www.youtube.com/watch?v=dH-KcinyFM4&t=15s)
