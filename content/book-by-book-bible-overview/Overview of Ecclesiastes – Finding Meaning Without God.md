@@ -1,5 +1,5 @@
 ---
-title: Overview of Ecclesiastes – Finding Meaning Without God 🟢 NEW
+title: Overview of Ecclesiastes – Finding Meaning Without God
 description: A deep, narrative exploration of Ecclesiastes showing how every human philosophy collapses without God, revealing the book’s timeless call to place the Creator at the center of life.
 categories:
   - Ecclesiastes
