@@ -1,5 +1,5 @@
 ---
-title: Overview of Isaiah - The Grand Canyon of Divine Salvation  🟢 NEW
+title: Overview of Isaiah - The Grand Canyon of Divine Salvation
 description: A sweeping, narrative exploration of Isaiah as the Grand Canyon of salvation, revealing humanity’s rebellion and helplessness, the suffering Servant who answers both, and the timeless relevance of Isaiah’s call to return and be restored.
 categories:
   - Book_of_Isaiah
