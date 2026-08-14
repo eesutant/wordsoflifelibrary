@@ -21,7 +21,7 @@ tags:
   - Biblical_Imagery
   - Spritual_Renewal
   - Temple_Theology
-  - Divine_Prsence
+  - Divine_Presence
 keywords:
   - Ezekiel_Overview
   - Glory_of_God
