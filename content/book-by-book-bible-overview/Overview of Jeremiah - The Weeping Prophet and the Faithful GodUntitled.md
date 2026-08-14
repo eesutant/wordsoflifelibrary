@@ -1,5 +1,5 @@
 ---
-title: Overview of Jeremiah - The Weeping Prophet and the Faithful God 🟢 NEW
+title: Overview of Jeremiah - The Weeping Prophet and the Faithful God
 description: A rich, narrative introduction to the prophet Jeremiah—exploring his calling, the rise and fall of Judah from Josiah to Zedekiah, the nation’s spiritual decline, and Jeremiah’s faithful perseverance. Ideal for Bible study, teaching, and readers seeking a deeper understanding of Old Testament history and prophetic ministry.
 categories:
   - Book_of_Jeremiah
