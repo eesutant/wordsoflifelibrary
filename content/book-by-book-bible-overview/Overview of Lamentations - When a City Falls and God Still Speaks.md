@@ -1,5 +1,5 @@
 ---
-title: Overview of Lamentations - When a City Falls and God Still Speaks 🟢 NEW
+title: Overview of Lamentations - When a City Falls and God Still Speaks
 description: A comprehensive, narrative‑driven overview of Lamentations that traces Jeremiah’s grief, the book’s poetic structure, its theological insights into sorrow, and the enduring hope found in God’s faithfulness.
 categories:
   - Bible_Study
