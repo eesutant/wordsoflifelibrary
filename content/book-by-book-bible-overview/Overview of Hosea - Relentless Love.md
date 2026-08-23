@@ -97,7 +97,7 @@ Their third child, a son, was named **Lo‑Ammi**, meaning "not my people." It e
   
 Yet even in judgment, God promised restoration: _"I will say to those called 'Not my people,' 'You are my people'; and they will say, 'You are my God.'"_ (Hosea 2:23 NIV)  
   
-### Gomer's Departure and Hosea's Heartbreak  
+## Gomer's Departure and Hosea's Heartbreak  
   
 After the birth of their third child, Gomer's heart wandered. Whispers circulated about her behaviour while Hosea was away preaching. The children were left uncared for. Eventually Hosea returned home to find a note: Gomer had left him and the children to pursue another man.  
   
