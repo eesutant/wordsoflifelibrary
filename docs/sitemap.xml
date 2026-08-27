@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-hosea---relentless-love/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-joel---hearing-god-in-seasons-of-loss/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-hosea---relentless-love/</loc>
     <lastmod>2026-08-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
