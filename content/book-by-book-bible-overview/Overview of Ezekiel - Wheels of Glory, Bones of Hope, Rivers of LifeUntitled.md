@@ -1,5 +1,5 @@
 ---
-title: Overview of Ezekiel - Wheels of Glory, Bones of Hope, Rivers of Life 🟢 NEW
+title: Overview of Ezekiel - Wheels of Glory, Bones of Hope, Rivers of Life
 description: A sweeping, narrative exploration of the Book of Ezekiel that traces the departure and return of God’s glory, the symbolic actions of the prophet, the fall of spiritual powers, the restoration of Israel, the valley of dry bones, the river of life, and the final declaration that The LORD is there.
 categories:
   - Biblical_Studies
