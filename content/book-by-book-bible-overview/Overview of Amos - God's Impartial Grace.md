@@ -79,15 +79,15 @@ Amos delivers God's message in a brilliantly structured and deeply unsettling wa
   
 As you read this section, imagine yourself standing in Israel's place. Imagine hearing Amos speak about _other_ nations first. You might nod along, thinking, "Yes, they deserve it." We often do the same, hearing Scripture and instinctively applying it to someone else. But Amos will not let his readers stay comfortable. With every nation he names, he is walking closer to you.  
   
-### 1. Damascus (Northeast)**  
+### 1. Damascus (Northeast)  
   
 Cruelty and violence.  
   
-### 2. Gaza / Philistia (Southwest)**  
+### 2. Gaza / Philistia (Southwest)  
   
 Slave trading.  
   
-### 3. Tyre (Northwest)**  
+### 3. Tyre (Northwest)  
   
 Broken covenants.  
   
