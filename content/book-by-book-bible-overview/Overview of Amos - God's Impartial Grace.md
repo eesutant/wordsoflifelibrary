@@ -231,6 +231,8 @@ He wants integrity, compassion, and truth in the inward parts.
 ### 4. The cure for injustice is returning to God.  
   
 Amos does not preach moral self‑improvement. He preaches repentance. “Seek me and live.”  Justice flows from relationship with God, not from human effort alone. When hearts return to God, communities begin to heal.
+
+This is not a call to try harder. It is a call to return.
   
 ### 5. Judgment aims at restoration.  
   
