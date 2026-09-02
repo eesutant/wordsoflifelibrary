@@ -116,6 +116,7 @@ This is where the reader feels the prophetic tension. Amos has been walking arou
 Israel had listened comfortably as each neighbour was condemned. They nodded along, thinking, "Well, they got what was coming to them." But when Amos turned inward, the people recoiled. They grew angry. They told him to leave. They said, "Why don't you go away and preach someplace else?" But Amos could not leave. He had been sent.  
   
 And his message was clear: **Israel's corruption, injustice, materialism, and moral decay had made them ripe for judgment.**   
+
 And now the reader must ask: **Where is Amos circling me?** **Where have I nodded along too quickly?** **Where is God tightening the circle around my own heart?**  
   
 Amos' geographic sweep is not merely historical. It is personal. It is meant to unsettle you, to awaken you, to make you see that God's impartiality is not an abstract doctrine; it is a searching light that eventually shines on every heart.  
