@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amos_Commntary</title>
+      <link>https://wordsoflifelibrary.org/categories/amos_commntary/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/amos_commntary/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Biblical_Narrative</title>
       <link>https://wordsoflifelibrary.org/categories/biblical_narrative/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/biblical_narrative/</guid>
       <description></description>
@@ -22,7 +32,7 @@
     <item>
       <title>Biblical_Overview</title>
       <link>https://wordsoflifelibrary.org/categories/biblical_overview/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/biblical_overview/</guid>
       <description></description>
@@ -32,9 +42,39 @@
     <item>
       <title>Christian_Living</title>
       <link>https://wordsoflifelibrary.org/categories/christian_living/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/christian_living/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Old_testament_Prophets</title>
+      <link>https://wordsoflifelibrary.org/categories/old_testament_prophets/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/old_testament_prophets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prophets</title>
+      <link>https://wordsoflifelibrary.org/categories/prophets/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/prophets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spiritual_Formation</title>
+      <link>https://wordsoflifelibrary.org/categories/spiritual_formation/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/spiritual_formation/</guid>
       <description></description>
       
     </item>
@@ -45,26 +85,6 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/joel_commntary/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Old_testament_Prophets</title>
-      <link>https://wordsoflifelibrary.org/categories/old_testament_prophets/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/old_testament_prophets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Spiritual_Formation</title>
-      <link>https://wordsoflifelibrary.org/categories/spiritual_formation/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/spiritual_formation/</guid>
       <description></description>
       
     </item>
@@ -85,16 +105,6 @@
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/old_testament_studies/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Prophets</title>
-      <link>https://wordsoflifelibrary.org/categories/prophets/</link>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/prophets/</guid>
       <description></description>
       
     </item>
