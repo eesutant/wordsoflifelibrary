@@ -55,7 +55,7 @@ Perhaps you've felt that same frustration, the sense that you tried your best an
   
 The book opens with a simple but decisive statement: _"The words of Amos, who was among the shepherds of Tekoa, the vision he saw concerning Israel two years before the earthquake…"_ (Amos 1:1 NIV)  
   
-This anchors Amos in history. He prophesied during the reigns of Uzziah in Judah and Jeroboam II in Israel, making him a contemporary of **Hosea** and Isaiah. He is one of the earliest prophetic writers. But what makes Amos truly striking is not his date; it is his background.  
+This anchors Amos in history. He prophesied during the reigns of Uzziah in Judah (the southern kingdom) and Jeroboam II in Israel (the northern kingdom), making him a contemporary of **Hosea** and Isaiah. He is one of the earliest prophetic writers. But what makes Amos truly striking is not his date; it is his background.  
   
 Amos was not a priest, not a scholar, not a graduate of any prophetic school. He says plainly, _"I was neither a prophet nor the son of a prophet, but I was a shepherd, and I also took care of sycamore‑fig trees"_ (Amos 7:14 NIV). He was a working man, a herdsman, a farmer, someone whose hands were more familiar with soil and wool than scrolls and temple rituals.  
   
