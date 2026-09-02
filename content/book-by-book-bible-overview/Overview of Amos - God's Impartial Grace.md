@@ -222,9 +222,9 @@ The repeated refrain, "Yet you have not returned to me", reveals a God who inter
   
 If you've ever wondered why God seems relentless in exposing certain habits or attitudes, Amos explains why: He is calling you back.  
   
-### 3. God desires inward truth, not outward performance.* 
+### 3. God desires inward truth, not outward performance. 
   
-_Amos exposes the emptiness of religious activity divorced from righteousness. "Away with the noise of your songs!" (Amos 5:23 NIV). God is not impressed by worship that masks injustice. He wants integrity, compassion, and truth in the inward parts._  
+Amos exposes the emptiness of religious activity divorced from righteousness. "Away with the noise of your songs!" (Amos 5:23 NIV). God is not impressed by worship that masks injustice. He wants integrity, compassion, and truth in the inward parts.  
   
 He wants integrity, compassion, and truth in the inward parts.  
   
