@@ -1,5 +1,5 @@
 ---
-title: An Overview of Obadiah - Pride, Judgment, and Deliverance  🟢 NEW
+title: Overview of Obadiah - Pride, Judgment, and Deliverance  🟢 NEW
 description: A powerful, heart‑searching overview of Obadiah showing how God confronts pride, destroys the flesh, and brings the believer into Spirit‑filled freedom.
 categories:
   - Biblical_Overview
