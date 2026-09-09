@@ -87,7 +87,7 @@ Obadiah is the story of two nations, two brothers, and two natures. It is the st
   
 Obadiah begins by turning the spotlight directly onto **Esau**, the man of the flesh, and onto **Edom**, the proud nation that embodies that fleshly nature. The prophet answers a question that echoes through Scripture: _Why does God oppose Esau?_ Why does God set Himself against the flesh?  
   
-Obadiah answers plainly: "The pride of your heart has deceived you… Who can bring me down to the ground?" (Obadiah 1:3 NIV)  
+Obadiah answers plainly: "The pride of your heart has deceived you… you who say to yourself, Who can bring me down to the ground?" (Obadiah 1:3 NIV)  
   
 Pride is the root of all human evil. Pride is the essence of the flesh. Pride is the inward twist that resists God, defies His purposes, and elevates self.  
   
