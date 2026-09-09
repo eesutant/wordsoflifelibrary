@@ -151,11 +151,11 @@ Obadiah wants you to see this: **Esau is not merely an ancient figure. Esau is a
   
 ### 2. The Judgment of Edom: God's Ruthless Opposition to the Flesh  
   
-Once Obadiah exposes the nature of pride, he immediately turns to its destiny. The prophet does not leave the reader wondering what becomes of Esau, the flesh, or the proud nation of Edom. He speaks with sobering clarity: "The day of the Lord is near for all nations. As you have done, it will be done to you; your deeds will return upon your own head." (Obadiah 1:15 NIV)  
+Once Obadiah exposes the nature of pride, he immediately turns to its destiny. The prophet does not leave the reader wondering what becomes of Esau, the flesh, or the proud nation of Edom. He speaks with sobering clarity: "The day of the Lord is near for all nations. As you have done, it will be done to you; your deeds will return upon your own head." (Obadiah 1:15 NIV) 
+
+When Obadiah declares, _“The day of the Lord is near for all nations,”_ he reveals why he has focused so intently on Edom. Edom is not just a nation; it is a pattern. It is humanity in miniature. In Hebrew, Edom_ and Adam_ share the same three letters; a quiet reminder that what God sees in Edom, He sees in us. The pride that destroys Edom is the pride that destroys nations, communities, and hearts. Obadiah uses Edom as a living illustration of how God will confront human arrogance wherever it appears.
   
-This is the turning point of the book. It is the moment when God declares His verdict on the flesh.  
-  
-**The day of the Lord is God's decisive confrontation with pride.**  
+**And once Obadiah shows that Edom’s pride is humanity’s pride, he brings the reader to the turning point of the book.** It is the moment when God declares His verdict on the flesh.   
   
 Edom had lived in self‑sufficiency, indifference, gloating, and exploitation. They had resisted God, harmed His people, and exalted themselves. But now God announces that their actions will boomerang back upon them. What they have sown, they will reap. What they have inflicted, they will experience.  
   
