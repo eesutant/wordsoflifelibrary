@@ -57,9 +57,7 @@ And if you have ever resisted a calling because it would stretch your compassion
   
 The book of Jonah is one of the best‑known yet least‑understood books in Scripture. For many people, Jonah has been reduced to a children's tale about a man and a whale, a story treated with _"ridicule and disbelief… laughed out of the Bible as being a kind of fable."_ Popular culture remembers Jonah mostly as a symbol of bad luck, a "Jonah" on a ship, someone whose presence brings misfortune. But this shallow reputation obscures the book's true depth and seriousness.  
   
-Jonah was not a mythical figure. He was a historical prophet, mentioned in **2 Kings** and affirmed by Jesus himself. As the document notes, _"Jonah was actually a historical character… referred to by the Lord Jesus Christ himself."_ Jesus' own words anchor Jonah firmly in history:  
-  
-"As Jonah was three days and three nights in the belly of the whale, so will the Son of Man be three days and three nights in the heart of the earth." (Matthew 12:40 NIV)  
+Jonah was not a mythical figure. He was a historical prophet, mentioned in **2 Kings** and affirmed by Jesus himself. Jesus' own words anchor Jonah firmly in history:  "As Jonah was three days and three nights in the belly of the whale, so will the Son of Man be three days and three nights in the heart of the earth." (Matthew 12:40 NIV)  
   
 The book's true message does not lie in the fish but in Jonah's heart, especially in the final two chapters. Jonah's flight, his anger, and his resistance reveal a prophet who knew God's character so well that he feared God would show mercy to people he despised. As the summary states, Jonah fled _"for I knew that thou art a gracious God and merciful, slow to anger, and abounding in steadfast love."_  
   
