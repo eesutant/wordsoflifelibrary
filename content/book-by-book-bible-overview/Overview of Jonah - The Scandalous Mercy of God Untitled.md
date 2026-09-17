@@ -161,7 +161,8 @@ God asks him: "Is it right for you to be angry?" (Jonah 4:4 NIV)
   
 Jonah insists it is. He is angry enough to die.  
   
-Then God speaks the final words of the book, words that reveal His heart and confront Jonah: "You have been concerned about this plant… Should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left?" (Jonah 4:10–11 NIV)  
+Then God speaks the final words of the book, words that reveal His heart and confront Jonah: "You have been concerned about this plant… Should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left?" (Jonah 4:10–11 NIV).
+
 Jonah grieves over a plant that lived for a day. God grieves over a city full of children. Jonah's compassion is narrow, self‑focused, fragile. God's compassion is vast, patient, and overflowing.  
   
 And the book ends there, abruptly, intentionally, with a question rather than a conclusion. Because Jonah's story is not meant to resolve neatly.  
@@ -174,7 +175,7 @@ Jonah's anger becomes a mirror. God's question becomes an invitation. And the un
 
 ## So What? Why does the book of Jonah matter today?  
   
-The book of Jonah is not about a fish. It is about the scandalous mercy of God. It confronts us with uncomfortable truths — and each truth presses deeper than the last.  
+The book of Jonah is not about a fish. **It is about the scandalous mercy of God.**  It confronts us with uncomfortable truths — and each truth presses deeper than the last.  
   
 ### 1. God's mercy is wider than our comfort zones, and that exposes us.  
   
@@ -204,7 +205,7 @@ Jonah wanted justice without mercy. God wanted mercy without abandoning justice.
   
 ## Conclusion - The Heart of God  
   
-The book of Jonah is not about a fish. It is about the scandalous mercy of God. It is about a God who loves people you do not love, who pursues people you avoid, who forgives people you judge, and who extends compassion to people you would rather see punished.  
+The book of Jonah is not about a fish.  It is about a God who loves people you do not love, who pursues people you avoid, who forgives people you judge, and who extends compassion to people you would rather see punished.  
   
 It is about a God who refuses to let your anger define His actions. A God who refuses to let your prejudices limit His compassion. A God who refuses to let your sense of fairness override His desire to save.  
   
