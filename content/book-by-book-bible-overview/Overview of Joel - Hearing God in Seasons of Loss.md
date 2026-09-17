@@ -1,5 +1,5 @@
 ---
-title: Overview of Joel - Hearing God in Seasons of Loss  🟢 NEW
+title: Overview of Joel - Hearing God in Seasons of Loss 
 description: A sweeping narrative exploration of Hosea’s message of relentless divine love, human unfaithfulness, and God’s restorative pursuit of His people.
 categories:
   - Biblical_Overview
