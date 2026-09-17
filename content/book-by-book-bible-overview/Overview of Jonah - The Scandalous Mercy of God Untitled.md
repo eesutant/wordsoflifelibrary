@@ -59,7 +59,7 @@ The book of Jonah is one of the best‑known yet least‑understood books in Scr
   
 Jonah was not a mythical figure. He was a historical prophet, mentioned in **2 Kings** and affirmed by Jesus himself. Jesus' own words anchor Jonah firmly in history:  "As Jonah was three days and three nights in the belly of the whale, so will the Son of Man be three days and three nights in the heart of the earth." (Matthew 12:40 NIV)  
   
-The book's true message does not lie in the fish but in Jonah's heart, especially in the final two chapters. Jonah's flight, his anger, and his resistance reveal a prophet who knew God's character so well that he feared God would show mercy to people he despised. As the summary states, Jonah fled _"for I knew that thou art a gracious God and merciful, slow to anger, and abounding in steadfast love."_  
+The book's true message does not lie in the fish but in Jonah's heart, especially in the final two chapters. Jonah's flight, his anger, and his resistance reveal a prophet who knew God's character so well that he feared God would show mercy to people he despised.   
   
 Therefore, Jonah is not a story about a fish. It is a story about **God's mercy**, **human prejudice**, **reluctant obedience**, and the **heart of God** revealed through a stubborn prophet who would rather die than see his enemies forgiven.  
   
@@ -67,11 +67,11 @@ Therefore, Jonah is not a story about a fish. It is a story about **God's mercy*
   
 God's call comes abruptly: "Arise, go to Nineveh, that great city, and cry against it; for their wickedness has come up before me." (Jonah 1:2 NIV)  
   
-But Jonah does not rise to obey; he rises to flee. The attached summary captures this moment vividly: "But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish". It is striking how easily Jonah finds a ship heading in the opposite direction, a reminder that when you run from God, there is always a convenient escape route waiting at hand. As the summary notes, "When you are trying to run away from God, you will be amazed how often you find a ship right there, ready at hand."  
+But Jonah does not rise to obey; he rises to flee. The attached summary captures this moment vividly: "But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish". It is striking how easily Jonah finds a ship heading in the opposite direction, a reminder that when you run from God, there is always a convenient escape route waiting at hand. When you are trying to run away from God, you will be amazed how often you find a ship right there, ready at hand.  
   
 Jonah even pays his fare, a small but revealing detail: "If he was going to be disobedient, at least he wanted to be honest about it!" He boards the ship, attempting to go "away from the presence of the Lord". But God interrupts Jonah's escape with a storm so fierce that the sailors eventually throw him into the sea, where "a great fish swallowed him".  
   
-Inside the fish, Jonah prays, a desperate plea rather than a transformed heart, and God delivers him. The summary describes the moment with earthy realism: "The fish got a terrible stomach-ache and vomited him up on the land."  
+Inside the fish, Jonah prays, a desperate plea rather than a transformed heart, and God delivers him. The fish got a terrible stomach-ache and vomited him up on the land.  
   
 Then comes the turning point: "Then the word of the Lord came to Jonah the second time, saying, 'Arise, go to Nineveh… and proclaim to it the message that I tell you.'" (Jonah 3:1–2 NIV)  
   
@@ -91,7 +91,7 @@ Jonah hated Nineveh. He had likely seen their brutality firsthand. The summary d
   
 So, Jonah ran, not because he misunderstood God, but because he understood Him too well.  
   
-Even after the fish, Jonah obeys reluctantly. As the summary says, "He still did not very much want to deliver this message, but he remembered the fish's belly, and he went."  
+Even after the fish, Jonah obeys reluctantly. He still did not very much want to deliver this message, but he remembered the fish's belly, and he went. 
   
 ## Jonah's Obedience  
   
