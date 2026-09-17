@@ -67,27 +67,27 @@ Therefore, Jonah is not a story about a fish. It is a story about **God's mercy*
   
 God's call comes abruptly: "Arise, go to Nineveh, that great city, and cry against it; for their wickedness has come up before me." (Jonah 1:2 NIV)  
   
-But Jonah does not rise to obey; he rises to flee. The attached summary captures this moment vividly: "But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish". It is striking how easily Jonah finds a ship heading in the opposite direction, a reminder that when you run from God, there is always a convenient escape route waiting at hand. When you are trying to run away from God, you will be amazed how often you find a ship right there, ready at hand.  
+But Jonah does not rise to obey, he rises to flee. Scripture records the moment with stark clarity: _“But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish.”_ (Jonah 1:3 NIV). It is striking how easily Jonah finds a ship heading in the opposite direction, a reminder that when you run from God, there is always a convenient escape route waiting at hand. When you are trying to run away from God, you will be amazed how often you find a ship right there, ready at hand.  
   
-Jonah even pays his fare, a small but revealing detail: "If he was going to be disobedient, at least he wanted to be honest about it!" He boards the ship, attempting to go "away from the presence of the Lord". But God interrupts Jonah's escape with a storm so fierce that the sailors eventually throw him into the sea, where "a great fish swallowed him".  
+Jonah even pays his fare, a small but revealing detail: _“He paid the fare and went aboard.”_ (Jonah 1:3 NIV). If he was going to be disobedient, at least he wanted to be honest about it. He boards the ship, attempting to go "away from the presence of the Lord". But God interrupts Jonah's escape with a storm so fierce that the sailors eventually throw him into the sea, where "a great fish swallowed him" (Jonah 1:17 NIV)..  
   
-Inside the fish, Jonah prays, a desperate plea rather than a transformed heart, and God delivers him. The fish got a terrible stomach-ache and vomited him up on the land.  
+Inside the fish, Jonah prays, a desperate plea rather than a transformed heart, and God delivers him. Scripture describes the moment with earthy realism: _“And the Lord commanded the fish, and it vomited Jonah onto dry land.”_ (Jonah 2:10 NIV). 
   
 Then comes the turning point: "Then the word of the Lord came to Jonah the second time, saying, 'Arise, go to Nineveh… and proclaim to it the message that I tell you.'" (Jonah 3:1–2 NIV)  
   
-There is a note of sternness in God's command, isn't there? God has not changed his mind a bit. He finally has changed the prophet's mind -- but he has not relented about what he wants Jonah to say to Nineveh.  
+There is a note of sternness in God's command, isn't there? God has not changed His mind at all. He has changed Jonah’s circumstances, but He has not relented about what He wants Jonah to say to Nineveh. 
   
 But why did Jonah refuse the first time? This is where the heart of the book emerges.  
   
-Some suggest Jonah had a primitive, tribal view of God, but the summary rejects this: "I am a Hebrew; and I fear the Lord, the God of heaven, who made the sea and the dry land." Jonah knew God was not a local deity. He knew God's reach extended beyond Israel.  
+Some suggest Jonah had a primitive, tribal view of God, but Jonah’s own words reject this: _“I am a Hebrew; and I fear the Lord, the God of heaven, who made the sea and the dry land.”_ (Jonah 1:9 NIV). Jonah knew God was not a local deity. He knew God's reach extended beyond Israel.  
   
-The real reason Jonah fled is far more unsettling:  
+The real reason Jonah fled is far more unsettling:  **Jonah knew God too well**, and that is why he did not go to Nineveh. Does that sound strange? 
+
+He later confesses: “That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger, and abounding in steadfast love.” (Jonah 4:2 NIV) 
+
+Jonah feared that if he preached judgment, Nineveh might repent, and God would forgive them.  
   
-Jonah knew God too well, and that is why he did not go to Nineveh. Does that sound strange? Well, look at the beginning of chapter 4:  
-  
-"…. That is what I tried to forestall by fleeing to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity." (Jonah 4: 2 NIV) Jonah feared that if he preached judgment, Nineveh might repent, and God would forgive them.  
-  
-Jonah hated Nineveh. He had likely seen their brutality firsthand. The summary describes them as "cruel, ruthless, bloody… the bloodiest and most vicious kinds of cruelty". Jonah wanted them destroyed. He wanted justice without mercy. And he knew that if Nineveh gave God "half a chance to be merciful," God would relent.  
+Jonah hated Nineveh. He had likely seen their brutality firsthand. The Ninevites were known historically for cruelty, ruthless violence, and ingenious forms of torture. Jonah wanted them destroyed. He wanted justice without mercy. And he knew that if Nineveh gave God even “half a chance to be merciful,” God would relent.  
   
 So, Jonah ran, not because he misunderstood God, but because he understood Him too well.  
   
