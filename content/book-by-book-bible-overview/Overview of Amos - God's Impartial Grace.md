@@ -1,5 +1,5 @@
 ---
-title: Overview of Amos - God's Impartial Grace 🟢 NEW
+title: Overview of Amos - God's Impartial Grace
 description: A compelling, reader‑focused exploration of the book of Amos, revealing God’s impartial justice, heartfelt warnings, and restorative hope through a shepherd‑prophet’s powerful message.
 categories:
   - Biblical_Overview
