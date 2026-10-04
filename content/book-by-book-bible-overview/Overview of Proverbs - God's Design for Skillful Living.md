@@ -37,6 +37,13 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
+## HOW PROVERBS CONNECTS TO ECCLESIASTES
+
+Proverbs shows us what life looks like when wisdom is embraced — when a person listens, learns, slows down, and aligns their choices with God’s design. Ecclesiastes shows the opposite side of Solomon’s experience: what happens when wisdom is ignored, when life is lived “under the sun,” and when human reasoning tries to make sense of the world without God at the centre.
+
+Together, Proverbs and Ecclesiastes form a complete picture of Solomon’s insight. Proverbs teaches skillful living; Ecclesiastes exposes the collapse of every human philosophy that tries to live without God. For the contrast, see the [Overview of Ecclesiastes](/book-by-book-bible-overview/overview-of-ecclesiastes--finding-meaning-without-god/).
+
+
 ## OPENING STORY  
   
 Daniel had never been particularly sentimental about objects, which is why the small brass compass his grandfather gave him on his fifteenth birthday ended up in the back of a drawer almost immediately. It was an old thing, the kind of object that carried the quiet dignity of long use. The brass had lost its shine, the glass was scratched in a way that suggested it had been dropped more than once, and the needle trembled as though it remembered storms Daniel had never lived through.  
@@ -56,7 +63,7 @@ Proverbs is God's compass. It doesn't flicker with trends. It doesn't lose signa
   
 ## INTRODUCTION TO PROVERBS  
   
-Proverbs is not a story. It is not a law code. It is not a theological treatise. It is a book of **wisdom**, the skill of living well in God's world.  
+Proverbs is not a story. It is not a law code. It is not a theological treatise. It is a book of **wisdom**, the skill of living well in God's world.  Solomon’s wisdom in Proverbs is only one side of his reflection on life. His other major work, Ecclesiastes, shows what happens when a person tries to interpret life without God’s wisdom. For that perspective, see the [Overview of Ecclesiastes](/book-by-book-bible-overview/overview-of-ecclesiastes--finding-meaning-without-god/).
   
 Many people open Proverbs and feel disoriented. It can seem like a dictionary, changing subjects with every verse. But Proverbs is not random. It is **carefully and beautifully constructed**, and once you see the structure, the whole book becomes clear.  
   
