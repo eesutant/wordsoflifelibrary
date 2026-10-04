@@ -37,11 +37,11 @@ Adapted from insights by Ray C. Stedman and other biblical reflections.
 
 ## Ecclesiastes: Summary, Themes, and Why Life Feels Meaningless Without God
 **Summary:**  
-Ecclesiastes is a brutally honest exploration of life “under the sun” — life interpreted strictly through human eyes, without God at the center. Solomon tests every major human philosophy: pleasure, achievement, wisdom, work, wealth, religion, and self‑indulgence. Each one collapses under the weight of meaninglessness. The book exposes the emptiness of human reasoning and reveals the one conclusion that makes life coherent: **Fear God and keep His commandments — this is the whole of man.** Ecclesiastes plays a unique role in the broader [bible overview](/bible-overview/), standing as the book that exposes the emptiness of life without God.
+Ecclesiastes is a brutally honest exploration of life “under the sun” — life interpreted strictly through human eyes, without God at the center. Solomon tests every major human philosophy: pleasure, achievement, wisdom, work, wealth, religion, and self‑indulgence. Each one collapses under the weight of meaninglessness. The book exposes the emptiness of human reasoning and reveals the one conclusion that makes life coherent: **Fear God and keep His commandments — this is the whole of man.** Ecclesiastes plays a unique role in the broader [bible overview](https://www.wordsoflifelibrary.org/book-by-book-bible-overview/), standing as the book that exposes the emptiness of life without God.
 
 
 ## What Ecclesiastes Is Really About
-Ecclesiastes is the inspired record of Solomon’s human reasoning.  Ecclesiastes sits alongside other wisdom literature such as the [Overview of Proverbs](/book-by-book-bible-overview/overview-of-proverbs/). It shows us what life looks like when God is treated as optional. The repeated phrase **“under the sun”** signals that Solomon is evaluating life from a purely human perspective — based on appearances, limited logic, and personal experience.
+Ecclesiastes is the inspired record of Solomon’s human reasoning.  Ecclesiastes sits alongside other wisdom literature such as the [Overview of Proverbs](https://www.wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-proverbs---gods-design-for-skillful-living/). It shows us what life looks like when God is treated as optional. The repeated phrase **“under the sun”** signals that Solomon is evaluating life from a purely human perspective — based on appearances, limited logic, and personal experience.
 
 This is why the book feels:
 - bleak  
@@ -96,7 +96,7 @@ Every human attempt to find meaning fails — except one.
 
 ## The Turning Point: What Actually Gives Life Meaning
 After testing every worldview, Solomon concludes:  
-**“Fear God and keep His commandments, for this is the whole of man.”** Solomon also wrote about love and relationships in the [Overview of Song of Songs](/book-by-book-bible-overview/overview-of-song-of-songs/), showing another dimension of his wisdom.
+**“Fear God and keep His commandments, for this is the whole of man.”** Solomon also wrote about love and relationships in the [Overview of Song of Songs](https://www.wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-song-of-songs---the-great-romance-in-scripture/), showing another dimension of his wisdom.
 
 Meaning is not found in:
 - pleasure  
@@ -141,7 +141,7 @@ Ecclesiastes is not atheistic. Solomon never denies God’s existence. Instead, 
 
 Ecclesiastes begins with a simple but important line: “The words of the Teacher, son of David, king in Jerusalem.” _(Ecclesiastes 1:1, NIV)_
 
-The traditional translation “Teacher” or “Preacher” comes from the Hebrew _Qoheleth_. But in context, the best sense is **“Debater”** or **“Arguer.”** Ecclesiastes is not a sermon; it is a **series of arguments**, observations, and experiments. It is Solomon thinking out loud, wrestling with life, and testing every human philosophy to see if any of them can make sense of existence **without God at the center**. Solomon was uniquely positioned to conduct this investigation. Solomon, whose life is explored further in the [Overview of Proverbs](/book-by-book-bible-overview/overview-of-proverbs/), tested every human philosophy. During his forty‑year reign, Israel enjoyed complete peace. No wars. No invasions. No political crises. Solomon had:
+The traditional translation “Teacher” or “Preacher” comes from the Hebrew _Qoheleth_. But in context, the best sense is **“Debater”** or **“Arguer.”** Ecclesiastes is not a sermon; it is a **series of arguments**, observations, and experiments. It is Solomon thinking out loud, wrestling with life, and testing every human philosophy to see if any of them can make sense of existence **without God at the center**. Solomon was uniquely positioned to conduct this investigation. Solomon, whose life is explored further in the [Overview of Proverbs](https://www.wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-proverbs---gods-design-for-skillful-living/), tested every human philosophy. During his forty‑year reign, Israel enjoyed complete peace. No wars. No invasions. No political crises. Solomon had:
 
 - **unlimited wealth**,
 - **unmatched wisdom**,
