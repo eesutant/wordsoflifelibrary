@@ -1,6 +1,6 @@
 ---
 title: Overview of Ecclesiastes – Finding Meaning Without God
-description: A deep, narrative exploration of Ecclesiastes showing how every human philosophy collapses without God, revealing the book’s timeless call to place the Creator at the center of life.
+description: A clear, structured overview of Ecclesiastes showing why every human philosophy collapses without God. Explore Solomon’s search for meaning, the emptiness of life “under the sun,” and the book’s final call to place the Creator at the center.
 categories:
   - Ecclesiastes
   - Old_testament_Wisdom
@@ -35,6 +35,83 @@ featureImage: /img/default-feature.jpg
 ---
 Adapted from insights by Ray C. Stedman and other biblical reflections.
 
+## Ecclesiastes: Summary, Themes, and Why Life Feels Meaningless Without God
+**Summary:**  
+Ecclesiastes is a brutally honest exploration of life “under the sun” — life interpreted strictly through human eyes, without God at the center. Solomon tests every major human philosophy: pleasure, achievement, wisdom, work, wealth, religion, and self‑indulgence. Each one collapses under the weight of meaninglessness. The book exposes the emptiness of human reasoning and reveals the one conclusion that makes life coherent: **Fear God and keep His commandments — this is the whole of man.** Ecclesiastes plays a unique role in the broader [[bible-overview]], standing as the book that exposes the emptiness of life without God.
+
+
+## What Ecclesiastes Is Really About
+Ecclesiastes is the inspired record of Solomon’s human reasoning.  Ecclesiastes sits alongside other wisdom literature such as the [[overview-of-proverbs]]. It shows us what life looks like when God is treated as optional. The repeated phrase **“under the sun”** signals that Solomon is evaluating life from a purely human perspective — based on appearances, limited logic, and personal experience.
+
+This is why the book feels:
+- bleak  
+- contradictory  
+- emotionally raw  
+- intellectually restless  
+
+It is not God speaking error — it is God accurately recording human conclusions so we can see their emptiness.
+
+## Why Life Feels Meaningless Without God
+Solomon begins with the famous line:  
+**“Meaningless! Meaningless! … Everything is meaningless.”**
+
+He is not exaggerating. He is describing the human condition when God is not at the center.
+
+Life becomes:
+- beautiful but fragile  
+- full but hollow  
+- busy but directionless  
+- joyful but temporary  
+- successful but unsatisfying 
+
+This theme of meaninglessness appears throughout Scripture and human experience. Ecclesiastes exposes this ache so we can finally understand it.
+
+## The Philosophies Solomon Tested
+### 1. The Scientific / Mechanistic View
+Nature becomes a machine. Humans become cogs. Meaning evaporates.
+
+### 2. Hedonism (Pleasure)
+Pleasure promises joy but delivers weariness.
+
+### 3. Existentialism / Fatalism
+Experience cannot carry the weight of meaning.
+
+### 4. Capitalism / Achievement
+Ambition collapses under insecurity and death.
+
+### 5. Religion Without Relationship
+Ritual cannot replace relationship.
+
+### 6. Stoicism / Moderation
+Self‑protection cannot satisfy the soul.
+
+### 7. Practical Self‑Indulgence
+“Eat, drink, and be merry” is resignation, not joy.
+
+### 8. Worldly Wisdom
+Common sense cannot control life or explain it.
+
+### 9. The Collapse of All Human Philosophies
+Every human attempt to find meaning fails — except one.
+
+## The Turning Point: What Actually Gives Life Meaning
+After testing every worldview, Solomon concludes:  
+**“Fear God and keep His commandments, for this is the whole of man.”** Solomon also wrote about love and relationships in the [[overview-of-song-of-songs]], showing another dimension of his wisdom.
+
+Meaning is not found in:
+- pleasure  
+- work  
+- wisdom  
+- wealth  
+- achievement  
+- religion  
+- moderation  
+
+Meaning is found only when God stands at the center.
+
+## Why Ecclesiastes Matters Today
+Ecclesiastes is a mirror. It shows us the ache we carry is not a flaw — it is the echo of eternity in our hearts. When God is pushed to the margins, everything becomes heavier, more fragile, and more exhausting. When God moves to the center, life becomes coherent.
+
 ## Opening Story: When Life Feels Full but Hollow
 
 Liam had never given much thought to the book of Ecclesiastes. It wasn’t that he disliked the Bible or held any particular resistance toward faith; rather, life had a way of filling his days with enough noise, movement, and responsibility that deeper questions were quietly pushed aside. He lived in Wollongong, close enough to the ocean that the sound of waves was a familiar backdrop, and from the outside, his life appeared steady and well‑arranged. He had a respectable job, a circle of friends who kept weekends lively, a gym routine that made him feel disciplined, and a growing savings account that reassured him he was doing what adults were supposed to do.
@@ -64,7 +141,7 @@ Ecclesiastes is not atheistic. Solomon never denies God’s existence. Instead, 
 
 Ecclesiastes begins with a simple but important line: “The words of the Teacher, son of David, king in Jerusalem.” _(Ecclesiastes 1:1, NIV)_
 
-The traditional translation “Teacher” or “Preacher” comes from the Hebrew _Qoheleth_. But in context, the best sense is **“Debater”** or **“Arguer.”** Ecclesiastes is not a sermon; it is a **series of arguments**, observations, and experiments. It is Solomon thinking out loud, wrestling with life, and testing every human philosophy to see if any of them can make sense of existence **without God at the center**. Solomon was uniquely positioned to conduct this investigation. During his forty‑year reign, Israel enjoyed complete peace. No wars. No invasions. No political crises. Solomon had:
+The traditional translation “Teacher” or “Preacher” comes from the Hebrew _Qoheleth_. But in context, the best sense is **“Debater”** or **“Arguer.”** Ecclesiastes is not a sermon; it is a **series of arguments**, observations, and experiments. It is Solomon thinking out loud, wrestling with life, and testing every human philosophy to see if any of them can make sense of existence **without God at the center**. Solomon was uniquely positioned to conduct this investigation. Solomon, whose life is explored further in the [[overview-of-proverbs]], tested every human philosophy. During his forty‑year reign, Israel enjoyed complete peace. No wars. No invasions. No political crises. Solomon had:
 
 - **unlimited wealth**,
 - **unmatched wisdom**,
