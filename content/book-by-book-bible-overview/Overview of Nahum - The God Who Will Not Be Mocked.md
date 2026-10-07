@@ -7,9 +7,9 @@ categories:
   - Nahum_Commentary
   - Bible_Study
   - Prophetic_books
-  - Faitn_and_Spiritual_Growth
+  - Faith_and_Spiritual_Growth
   - Theology
-  - Bible-Study
+  - Bible_Study
 tags:
   - Nahum
   - Book_of_Nahum
@@ -29,7 +29,7 @@ keywords:
   - Minor_Prophet_Overview
   - Divine_Judgment
   - Old_Testament_Prophet
-  - Faith_and_Justice
+  - Faith
   - Biblical_Hope
   - Nahum_in_the_Bible
 date: 2026-10-03
@@ -184,7 +184,7 @@ Nahum ends not with a prayer or a plea but with a final, devastating line: the k
 
 Movement Four reveals that God's anger is not only terrible, personal, and thorough; it is utterly irresistible. When God rises in judgment, no empire can withstand Him, no culture can outlive Him, and no power can escape Him. Nineveh's fall is not simply the end of a city; it is the end of a worldview built on pride, cruelty, and defiance. It is the final crash of the storm that Nahum has been describing from the beginning, a storm that sweeps away everything that refuses to bow before the living God.
 
-## So What? Why does Nahum matter to you?
+## o What? Why does Nahum matter to you?
 
 Nahum is not merely ancient history. It is a theological earthquake. It shakes assumptions. It confronts illusions. It forces us to see God as He truly is, not as we prefer Him to be, and it speaks directly into the lives of those who read it. Its pages are filled with images of battle, collapse, judgment, and ruin. Yet this darkness is not gratuitous; it is purposeful. Nahum's message speaks directly into the tragic and perpetual cycles of human violence and oppression that mark every age. Human history is filled with tribes and nations elevating themselves through power, pride, and aggression, using violence to take what they want and leaving the innocent to suffer. Nahum refuses to look away from this reality. Instead, it confronts it with theological clarity and pastoral honesty.
 

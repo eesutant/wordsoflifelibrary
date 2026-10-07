@@ -1,5 +1,5 @@
 ---
-title: Overview of Jonah - The Scandalous Mercy of God  🟢 NEW
+title: Overview of Jonah - The Scandalous Mercy of God
 description: A profound, reader‑focused exploration of the book of Jonah, revealing the scandalous mercy of God, his reluctant obedience, and the divine question that still confronts every human heart.
 categories:
   - Biblical_Overview
