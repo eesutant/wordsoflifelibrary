@@ -5,7 +5,6 @@ categories:
   - Biblical_Overview
   - Old_testament_Prophets
   - Habakkuk_Commentary
-  - Bible_Study
   - Biblical_Lament_and_Hope
   - Trust_and_Spiritual_Growth
   - Theology
