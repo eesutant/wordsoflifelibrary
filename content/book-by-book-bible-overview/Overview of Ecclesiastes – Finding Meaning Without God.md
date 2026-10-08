@@ -66,6 +66,8 @@ Life becomes:
 
 This theme of meaninglessness appears throughout Scripture and human experience. Ecclesiastes exposes this ache so we can finally understand it.
 
+For a powerful picture of how God rebuilds what has collapsed, see the [Overview of Nehemiah](https://www.wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-nehemiah---rebuilding-what-matters/), showing another dimension of his wisdom.
+
 ## The Philosophies Solomon Tested
 ### 1. The Scientific / Mechanistic View
 Nature becomes a machine. Humans become cogs. Meaning evaporates.

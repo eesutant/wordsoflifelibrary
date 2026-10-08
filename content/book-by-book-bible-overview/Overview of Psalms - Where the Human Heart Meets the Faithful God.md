@@ -42,7 +42,7 @@ She stared at the sentence. It felt strange, too honest, too exposed. But then a
   
 Later that night, while her father slept and the ward grew quiet, Leah opened the book of Psalms for the first time. She didn't understand everything, but she recognised the voices, raw, honest, unfiltered. People who weren't afraid to tell God the truth. And for the first time in her life, she realised she didn't have to hide from God. She could bring Him her fear, her confusion, her questions, her whole heart. And He would meet her there.  
   
-That is the doorway into the Psalms.  
+That is the doorway into the Psalms.  For practical wisdom on daily living, see the overview of Proverbs: [Overview of Proverbs](https://www.wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-proverbs---gods-design-for-skillful-living/)
   
 ## Introduction to Psalms  
   
