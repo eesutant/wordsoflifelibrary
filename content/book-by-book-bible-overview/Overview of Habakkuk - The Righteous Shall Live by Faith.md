@@ -154,7 +154,6 @@ This is God's answer to the problem of evil, injustice, and unanswered prayer. N
 The righteous live by faith, not by sight, not by circumstances, not by human logic, not by cultural trends, not by political power, not by emotional stability. Faith is the lens through which God's people interpret reality. Faith is the anchor that holds them steady when the world shakes. Faith is the posture that trusts God's character even when God's methods are mysterious.
 
 God tells Habakkuk that there are only two ways to live:
-
 - **By pride**, trusting human wisdom, human strength, human reasoning, human systems.
 - **By faith**, trusting God's word, God's character, God's timing, God's sovereignty.
 
@@ -167,23 +166,18 @@ After giving Habakkuk the principle of faith, God turns to the Babylonians, the 
 Each woe reveals a truth Habakkuk desperately needs to hear: **Evil may rise, but evil will fall.** **Injustice may flourish, but injustice will be judged.** **The wicked may seem unstoppable, but their downfall is certain.**
 
 **Woe #1, Greed and Exploitation**
-
 "Woe to him who piles up stolen goods…" (Habakkuk 2:6 NIV)
 
 **Woe #2, False Security**
-
 "Woe to him who builds his house by unjust gain…" (Habakkuk 2:9 NIV)
 
 **Woe #3, Violence and Oppression**
-
 "Woe to him who builds a city with bloodshed…" (Habakkuk 2:12 NIV)
 
 **Woe #4, Shame and Manipulation**
-
 "Woe to him who gives drink to his neighbours…" (Habakkuk 2:15 NIV)
 
 **Woe #5, Idolatry and False Worship**
-
 "Woe to him who says to wood, 'Come to life!'" (Habakkuk 2:19 NIV)
 
 Each woe is a reminder that Babylon's strength is temporary, its pride fragile, and its empire doomed. The very things it trusts - violence, greed, power, idolatry - will become the instruments of its downfall.
@@ -195,7 +189,6 @@ God is telling Habakkuk: _"I see everything. I will judge everything. Evil will 
 Habakkuk's answer from God is not just ancient prophecy; it is a message for every believer who has ever wondered why God allows suffering, injustice, or confusion.
 
 God tells us:
-
 - **Wait for Me.** My timing is perfect.
 - **Trust Me.** My character is unchanging.
 - **Listen to Me.** My word is clear.
@@ -212,15 +205,11 @@ Now, in Chapter 3, something remarkable happens. Habakkuk stops arguing. He stop
 
 And his prayer is not a desperate plea for escape. It is a worshipful, trembling, awe‑filled remembrance of who God is and how God has acted throughout history.
 
-The chapter opens with a tone of reverent fear:
-
-"Lord, I have heard of your fame; I stand in awe of your deeds, Lord. Repeat them in our day, in our time make them known; in wrath remember mercy." (Habakkuk 3:2 NIV)
+The chapter opens with a tone of reverent fear: "Lord, I have heard of your fame; I stand in awe of your deeds, Lord. Repeat them in our day, in our time make them known; in wrath remember mercy." (Habakkuk 3:2 NIV)
 
 This is the prayer of a man who has finally stopped demanding explanations and begun asking for God Himself. Habakkuk remembers God's "fame", His mighty acts in history, and he asks God to do again what He has done before. But he also asks for mercy, because he now understands that God's judgment is not cruel; it is corrective. God's wrath is never divorced from His compassion.
 
-Habakkuk begins to rehearse the great saving acts of God, especially the Exodus, the moment when God revealed His power, His holiness, and His faithfulness in ways no one could deny. He describes God coming from Teman and Mount Paran, poetic references to the region where Israel first encountered God's deliverance. He paints a picture of God striding across the earth with blazing glory:
-
-"His glory covered the heavens, and his praise filled the earth. His splendour was like the sunrise; rays flashed from his hand, where his power was hidden." (Habakkuk 3:3–4 NIV)
+Habakkuk begins to rehearse the great saving acts of God, especially the Exodus, the moment when God revealed His power, His holiness, and His faithfulness in ways no one could deny. He describes God coming from Teman and Mount Paran, poetic references to the region where Israel first encountered God's deliverance. He paints a picture of God striding across the earth with blazing glory: "His glory covered the heavens, and his praise filled the earth. His splendour was like the sunrise; rays flashed from his hand, where his power was hidden." (Habakkuk 3:3–4 NIV)
 
 Habakkuk remembers how God used plague and pestilence to break Egypt's pride, how He shook nations, scattered mountains, and split seas. He remembers how God rolled back the Red Sea and later the Jordan River, making a path for His people when no path existed. He remembers how God caused the sun and moon to stand still in Joshua's day, demonstrating that creation itself bends to God's purposes.
 
@@ -302,9 +291,7 @@ This is the miracle of Chapter 3: Habakkuk's circumstances have not changed. But
 
 ## "So What?": Why Habakkuk Matters Today
 
-Habakkuk is not a book about getting answers. It is a book about learning to trust God when the answers don't make sense. It teaches us that faith is not built on explanations but on the character of God Himself.
-
-When God's actions confuse you, trust His character.
+Habakkuk is not a book about getting answers. It is a book about learning to trust God when the answers don't make sense. It teaches us that faith is not built on explanations but on the character of God Himself. When God's actions confuse you, trust His character.
 
 Habakkuk models four spiritual movements that every believer must learn:
 
@@ -344,9 +331,7 @@ Yet heaven seemed silent.
 
 One night, after leaving the hospital, Jordan sat alone in his car in the dim glow of the parking lot lights. The weight of everything pressed against him until he felt he could barely breathe. He gripped the steering wheel and whispered, not in anger but in exhaustion, _"Lord, I don't understand what You're doing."_
 
-He opened his Bible, not out of discipline, but because he had nowhere else to turn, and his eyes fell on Habakkuk 3:19:
-
-"The Sovereign Lord is my strength; he makes my feet like the feet of a deer; he enables me to tread on the heights." (Habakkuk 3:19 NIV)
+He opened his Bible, not out of discipline, but because he had nowhere else to turn, and his eyes fell on Habakkuk 3:19: "The Sovereign Lord is my strength; he makes my feet like the feet of a deer; he enables me to tread on the heights." (Habakkuk 3:19 NIV)
 
 Jordan stared at the words for a long time. Slowly, he realized that God was not promising to remove the mountain. He was promising to give him **deer's feet**, the ability to climb it. God was not offering escape. He was offering endurance. He was not offering clarity. He was offering strength.
 
@@ -366,4 +351,4 @@ For more references, please see the following:
 
 - [Habakkuk: History is in God's Hands](https://www.raystedman.org/bible-overview/adventuring/habukkuk-history-is-in-gods-hands)
 - [Bible Project: Habakkuk](https://bibleproject.com/guides/book-of-habakkuk/)
-- [The Gospel Coalition - Commentary on Nahum](https://www.thegospelcoalition.org/commentary/habakkuk/)
+- [The Gospel Coalition - Commentary on Habakkuk](https://www.thegospelcoalition.org/commentary/habakkuk/)
