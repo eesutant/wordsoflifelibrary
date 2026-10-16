@@ -325,9 +325,7 @@ Zephaniah begins with ruin but ends with rejoicing. It begins with "I will sweep
 
 ### 6. God Himself Rejoices Over His People
 
-Zephaniah gives one of the most astonishing images in Scripture:
-
-"He will rejoice over you with singing." (Zephaniah 3:17, NIV)
+Zephaniah gives one of the most astonishing images in Scripture: "He will rejoice over you with singing." (Zephaniah 3:17, NIV)
 
 The God who judges is the God who sings. The God who purifies is the God who embraces. The God who confronts is the God who celebrates His people with joy.
 
