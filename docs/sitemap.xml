@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/</loc>
-    <lastmod>2026-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-habakkuk---the-righteous-shall-live-by-faith/</loc>
-    <lastmod>2026-10-08T00:00:00+00:00</lastmod>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-zephaniah---the-purifying-fire-and-the-restoring-song/</loc>
+    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wordsoflifelibrary.org/</loc>
+    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wordsoflifelibrary.org/book-by-book-bible-overview/overview-of-habakkuk---the-righteous-shall-live-by-faith/</loc>
     <lastmod>2026-10-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
