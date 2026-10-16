@@ -79,8 +79,6 @@ Zephaniah's message unfolds in three movements:
 2. **Judgment on the Nations (and Jerusalem again)**
 3. **Hope and Restoration for the Nations and Jerusalem**
 
-This overview now focuses only on **Part 1**, as you requested.
-
 ## Part 1 - The Character and Scope of God's Judgment (Zephaniah 1–2:3)
 
 Zephaniah begins with a shock. The opening lines reverse the beauty of Genesis 1. Where creation brought order out of chaos, Zephaniah warns that Judah's world is about to collapse back into chaos because of entrenched rebellion. The prophet describes a world descending into darkness, disorder, and uninhabitable ruin, a poetic undoing of creation itself.
