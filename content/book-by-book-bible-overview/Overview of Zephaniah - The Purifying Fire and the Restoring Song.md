@@ -311,7 +311,9 @@ The engineer warns because she wants you to live. Zephaniah warns because God wa
 
 ### 3. Spiritual Complacency Is More Dangerous Than External Threats
 
-Judah feared Babylon, but their real danger was indifference. They "bow down and swear by the Lord and also by Milcom" (Zephaniah 1:5, NIV). Mixed devotion is a cracked foundation. Zephaniah exposes the quiet drift that leads to collapse, divided worship, shallow repentance, and comfortable compromise.
+Judah feared Babylon, but their real danger was indifference. "I will stretch out my hand against Judah and against all who live in Jerusalem. I will destroy every remnant of Baal worship in this place, the very names of the idolatrous priests, those who bow down on the roofs to worship the starry host,  those who bow down and swear by the Lord and who also swear by Molek," (Zephaniah 1:4-5, NIV). 
+
+Mixed devotion is a cracked foundation. Zephaniah exposes the quiet drift that leads to collapse, divided worship, shallow repentance, and comfortable compromise.
 
 ### 4. God's Judgment Is Purposeful, Not Vindictive
 
