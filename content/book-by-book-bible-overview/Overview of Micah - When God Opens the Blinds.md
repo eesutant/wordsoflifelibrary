@@ -1,5 +1,5 @@
 ---
-title: Overview of Micah - When God Opens the Blinds 🟢 NEW
+title: Overview of Micah - When God Opens the Blinds
 description: A compelling overview of the Book of Micah, revealing how God exposes hidden sin, calls His people to justice, mercy, and humility, and offers hope through the promised Messiah.
 categories:
   - Biblical_Overview
@@ -7,7 +7,7 @@ categories:
   - Micah_Commentary
   - Bible_Study
   - Prophetic_books
-  - Faitn_and_Spiritual_Growth
+  - Faith_and_Spiritual_Growth
   - Theology
 tags:
   - Micah
@@ -28,7 +28,7 @@ keywords:
   - Minor_Prophet_Overview
   - Reluctant_Prophet
   - Old_Testament_Prophet
-  - Micah_6-8_Meaning
+  - Judgment_and_Restoration
   - Biblical_Hope
   - Micah_in_the_Bible
 date: 2026-09-24
