@@ -1,5 +1,5 @@
 ---
-title: Overview of Nahum - The God Who Will Not Be Mocked 🟢 NEW
+title: Overview of Nahum - The God Who Will Not Be Mocked
 description: An engaging overview of the Book of Nahum, revealing God's righteous judgment against evil, His justice toward oppressors, and His refuge for those who trust in Him.
 categories:
   - Biblical_Overview
