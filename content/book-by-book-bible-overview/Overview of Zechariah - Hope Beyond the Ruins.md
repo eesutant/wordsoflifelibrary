@@ -88,7 +88,7 @@ For readers today, this vision offers profound comfort. There are seasons when h
 
 ### God Rules Over Every Human Power
 
-The second vision presents four horns symbolizing the nations that scattered and oppressed Israel. These powers had appeared invincible when they conquered God's people. Yet Zechariah then sees craftsmen who come to shatter the horns and bring their influence to an end. The message would have encouraged a small and vulnerable community living under foreign domination. Assyria had once appeared unstoppable. Babylon seemed even more powerful. Yet both ultimately fell because no kingdom stands beyond God's authority.
+The second vision presents four horns symbolizing the nations that scattered and oppressed Israel. These powers had appeared invincible when they conquered God's people. Yet Zechariah then sees craftsmen who come to shatter the horns and bring their influence to an end. Like Assyria and Babylon, those empires were themselves scattered by a group of blacksmiths, an image of Persia. The message would have encouraged a small and vulnerable community living under foreign domination. Assyria had once appeared unstoppable. Babylon seemed even more powerful. Yet both ultimately fell to Persia, because no kingdom stands beyond God's authority.
 
 The same principle remains relevant today. We can easily feel overwhelmed by governments, institutions, economic uncertainty, social pressures, or world events that seem completely beyond our control. Zechariah reminds us that no earthly power is ultimate. Nations rise and fall, leaders come and go, but God remains sovereign over them all. History is not being directed by the strongest empire but by the Lord of hosts, who rules over all the powers of heaven and earth.
 
