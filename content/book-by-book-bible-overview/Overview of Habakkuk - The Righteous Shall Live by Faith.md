@@ -1,5 +1,5 @@
 ---
-title: Overview of Habakkuk - The Righteous Shall Live by Faith 🟢 NEW
+title: Overview of Habakkuk - The Righteous Shall Live by Faith
 description: A deeply expanded, narrative‑driven overview of the book of Habakkuk, exploring his struggle with injustice, God’s surprising answers, and the journey from fear to faith through poetic lament and triumphant trust.
 categories:
   - Biblical_Overview
