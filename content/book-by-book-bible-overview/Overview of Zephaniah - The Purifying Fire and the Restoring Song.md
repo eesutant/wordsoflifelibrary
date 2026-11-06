@@ -1,5 +1,5 @@
 ---
-title: Overview of Zephaniah - The Purifying Fire and the Restoring Song 🟢 NEW
+title: Overview of Zephaniah - The Purifying Fire and the Restoring Song
 description: A vivid, hope‑filled overview of Zephaniah showing how God’s purifying judgment leads to restoration, unity, and divine joy.
 categories:
   - Biblical_Overview
