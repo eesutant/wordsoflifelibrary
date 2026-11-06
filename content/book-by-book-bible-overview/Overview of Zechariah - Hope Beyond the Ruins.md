@@ -281,3 +281,11 @@ As readers, we often find ourselves standing where those exiles once stood. The 
 The message of the book is not that life will always make sense, nor that God's plans will always unfold quickly. Rather, it is that God knows exactly what He is building. The humble King has come, the Shepherd has given His life for the flock, the Spirit is still at work, and the day is coming when God's kingdom will be fully revealed. Until then, believers are called to live faithfully, trusting that every promise of God moves steadily toward fulfillment.
 
 When we finish reading Zechariah, we are left with the assurance that history is neither random nor abandoned. The Architect is still at work. The King is still reigning. The Kingdom is still coming. And one day, what now appears unfinished will be revealed as part of a design so magnificent that we will finally understand why God asked us to trust Him all along.
+
+## Resources
+
+For more references, please see the following:
+
+- [Zechariah: You Return to Me ... I'll Return to You!](https://www.raystedman.org/bible-overview/adventuring/zechariah-you-return-to-me--ill-return-to-you)
+- [Bible Project: Zechariah](https://bibleproject.com/guides/book-of-zechariah/)
+- [The Gospel Coalition - Commentary on Zechariah](https://www.thegospelcoalition.org/commentary/zechariah/)
