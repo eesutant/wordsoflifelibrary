@@ -34,6 +34,7 @@ keywords:
   - God_Silence_is_not_Absent
   - Herod_the_Great
   - Septuagint_Translation
+  - Dead_Sea_Scroll
 date: 2026-11-14
 draft: false
 featureImage: /img/default-feature.jpg
@@ -89,7 +90,7 @@ Under the Egyptian ruler Ptolemy II around 284 BC, Jewish communities had grown 
 ### 2. The Rise of Local Synagogues.
 With Jewish families scattered across Egypt, Syria, Asia Minor, and Greece, a dispersion known as the **Diaspora**, most could no longer travel regularly to the Jerusalem temple for worship. In response, local **synagogues** (gathering houses for prayer, community life, and the public reading of Scripture) flourished in cities across the Mediterranean. By the time Jesus began His public ministry, the synagogue was the centre of everyday Jewish spiritual life and later provided the apostle Paul with ready-made audiences of Jews and God-fearing Gentiles in nearly every city he visited (Acts 17:1–2, NIV).
 
-### Pause and Reflect: Why This Matters for Reading the New Testament?**
+### Pause and Reflect: Why This Matters for Reading the New Testament?
 
 Many Christians move directly from Malachi to Matthew without realizing that the world of the New Testament was shaped by developments during these four centuries.
 
