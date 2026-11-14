@@ -171,7 +171,7 @@ It did not begin with the trumpet blast of an earthly army or the coronation of 
 
 Soon afterward, the same angel appeared in the obscure Galilean town of Nazareth to a young virgin named **Mary**, calming her fear with the assurance that she had found favor with God and would conceive and give birth to a Son who would reign over Jacob's descendants forever (Luke 1:30–33, NIV). The child she would bear was no ordinary ruler, He was Jesus Christ, the promised Messiah, the eternal Son of God.
 
-**So What? Why Those Four Silent Centuries Matter Today**
+## So What? Why Those Four Silent Centuries Matter Today
 
 It is tempting for modern readers to treat the blank page between Malachi and Matthew as an awkward pause, an empty hallway separating the two halves of the Bible. In reality, skipping those 400 years is like walking into the final season of a gripping drama without watching the episodes that set up every conflict, rivalry, and turning point.
 
