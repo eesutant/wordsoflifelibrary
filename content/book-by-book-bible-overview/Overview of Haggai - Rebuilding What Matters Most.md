@@ -1,5 +1,5 @@
 ---
-title: Overview of Haggai - Rebuilding What Matters Most 🟢 NEW
+title: Overview of Haggai - Rebuilding What Matters Most
 description: An overview of the Book of Haggai, exploring God's call to His people to prioritize His kingdom, rebuild the temple, and renew their commitment to faithful obedience.
 categories:
   - Biblical_Overview
