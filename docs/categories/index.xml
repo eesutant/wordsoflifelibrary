@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsoflifelibrary.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bible_Study</title>
-      <link>https://wordsoflifelibrary.org/categories/bible_study/</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Bible_Study_Resources</title>
+      <link>https://wordsoflifelibrary.org/categories/bible_study_resources/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://wordsoflifelibrary.org/categories/bible_study/</guid>
+      <guid>https://wordsoflifelibrary.org/categories/bible_study_resources/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Biblical_History</title>
+      <link>https://wordsoflifelibrary.org/categories/biblical_history/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/biblical_history/</guid>
       <description></description>
       
     </item>
@@ -22,9 +32,59 @@
     <item>
       <title>Biblical_Overview</title>
       <link>https://wordsoflifelibrary.org/categories/biblical_overview/</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/biblical_overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Intertestamental_Period</title>
+      <link>https://wordsoflifelibrary.org/categories/intertestamental_period/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/intertestamental_period/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New_Testament_Background</title>
+      <link>https://wordsoflifelibrary.org/categories/new_testament_background/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/new_testament_background/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Old_testament_Studies</title>
+      <link>https://wordsoflifelibrary.org/categories/old_testament_studies/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/old_testament_studies/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Theology</title>
+      <link>https://wordsoflifelibrary.org/categories/theology/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/theology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bible_Study</title>
+      <link>https://wordsoflifelibrary.org/categories/bible_study/</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://wordsoflifelibrary.org/categories/bible_study/</guid>
       <description></description>
       
     </item>
@@ -65,16 +125,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/old_testament_prophets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Theology</title>
-      <link>https://wordsoflifelibrary.org/categories/theology/</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/theology/</guid>
       <description></description>
       
     </item>
@@ -305,16 +355,6 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://wordsoflifelibrary.org/categories/joel_commntary/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Old_testament_Studies</title>
-      <link>https://wordsoflifelibrary.org/categories/old_testament_studies/</link>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://wordsoflifelibrary.org/categories/old_testament_studies/</guid>
       <description></description>
       
     </item>
