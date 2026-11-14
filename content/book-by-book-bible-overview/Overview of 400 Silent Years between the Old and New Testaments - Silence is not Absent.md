@@ -39,7 +39,7 @@ date: 2026-11-14
 draft: false
 featureImage: /img/default-feature.jpg
 ---
-Overview of 400 Silent Years between the Old and New Testaments - Silence is not Absent
+Adapted from insights by Ray C. Stedman and other biblical reflections. 
 
 ## Introduction
 
