@@ -1,5 +1,5 @@
 ---
-title: Overview of Zechariah - Hope Beyond the Ruins 🟢 NEW
+title: Overview of Zechariah - Hope Beyond the Ruins
 description: A comprehensive overview of the Book of Zechariah, exploring God's promises, the night visions, the coming Messiah, future restoration, and the hope of God's kingdom amid life's unfinished realities.
 categories:
   - Biblical_Overview
