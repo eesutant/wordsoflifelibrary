@@ -42,8 +42,7 @@ Adapted from insights by Ray C. Stedman and other biblical reflections.
 ## Opening Story
 
 Imagine arriving in a country that has spent centuries waiting for a king. The stories are everywhere. Elderly parents tell them to their children. Teachers repeat them from ancient writings. Worshipers sing about them in their prayers. Long ago, God promised that one day He would send a ruler who would set everything right. He would defeat evil, rescue God's people, and bring God's blessing to the nations.
-
-But the years pass. Then the decades. Then the centuries. Empires rise and fall. Wars are fought. Generations are born and die. Some people still believe the promises. Others quietly wonder whether God has forgotten them.
+ But the years pass. Then the decades. Then the centuries. Empires rise and fall. Wars are fought. Generations are born and die. Some people still believe the promises. Others quietly wonder whether God has forgotten them.
 
 If you had walked through Israel in the days before Jesus, you would have met people carrying different kinds of burdens. Some lived under the crushing weight of Roman occupation. Some were exhausted by poverty. Others were trapped by guilt, shame, sickness, or grief. Many were deeply religious but no closer to God than before. Everyone seemed to know that something was wrong with the world, yet no one seemed able to fix it.
 
