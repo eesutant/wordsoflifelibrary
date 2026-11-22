@@ -25,7 +25,7 @@ keywords:
   - Malachi_Overview
   - Book_of_Malachi_Summary
   - Malachi_Bible_Study
-  - Malacgi_Study_Guide
+  - Malachi_Study_Guide
   - Minor_Prophet_Overview
   - Malachi_and_Jesus
   - Old_Testament_Prophecy
