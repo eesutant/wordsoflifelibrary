@@ -226,5 +226,5 @@ That is the journey awaiting us in **Part 2**.
 For more references, please see the following:
 
 - [Matthew: Behold Your King!](https://www.raystedman.org/bible-overview/adventuring/matthew-behold-your-king)
-- [Bible Project: Matthew Part 1](https://bibleproject.com/videos/matthew-1-13/))
+- [Bible Project: Matthew Part 1](https://bibleproject.com/videos/matthew-1-13/)
 - [The Gospel Coalition - Commentary on Matthew](https://www.thegospelcoalition.org/commentary/matthew/)
