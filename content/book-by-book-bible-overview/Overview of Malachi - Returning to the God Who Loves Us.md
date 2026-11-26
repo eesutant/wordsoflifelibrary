@@ -1,5 +1,5 @@
 ---
-title: Overview of Malachi - Returning to the God Who Loves Us 🟢 NEW
+title: Overview of Malachi - Returning to the God Who Loves Us
 description: An in-depth overview of Malachi, the last book of the Old Testament, exploring spiritual drift, covenant faithfulness, the coming Messiah, and God's call to return to Him in wholehearted devotion.
 categories:
   - Biblical_Overview
